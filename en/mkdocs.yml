@@ -6,8 +6,19 @@ docs_dir: src
 site_dir: ../docs/en
 
 nav:
-    - Über lernOS: index.md
-    - Grundlagen: 1-Basics.md
+    - About lernOS: index.md
+    - Basics: 1-Basics.md
+    - Learning Pathway:
+        - Learning Pathway Overview: 2-0-Learning-Pathway.md
+        - Learning area 1 - Get to know: 2-1-Learning-area-1.md
+        - Learning area 2 - Topic interest: 2-1-Learning-area-2.md
+        - Learning area 3 - ePortfolio tools: 2-1-Learning-area-3.md
+        - Learning area 4 - Topic article and learning reflection: 2-1-Learning-area-4.md
+        - Learning area 5 - Networking: 2-1-Learning-area-5.md
+        - Learning area 6 - Topic plan: 2-1-Learning-area-6.md
+        - Learning area 7 - Feedback / Lessons learned: 2-1-Learning-area-7.md
+    - Lessons Learned: 3-Lessons-Learned.md
+    - Appendix: 4-Appendix.md
 
 theme:
     name: 'material'

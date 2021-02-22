@@ -6,7 +6,7 @@ REM See lernOS Core Repository
 
 REM Variables
 set filename="lernOS-ePortfolio-Guide-en"
-set chapters=./src/index.md ./src/1-Basics.md
+set chapters=./src/index.md ./src/1-Basics.md ./src/2-0-Learning-Pathway.md ./src/2-1-Learning-area-1.md ./src/2-1-Learning-area-2.md ./src/2-1-Learning-area-3.md ./src/2-1-Learning-area-4.md ./src/2-1-Learning-area-5.md ./src/2-1-Learning-area-6.md ./src/2-1-Learning-area-7.md ./src/3-Lessons-Learned.md ./src/4-Appendix.md
 
 REM Delete Old Versions
 echo Deleting old versions ...
