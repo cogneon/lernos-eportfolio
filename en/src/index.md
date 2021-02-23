@@ -1,17 +1,17 @@
-# Über lernOS
+# About lernOS
 
-lernOS ist eine Methode zur Selbstorganisation für Menschen, die im 21. Jahrhundert leben und arbeiten. Um heute erfolgreich zu sein, muss man ständig lernen, sich organisieren und weiterentwickeln. Niemand sonst ist für diesen Prozess verantwortlich. Man muss sich selber darum kümmern (selbstgesteuertes, lebenslanges Lernen).
+lernOS is a method of self-organization for people living and working in the 21st century. To be successful today, you need to be constantly learning, organizing and developing. No one else is responsible for this process. You have to take care of it yourself (self-directed, lifelong learning).
 
-lernOS Leitfäden stehen unter der Lizenz [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY 4.0): 
+lernOS guides are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY 4.0): 
 
 ![](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
-**Du darfst:**
+You may:
 
-* **Teilen** - das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten.
-* **Bearbeiten** - das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+* **Share** - reproduce and redistribute the material in any format or medium.
+* **Edit** - remix, modify and build upon the material for any purpose, even commercially.
 
-**Unter folgenden Bedingungen:**
+**Under the following conditions:**
 
-- **Namensnennung** - Du musst angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
-- **Keine weiteren Einschränkungen** - Du darst keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+- **Name attribution** - you must provide appropriate copyright and rights notices, include a link to the license, and indicate if any modifications have been made. These disclosures may be made in any reasonable manner, but not in such a way as to give the impression that the licensor is particularly supportive of you or your use.
+- **No Other Restrictions** - You may not use any additional clauses or technical procedures that legally prohibit others from doing anything that the License permits.
