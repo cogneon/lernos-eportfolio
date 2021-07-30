@@ -1,39 +1,3 @@
-# Introduction
-When six of us started our first lernOS Circle in September 2019, it was
-not yet clear where this learning journey would lead us finally. But we
-were aware that we wanted to connect this experiment with something that
-could give something back to others who would try it after us.
-
-![](./images/image1.jpg)
-
-Basically each of us had his own topic that he pursued during the circle
-time. Nevertheless, the shared experience of supporting each other and
-exchanging information online enabled us to make good progress on all of
-our topics.
-
-Therefore the decision was made relatively quickly to continue with
-three of us after the Circle and to create two own guides (Circle
-Guides), which should enable others to gain these experiences themselves
-through various innovative learning methods. So in the end one of these
-two guides was created and we hope that it can accompany you well on
-your learning journey.
-
-**Central objectives of this ePortfolio Learning Guide**
-
-This Circle Guide would like to show you a learning method with which
-you can continue your education in an exciting future topic and exchange
-and network with other learners.
-
-You will be able to learn a basic and overview knowledge of the
-ePortfolio method and Social Software.
-
-At the same time you will build or further develop your own ePortfolio
-with a suitable software and work out a detailed understanding of an
-exciting topic with others.
-
-We are already looking forward to your field reports and wish you a lot
-of fun!
-
 # Basics
 In the beginning:
 If you are thinking about doing this Circle, you might want to have a
