@@ -1,168 +1,86 @@
-## Learning area 3 - ePortfolio tools
+## Lernbereich 3 - ePortfolio-Werkzeuge
 
-**Selection of ePortfolio tool and further development of the topic (weeks 4-5)**
+**Auswahl des ePortfolio-Werkzeugs und Weiterentwicklung des Themas (Wochen 4-5)**
 
-Structure:
+Struktur:
 
-*Week 4*
+*Woche 4*
 
-A) Present possible further development of the topic
-B) Have a look on the curated ePortfolio tool list and exchange possible
-experiences with a tool
-C) Distribution among the circle members (each one a tool for a closer look)
+- A) Mögliche Themenweiterentwicklung vorstellen
+- B) Kuratierte ePortfolio-Werkzeugliste anschauen und Austausch über mögliche Erfahrungswerte mit einem Tool
+- C) Aufteilung auf die Circle-Mitglieder (jeder ein Tool zum genaueren Anschauen)
 
-*Week 5*
+*Woche 5*
 
-D) Presentation of the tool findings by means of a tool arena
-E) Exchange pros and cons in the group
-F) Decide (at the meeting or during the week) which tool you want to
-use for your ePortfolio and why
+- D) Vorstellung der Tool-Erkenntnisse anhand einer Tool-Arena
+- E) Pro und Contra in der Gruppe austauschen
+- F) Entscheidung (beim Treffen oder im Laufe der Woche), welches Tool man warum für sein ePortfolio nutzen möchte
 
 ![Sketchnote Experiment with different ePortfolio tools from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image12.jpeg)
 
-### Week 4 - Variety of tools
+### Woche 4 - Vielfalt der Werkzeuge
 
-**A) Present possible further development of the topic** | (approx. 15 Minuten)
+**A) Mögliche Themenweiterentwicklung vorstellen** | (ca. 15 Minuten)
 
-In this week you should complete your subject / topic of interest in the
-first glance and reach a finalized first version for you. You can use
-the time together in the circle to present the last developments or
-adjustments based on the received feedback to the others. You dont
-have to do that this time but you can also ask the others to look at
-your final version during the week. Surely some of you will have an idea
-that might be discussed in the circle.
+In dieser Woche sollt Ihr Euer Thema / Themeninteresse vorerst abrunden und eine finalisierte erste Version für Euch erreicht haben. Dafür könnt Ihr die Zeit im Circle gemeinsam nutzen, um den anderen noch letzte Weiterentwicklungen oder Anpassungen auf der Basis des erhaltenen Feedbacks vorzustellen. Das müsst Ihr diesmal nicht alle im Circle tuen, sondern könnt die anderen auch bitten, im Laufe der Woche über Euren finalen Stand zu schauen. Sicherlich hat der eine oder andere aber noch eine Idee, die in der Runde eventuell thematisiert werden soll.
 
-*If applicable ask yourself the following question: What do you think are the basic characteristics of a good ePortfolio and what basic functionalities should it have? (see also Basics)*
+*tellt Euch ggf. ergänzend die Frage: Was zeichnet für Euch grundsätzlich ein gutes ePortfolio aus und welche Grundfunktionalitäten sollte es mitbringen? (siehe dazu auch Grundlagen)*
 
-**B) Have a look on the curated ePortfolio tool list and exchange possible experiences with a tool** | (approx. 25 minutes)
+**B) Kuratierte ePortfolio-Werkzeugliste anschauen und Austausch über mögliche Erfahrungswerte mit einem Tool** | ( ca. 25 Minuten)
 
-Have a look at the following list of recommendations and exchange ideas
-about who already knows which tool or has first experiences with it.
+Schaut Euch kurz zusammen die nachfolgende Empfehlungsliste an und tauscht Euch kurz darüber aus, wer welches Tool vielleicht schon kennt oder erste Erfahrungswerte damit hat.
 
-Top 10 list of recommended ePortfolio tools by the guide authors (in any
-order)
+Top 10 Liste empfohlener ePortfolio-Werkzeuge von den Guide-Autoren (beliebige Reihenfolge
 
--   [Padlet](https://padlet.com/) -- simple, quick to set up pinboard
-    with different pre-configured designs and formats. Very
-    comfortable to use and to share and collaborative fillable. 3
-    padlets are free per user. Simple tool, very popular also e.g. for
-    schools.
+- [Padlet](https://padlet.com/) – einfaches, schnell aufsetzbares Pinboard mit unterschiedlichen vorkonfigurierten Designs und Formaten. Sehr komfortabel zu bedienen und zu teilen und kollaborativ befüllbar. 3 Padlets sind kostenlos pro User. Einfaches Tool, sehr beliebt auch z.B. für den Bereich Schule.
+- [Mahara](https://mahara.de/) - wohl das bekannteste ePortfolio Werkzeug, das besonders in Schulen und Universitäten beliebt ist. Für Bildungseinrichtungen bis 100 Personen kostenlos. Große Funktionsvielfalt mit Portfolio (Ansichten, Dateisammlung, Lerntagebüchern), Gruppen, Foren, Profil mit Lernzielen- und Plänen
+- [Wordpress](https://de.wordpress.org/) – eines der bekanntesten Open Source CMS-Systeme, das sehr erfolgreich für Weblogs und Homepages eingesetzt wird. Mit sehr vielen Themes und Add-ons. Gut und komfortabel bedienbar.
+- [PebblePad](https://www.pebblepad.co.uk/) - kommerzielles ePortfolio-Werkzeug mit umfangreichem Funktionsumfang, anpassbaren Templates und externen App-Integrationen
+- [OneNote](https://products.office.com/de-de/onenote/digital-note-taking-app) - Standardtool von Microsoft, das entweder frei (bis zu 5GB Daten) als auch kommerziell über Education- und Business- Lizenzen lizenzierbar ist. Sehr beliebt im schulischen Umfeld, bei dem es im digitalen Unterricht bereits genutzt werden darf (Cloud- Technologie). Sehr flexibel einsetzbar und wird ständig erweitert und verbessert. Integrierbar in das Office 365-Ökosystem.
+- [Connections](https://de.wikipedia.org/wiki/HCL_Connections) - Enterprise Social Networking-Plattform der Firma HCL (ehemals von IBM bereitgestellt), das über ein internes Community-Konzept mit Blog-, Wiki- und Forums-Modul, die transparente Aufbereitung und Gestaltung eines ePortfolios fördert
+- [LinkedIn](https://www.linkedin.com/) / [Xing](https://www.xing.com) als ePortfolio Online-Profilwerkzeuge mit Social Networking-Fokus, um sich fachlich zu präsentieren und mit anderen Netzwerk-Mitgliedern auszutauschen
+- [Twitter](https://twitter.com) als netzwerkbasiertes Microblogging-Werkzeug, um kurze Informationen und hilfreiche Links zu präsentieren und sich mit anderen Followern via Hashtags auszutauschen
+- Kombinierte Variante aus OneNote und Connections (unternehmensinterner Lösungsansatz)
+- Kombinierte Variante aus Wordpress, Twitter und LinkedIn / Xing (externer Lösungsansatz)
 
--   [Mahara](https://mahara.de/) -- probably the most established
-    ePortfolio tool, especially popular in schools and universities.
-    Free for educational institutions up to 100 persons. Wide range of
-    functions with portfolio (views, file collection, learning
-    diaries), groups, forums, profile with learning goals and plans.
+Wir empfehlen Euch insbesondere auch, über mögliche Tool-Kombinationen nachzudenken, da sie aus funktionaler Sicht die meisten Mehrwerte bei der Erstellung und Veröffentlichung Eurer Beiträge bieten können.
 
--   [Wordpress](https://de.wordpress.org/) -- One of the best known Open
-    Source CMS systems which is used very successfully for weblogs and
-    homepages. With many themes and add-ons. Good and comfortable to
-    use.
+**C) Aufteilung auf die Circle-Mitglieder** | (ca. 20 Minuten)
 
--   [PebblePad](https://www.pebblepad.co.uk/) - commercial ePortfolio
-    tool with extensive functionality, customizable templates and
-    external app integrations
+Entscheidet gemeinsam, wer sich im Laufe der Woche mit welchem Werkzeug genauer beschäftigen möchte. Wählt dabei bevorzugt jeweils ein Tool aus und überlegt Euch, erste Kriterien, die für Euch besonders wichtig wären, um eine Einschätzung über die Nutzbarkeit als ePortfolio geben zu können. Ggf. macht es auch Sinn, sich anhand der am Ende der Liste empfohlenen Tool-Kombinationen aufzuteilen und dann bis zur Folgewoche die Analysen zusammenzutragen.
 
--   [OneNote](https://products.office.com/de-de/onenote/digital-note-taking-app) -
-    Standard tool from Microsoft which can be licensed either freely
-    (up to 5GB of data) or commercially via educational and business
-    licenses. Very popular in school environments where it can already
-    be used in digital lessons (cloud technology). Very flexible in
-    use and is constantly being expanded and improved. Can be
-    integrated into the Office 365 ecosystem.
+Basic-Kata für diese Woche (ca. 1 Stunde):
 
--   [Connections](https://de.wikipedia.org/wiki/HCL_Connections) -
-    Enterprise social networking platform from HCL (formerly provided
-    by IBM) which promotes the transparent preparation and design of
-    an ePortfolio via an internal community concept with blog, wiki
-    and forum module
-
--   [LinkedIn](https://www.linkedin.com/) / [Xing](https://www.xing.com)
-    as ePortfolio online profile tools with social networking focus to
-    present yourself professionally and exchange information with
-    other network members
-
--   [Twitter](https://twitter.com) as network-based microblogging tool
-    to present short information and helpful links and to exchange
-    with other followers via hashtags
-
--   Combined version of **OneNote** and **Connections** (internal
-    company solution)
-
--   Combined version of **Wordpress**, **Twitter** and **LinkedIn / Xing** (external solution)
-
-We especially recommend that you also think about possible tool
-combinations. Because from a functional point of view they can offer the
-most added value when creating and publishing your contributions.
-
-**C) Distribution among the circle members (each one a tool for a closer look** | (approx. 20 Minuten)
-
-Decide together who would like to take a closer look at
-which tool in the course of the week. Choose one tool at a time and
-think about the first criteria that would be especially important for
-you to be able to give an assessment of the usability as an ePortfolio.
-It might also make sense to split up according to the tool combinations
-recommended at the end of the list and then collect the analyses by the
-following week.
-
-Basic kata for this week (approx. 1 hour):
-
-Select an ePortfolio tool from the orientation list and experiment with
-it until the following week, when you briefly introduce it to the
-others. Below you will find a small tool template that you can use as an
-orientation and fill out to present it to your Circle members next week.
-Helpful criteria can be, for example, user-friendliness (usability) and
-click paths, possible costs, suitable application scenarios as well as
-dialogue and feedback possibilities.
+Wähle ein ePortfolio-Werkzeug aus der Orientierungs-Liste aus und experimentiere damit bis zur Folgewoche, in der Du es den anderen dann kurz vorstellst. Nachfolgend findet Ihr eine kleine Tool-Schablone, die Ihr dafür als Orientierung nutzen und ausfüllen könnt, um sie kommende Woche Euren Circle-Mitgliedern vorzustellen. Hilfreiche Kriterien können zum Beispiel Benutzerfreund-lichkeit (Usability) und Klickwege, mögliche Kosten, passende Anwendungsszenarien sowie Dialog- und Feedback-Möglichkeiten sein.
 
 | **Tool**                     | **Description and criteria**                                 | **+ good / - bad**                                           | **My recommendation**                                        |
 | ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Example: *Microsoft OneNote* | Mix of videos and screenshots that I have embedded in my text. Various thematically different notebooks Topic: Learning hacks | + comfortable embedding of media (videos, wakelet, office etc.)<br /><br />+ structuring easily possible<br /><br />- unwieldy for larger groups (compared to blog etc.) | I would use the tool to work out topics for myself. I would share the notebooks in small groups and develop them further with my colleagues. |
 | ...                          | ...                                                          | ...                                                          | ...                                                          |
+Vertiefungs-Kata (ca. 1 bis 2 Stunden): Stellt eine vergleichende Toolanalyse für zwei der favorisierten Werkzeuge auf, die Ihr dann den anderen präsentierst. So könnt Ihr noch besser gemeinsam eine Entscheidung treffen.
 
-Advanced kata (approx. 1 to 2 hours): Make a comparative
-tool analysis for two of your favorite tools which you then present to
-the others. This way you can make a better decision together.
-As an orientation guide the preparation with regard to the [8C-model for collaborative technologies](http://bas.uni-koblenz.de/bas/publications_light.nsf/9419ff0c508bbae8c1257219004fef63/e71c2845ef894202c1257b45003f4934/$FILE/E2.0-collaborative-technologies.pdf)
-from Susan Williams (2011) can serve here (see also the following PDF).
+Als Orientierungshilfe kann Euch hierbei die Aufbereitung anhand des [8C-model for collaborative technologies](http://bas.uni-koblenz.de/bas/publications_light.nsf/9419ff0c508bbae8c1257219004fef63/e71c2845ef894202c1257b45003f4934/$FILE/E2.0-collaborative-technologies.pdf) von Susan Williams (2011) der Universität Koblenz-Landau dienen.
 
-### Week 5 - Tool selection
+### Woche 5 - Werkzeug-Auswahl
 
-**D) Presentation of the tool findings by means of a tool arena** | (approx. 25 minutes)
+**D) Vorstellung der Tool-Erkenntnisse anhand einer Tool-Arena** | (ca. 25 Minuten)
 
-Present your findings about the tools you tried out to each
-other today.
+Stellt Euch heute Eure Erkenntnisse über die ausprobierten Werkzeuge gegenseitig vor.
 
-Our recommendation: Compare about five essential core functions of the
-respective ePortfolio tool which you will compete with each other in
-the circle. Which one offers which advantages? This will give you a
-quick insight into the variety of tools.
+Unsere Empfehlung dazu: Vergleicht ca. fünf wesentliche Kernfunktionen des jeweiligen ePortfolio-Werkzeugs, die ihr im Circle gegeneinander "antreten" lasst. Welches bietet welche Vorteile? Dadurch erlangt Ihr einen schnellen Einblick in die Werkzeugvielfalt.
 
-**E) Exchange pros and cons in the group** | (approx. 25 minutes)
+**E) Pro und Contra in der Gruppe austauschen** | (ca. 25 Minuten)
 
-During the arena rounds please exchange which pros and cons
-there are for which ePortfolio tool and keep them in a comparison (e.g.
-as a table).
+Tauscht Euch im Rahmen der Arena-Runden aus, welche Pro- und Contra-Argumente es für welches ePortfolio-Werkzeug gibt und haltet diese am besten in einer Gegenüberstellung (z.B. als Tabelle) fest.
 
-**F) Decide at the meeting or during the week which tool you want to use for your ePortfolio and why** | (approx 10 minutes)
+**F) Entscheidung, welches Tool man warum für sein ePortfolio nutzen möchte** | (ca. 10 Minuten)
 
-Try to make a decision during the circle meeting as to
-which ePortfolio tool or combination is most suitable for you and share
-it with the others. If you are still a bit uncertain you can continue to
-think about it during the week and use the recommendations of the others
-to get clarity for yourself. In any case, please let the others know
-which tool or combination you have chosen. This doesnt have to be
-final but it is important for the beginning to be able to get started.
+Versucht noch während des Circle-Treffens eine Entscheidung zu treffen, welches ePortfolio-Werkzeug oder welche Kombination am ehesten für Euch in Frage kommt und teilt diese gerne den anderen mit. Wenn Ihr noch etwas unsicher seid, könnt Ihr Euch auch im Laufe der Woche weiter Gedanken machen und die Empfehlungen der anderen nutzen, um für Euch Klarheit zu bekommen. Teilt aber in jedem Fall den anderen mit, für welches Tool oder welche Kombination Ihr Euch entschieden habt. Dies muss nicht endgültig sein, aber für den Anfang ist das wichtig, um einfach loslegen zu können.![image](https://user-images.githubusercontent.com/8386676/127642614-419a18b0-53de-45a1-9076-e587393f6957.png)
 
-Basic kata for this week (approx. 1 hour):
+Basic-Kata für diese Woche (ca. 1 Stunde):
 
-Make the final decision for the ePortfolio tool or tool combination you
-would like to use from now on. Search for valuable short explanatory
-videos or links for using your favorite ePortfolio tool and share them
-online. This can be a good further orientation and decision support for
-those who are still undecided.
+Trefft die finale Entscheidung für das ePortfolio-Werkzeug oder die Tool-Kombination, die Ihr gerne ab jetzt nutzen möchtet. Sucht wertvolle kurze Erklärvideos oder Links für die Nutzung Eures bevorzugten ePortfolio-Werkzeugs und stellt diese den anderen online bereit. Dies kann eine gute weiterführende Orientierung und Entscheidungshilfe für die noch Unentschlossenen sein.
 
-Advanced video kata (approx. 1 to 2 hours):
+Vertiefungs-Video-Kata (ca. 1 bis 2 Stunden):
 
-Create a short recommendation video for the others why you chose your
-ePortfolio tool or your tool combination.
+Erstellt ein kurzes Empfehlungsvideo für die anderen, warum Ihr Euch für Euer ePortfolio-Werkzeug oder Eure Tool-Kombination entschieden habt.
