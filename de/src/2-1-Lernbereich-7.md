@@ -6,11 +6,9 @@ Struktur:
 
 *Abschlusswoche 12*
 
-A) Brief instructions for feedback motivation and reflection
-
-B) Continued exchange of topics and collecting ideas for community
+- A) Brief instructions for feedback motivation and reflection
+- B) Continued exchange of topics and collecting ideas for community
 expansion
-
 C) Lessons learned: discuss successes and challenges as well as possible
 next steps
 
