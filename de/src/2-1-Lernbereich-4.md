@@ -23,8 +23,6 @@ F) Learning reflection round of the last two weeks
 
 ### Week 6 - Investigation and reflection
 
-![Sketchnote Preparation and publication of first contents from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image13.jpeg)
-
 **A) Searching and reading of first sources (Seeking method)** | (approx. 20 minutes)
 
 After the tool selection for ePortfolios in the past two weeks, the
