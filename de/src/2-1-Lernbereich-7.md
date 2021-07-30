@@ -1,95 +1,63 @@
 ## Learning area 7 - Feedback / Lessons learned
 
-**Encourage feedback and exchange about the ePortfolio topics as well as lessons learned (Week 12)**
+**Fördern des Feedbacks und Austausch über die Themen im ePortfolio sowie Lessons learned (Woche 12**
 
-Structure:
+Struktur:
 
-*Closing Week 12*
+*Abschlusswoche 12*
 
 A) Brief instructions for feedback motivation and reflection
+
 B) Continued exchange of topics and collecting ideas for community
 expansion
+
 C) Lessons learned: discuss successes and challenges as well as possible
 next steps
 
 ![Sketchnote The successfully established ePortfolio from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image16.jpeg)
 
-### Week 12 - Retrospective
+### Week 12 - Retrospektive
 
-**Closing week 12**
+**Abschlusswoche 12**
 
-**A) Brief instructions for feedback motivation and reflection** | (approx. 20 minutes)
+**A) Kurz-Anleitung zur Feedbackmotivation und Reflexion** | (ca. 20 Minuten
 
-Today you start your final week - first of all, make a small change of
-perspective: Try to put yourself in the position of one of your circle
-members and think about why you should look at his / her ePortfolio from
-his / her perspective. Which contents would you emphasize in particular?
-Which added value for readers would you highlight? Perhaps also where do
-you see connections to other ePortfolios from your circle? What
-contents, contributions or discussions encourage you to leave feedback
-in the ePortfolio? Exchange your views on this and mutually document any
-helpful arguments that arise.
+Heute startet Ihr in Eure Abschlusswoche - dazu macht als erstes einen kleinen Perspektivwechsel: Versucht Euch kurz in die Lage eines Eurer Circle-Mitglieder\*innen zu versetzen und überlegt Euch aus seiner/ihrer Sicht, warum Ihr auf sein/ihr ePortfolio schauen solltet. Welche Inhalte würdet Ihr besonders herausstellen, welchen Mehrwert für Leser\*innen betonen, vielleicht auch, wo seht Ihr Anknüpfungspunkte zu anderen ePortfolios aus Eurer Runde? Welche Inhalte, Beiträge oder Diskussionen regen dazu an, ein Feedback im ePortfolio zu hinterlassen? Tauscht Euch dazu untereinander aus und haltet entstandene, hilfreiche Argumente gegenseitig fest.
 
-**B) Continued exchange of topics and collecting ideas for community expansion** | (approx.15 minutes)
+**B) Weiterführender Themenaustausch und Ideensammlung für Community-Ausbau** | (ca. 15 Minuten)
 
-Finally take some time to collect ideas or even topics that could be
-especially helpful for further networking within and outside your
-created ePortfolio community. Pu them on record together so that you can
-begin again later on because your ePortfolio should and may of course be
-continued. This will also strengthen a good feeling when you leave the
-circle today.
+Nehmt Euch zum Abschluss noch etwas Zeit dafür, Ideen oder sogar Themen zu sammeln, die für die weitere Vernetzung innerhalb und außerhalb Eurer entstandenen Community zum ePortfolio besonders hilfreich sein könnten. Haltet sie für Euch gemeinsam fest, um später daran wieder ansetzen zu können, denn Euer ePortfolio soll und darf natürlich gerne weitergeführt werden. Das bestärkt letztlich auch ein gutes Gefühl, wenn Ihr heute vom Circle auseinandergeht.
 
-**C) Lessons learned: discuss successes and challenges as well as possible next steps** | (approx. 25 minutes)
+**C) Lessons learned: Erfolge und Herausforderungen thematisieren sowie ggf. nächste Schritte** | (ca. 25 Minuten)
 
-Now it is as far as it goes.After 12 weeks, the last round of the Circle
-comes to an end and it is time to review these weeks again. At the end
-you are welcome to discuss what you found to be the greatest insights,
-surprises or challenges in managing your ePortfolio and exchanging
-together with others.
+Nun ist es als soweit. Die letzte Circle-Runde neigt sich nach 12 Wochen dem Ende und es wird Zeit, diese Wochen noch einmal Revue passieren zu lassen. Tauscht Euch gerne abschließend darüber aus, was für Euch die größten Erkenntnisse, Überraschungen oder Herausforderungen beim Führen Eures ePortfolios und dem gemeinsamen Austausch mit den anderen waren.
 
-The following questions can serve as a guide:
-What do you take with you as decisive experiences / highlights from the
-last weeks?
-What were the most important milestones / development steps for you?
-What did you miss out or was short-changed in the circle or in creating
-the ePortfolio?
-What plans do you have for your ePortfolio and what do you want to
-achieve next?
-Which activities or requirements might there be in the future to link
-your ePortfolios with each other or even to continue together?
+Nun ist es als soweit. DieDie folgenden Fragestellungen können dazu als Orientierungshilfe dienen:
 
-Basic kata to finish (about 1 hour):
+Was nehmt Ihr als entscheidende Erfahrungswerte / Highlights aus den letzten Wochen mit?
 
-The final pitch: Try to present your ePortfolio elements and contents up
-to this point in maximum 3 minutes. Try to highlight important portfolio
-features that are relevant to the user and describe topic highlights
-that you find special. Use the result for promoting your e-portfolio
-(e.g. as a short video, infographics or text contribution).
+Was waren die wichtigsten Meilensteine / Entwicklungsschritte für Euch?
 
-Advanced video kata to finish (about 1 hour):
+Was ist vielleicht noch zu kurz gekommen im Circle oder beim Erstellen des ePortfolios?
 
-Create a video podcast episode: A letter to myself. This serves as a
-retrospective for the whole circle: What and how have I learned in the
-last weeks and what do I plan to do next? How have I progressed with my
-topic overall? And thinking further ahead: What will my work on the
-topic look like in the future with my ePortfolio?
+Welche Pläne habt Ihr für Euer ePortfolio und was wollt Ihr damit als nächstes erreichen?
 
-Great, you have done it and successfully completed the learning path! We
-hope that you were able to get to know and appreciate the ePortfolio
-Learning method very well and that you will continue your ePortfolios in
-the future. Therefor we wish you much fun and success!
+Welche Aktivitäten oder Voraussetzungen könnte es ggf. zukünftig geben, um Eure ePortfolios untereinander zu vernetzen oder fachlich sogar gemeinsam weiterzuführen?
 
-**Last little "extra task" - celebrate your success!**
+Basic-Kata zum Abschluss (ca. 1 Stunde):
 
-Ideally you will meet in the circle at the appropriate time for a small
-event, e.g. dinner or something similar and celebrate what you have
-achieved. You have spent a long time together investigating, creating
-and discussing contents. You have established a relationship of trust
-with each other that can be even more valuable than individual or joint
-work on the ePortfolio and from which you will certainly benefit.
+Der finale Pitch: Versuche Deine ePortfolio-Elemente und -Inhalte bis hierhin in maximal 3 Minuten vorzustellen. Versuche wichtige Portfolio-Merkmale herauszuarbeiten, die für den Anwender relevant sind und Themen-Highlights zu beschreiben, die Du besonders findest. Nutze das Ergebnis für die Vermarktung Deines e-Portfolios (z.B. als Kurzvideo, Infografik oder Textbeitrag).
 
-Herta, Marcel and Stefan are also looking forward to your feedback -
-because we want to continuously develop and improve the ePortfolio
-Learning Guide.
+Vertiefungs-Video-Kata zum Abschluss (ca. 1 Stunde):
 
-Many thanks for this already now!
+Erstellt eine Video-Podcast-Folge: "Ein Brief an mich selbst". Diese dient als Rückblick (= Retrospektive) für den gesamten Circle: Was und wie habe ich in den letzten Wochen gelernt und was nehme ich mir als nächstes vor? Wie bin ich insgesamt bei meinem Thema vorangekommen? Und weiter gedacht: Wie sieht meine Arbeit am Thema in der Zukunft mit dem ePortfolio aus?
+
+Großartig, Ihr habt es geschafft und den Lernpfad erfolgreich absolviert! Wir hoffen, dass Ihr die ePortfolio Learning-Methode auf diese Weise sehr gut kennen lernen konntet, schätzen gelernt habt und Eure ePortfolios auch in Zukunft weiterführen werdet. Wir wünschen dabei viel Freude und Erfolg!
+
+**Letzte kleine "Zusatzaufgabe" - Euren Erfolg feiern!**
+
+Idealerweise trefft Ihr Euch im Circle zu gegebener Zeit zu einem gemeinsamen kleinen Event, z.B. ein Abendessen oder Ähnliches und feiert das Erreichte. Ihr habt eine lange Zeit zusammen verbracht und gemeinsam recherchiert, Inhalte erstellt und diskutiert. Ihr habt ein Vertrauensverhältnis zueinander aufgebaut, das noch weit wertvoller sein kann, als die individuelle oder gemeinsame Arbeit am ePortfolio und von dem Ihr mit Sicherheit profitieren werdet.
+
+Herta, Marcel und Stefan freuen sich außerdem auf Euer Feedback – denn wir wollen den ePortfolio Learning-Guide stetig weiter entwickeln und verbessern.
+
+Vielen Dank dafür schon jetzt!
