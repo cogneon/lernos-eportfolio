@@ -19,8 +19,6 @@ F) Encourage community exchange
 
 ### Week 10 - Collection of topics
 
-![Sketchnote Editorial plan and growing community feedback from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image15.jpeg)
-
 **A) Exchange about the feedback of the contacts made so far** | (approx. 20 minutes)
 
 In the last two weeks you have identified and contacted experts /
