@@ -1,53 +1,35 @@
-# Introduction
-When six of us started our first lernOS Circle in September 2019, it was
-not yet clear where this learning journey would lead us finally. But we
-were aware that we wanted to connect this experiment with something that
-could give something back to others who would try it after us.
+# Einführung
+Als wir im September 2019 zu sechst unseren ersten lernOS Circle starteten, war noch nicht klar, wohin uns diese Lernreise letztlich führen wird. Aber uns war bewusst, dass wir dieses Experiment mit etwas verbinden wollten, was anderen, die es nach uns ausprobieren würden, auch etwas zurückgeben kann.
 
 ![](./images/image1.jpg)
 
-Basically each of us had his own topic that he pursued during the circle
-time. Nevertheless, the shared experience of supporting each other and
-exchanging information online enabled us to make good progress on all of
-our topics.
+Grundsätzlich hatte jeder von uns sein eigenes Thema, dass er während der Zeit verfolgte. Trotzdem ermöglichte uns die gemeinsame Erfahrung, sich gegenseitig zu unterstützen und online miteinander auszutauschen, bei allen unseren Themen ein gutes Stück voranzukommen.
 
-Therefore the decision was made relatively quickly to continue with
-three of us after the Circle and to create two own guides (Circle
-Guides), which should enable others to gain these experiences themselves
-through various innovative learning methods. So in the end one of these
-two guides was created and we hope that it can accompany you well on
-your learning journey.
+Daher kam relativ schnell der Entschluss, auch nach dem Circle zu dritt weiterzumachen und zwei eigene Leitfäden (Circle Guides) zu erstellen, die es anderen ermöglichen sollten, über verschiedene innovative Lernmethoden selbst diese Erfahrungen zu sammeln. So entstand letztlich hierdurch einer dieser beiden Leitfäden und wir hoffen, dass er Euch gut bei Eurer Lernreise begleiten kann.
 
-**Central objectives of this ePortfolio Learning Guide**
+**Zentrale Zielstellungen dieses ePortfolio Learning-Leitfadens**
 
-This Circle Guide would like to show you a learning method with which
-you can continue your education in an exciting future topic and exchange
-and network with other learners.
+Dieser Circle Guide möchte Euch eine Lernmethode zeigen, mit der Ihr Euch in einem spannenden Zukunftsthema weiterbilden und Euch mit anderen Lernern*innen darüber austauschen und vernetzen könnt.
 
-You will be able to learn a basic and overview knowledge of the
-ePortfolio method and Social Software.
+Ihr werdet in der Lage sein, ein Basis- und Überblickswissen über die ePortfolio-Methode und Social Software zu erlernen.
 
-At the same time you will build or further develop your own ePortfolio
-with a suitable software and work out a detailed understanding of an
-exciting topic with others.
+Gleichzeitig werdet Ihr ein eigenes ePortfolio mit einer geeigneten Software aufbauen oder weiterentwickeln und mit anderen ein Detailwissen zu einem spannenden Thema erarbeiten.
 
-We are already looking forward to your field reports and wish you a lot
-of fun!
+Wir sind schon gespannt auf Eure Erfahrungsberichte und wünschen Euch nun viel Freude!
 
-# About lernOS
+# Über lernOS
 
-lernOS is a method of self-organization for people living and working in the 21st century. To be successful today, you need to be constantly learning, organizing and developing. No one else is responsible for this process. You have to take care of it yourself (self-directed, lifelong learning).
+lernOS ist eine Methode zur Selbstorganisation für Menschen, die im 21. Jahrhundert leben und arbeiten. Um heute erfolgreich zu sein, muss man ständig lernen, sich organisieren und weiterentwickeln. Niemand sonst ist für diesen Prozess verantwortlich. Man muss sich selber darum kümmern (selbstgesteuertes, lebenslanges Lernen).
 
-lernOS guides are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY 4.0): 
-
+lernOS Leitfäden stehen unter der Lizenz Creative Commons Namensnennung 4.0 International [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY 4.0):
 ![](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
-You may:
+Du darfst:
 
-* **Share** - reproduce and redistribute the material in any format or medium.
-* **Edit** - remix, modify and build upon the material for any purpose, even commercially.
+   * **Teilen** - das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten.
+   * **Bearbeiten** - das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
 
-**Under the following conditions:**
+**Unter folgenden Bedingungen:**
 
-- **Name attribution** - you must provide appropriate copyright and rights notices, include a link to the license, and indicate if any modifications have been made. These disclosures may be made in any reasonable manner, but not in such a way as to give the impression that the licensor is particularly supportive of you or your use.
-- **No Other Restrictions** - You may not use any additional clauses or technical procedures that legally prohibit others from doing anything that the License permits.
+    - **Namensnennung** - Du musst angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
+    - **Keine weiteren Einschränkungen** - Du darst keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
