@@ -13,11 +13,9 @@ First short basic kata
 
 *Week 1*
 
-D) Common basic understanding of the ePortfolio method and approaches - go through the Basics
-
-E) Present expectations and compare them with basic understanding
-
-F) Indicate interest in the topic and identify initial similarities
+- D) Common basic understanding of the ePortfolio method and approaches - go through the Basics
+- E) Present expectations and compare them with basic understanding
+- F) Indicate interest in the topic and identify initial similarities
 
 Recommended basic kata and possible advanced kata as well as first
 optional video kata
@@ -169,14 +167,3 @@ the basic understanding of an ePortfolio.
 Optional video kata: Present your favorite ePortfolio in a short video - this can include:
 
 Who runs the ePortfolio and which topics does it deal with?
-
-For a quick start into video production you can have a short look into
-this two microlearnings:
-
-1.  [Screen Recording with Microsoft Stream](https://web.microsoftstream.com/video/33afa265-2f42-45da-b3f8-6b3e4ff3191c)
-
-![Video web content titled: Microsoft Stream](./images/image9.jpg)
-
-2.  [Create a video with the Microsoft Stream Mobile App](https://web.microsoftstream.com/video/fe6d5961-60d6-4770-83db-a413aec84b94)
-
-![Video web content titled: Microsoft Stream](./images/image10.png)
