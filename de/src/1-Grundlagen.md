@@ -73,9 +73,9 @@ Dazu empfehlen wir die [ersten 2 Minuten]{.underline} des zweiten Online.Tutoria
 ![Video-Webinhalt mit Titel: Online-Tutorial E-Portfolios im Einsatz - Teil 2](./images/image6.jpg)
 
 Typische Orientierungsfragen, die man sich zum Reflektieren immer wieder stellt und als Antworten im ePortfolio festgehalten werden sollten, sind:
-	• "Was habe ich bisher gelernt?"
-	• "Wo stehe ich heute?"
-	• "Was sollen meine nächsten Schritte sein?"
+- "Was habe ich bisher gelernt?"
+- "Wo stehe ich heute?"
+- "Was sollen meine nächsten Schritte sein?"
 (Atwell 2007, Hornung-Prähauser et al. 2007)
 
 Nun habt Ihr alle wichtigen Basis-Informationen zum Lernen mit ePortfolios erhalten und könnt beim Lernpfad direkt weiter durchstarten.
