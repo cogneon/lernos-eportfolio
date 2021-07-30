@@ -27,7 +27,7 @@ Wer es detaillierter wissen möchte, dem sei die nachfolgende Einordnung empfohl
 
 Die ursprüngliche Einordnung im deutschsprachigen Raum stammt von der Salzburg Research Forschungsgesellschaft "EduMedia":
 
-	"E-Portfolio ist eine digitale Sammlung von 'mit Geschick gemachten Arbeiten' (= lat. Artefakte) einer Person, die dadurch das Produkt (Lernergebnisse) und den Prozess (Lernpfad/Wachstum) ihrer Kompetenzentwicklung in einer bestimmten Zeitspanne und für bestimmte Zwecke dokumentieren und veranschaulichen möchte. Die betreffende Person hat die Auswahl der Artefakte selbstständig getroffen, und diese in Bezug auf das Lernziel selbst organisiert. Sie (Er) hat als Eigentümer(in) die komplette Kontrolle darüber, wer, wann und wie viel Information aus dem Portfolio einsehen darf." (Hornung-Prähauser et al. 2007: 14 sowie Hilzensauer/Hornung-Prähauser 2006:4)
+*"E-Portfolio ist eine digitale Sammlung von 'mit Geschick gemachten Arbeiten' (= lat. Artefakte) einer Person, die dadurch das Produkt (Lernergebnisse) und den Prozess (Lernpfad/Wachstum) ihrer Kompetenzentwicklung in einer bestimmten Zeitspanne und für bestimmte Zwecke dokumentieren und veranschaulichen möchte. Die betreffende Person hat die Auswahl der Artefakte selbstständig getroffen, und diese in Bezug auf das Lernziel selbst organisiert. Sie (Er) hat als Eigentümer(in) die komplette Kontrolle darüber, wer, wann und wie viel Information aus dem Portfolio einsehen darf." (Hornung-Prähauser et al. 2007: 14 sowie Hilzensauer/Hornung-Prähauser 2006:4)*
 (-> [siehe auch ähnliche Begriffseinordnung auf e-teaching.org](https://www.e-teaching.org/lehrszenarien/pruefung/pruefungsform/eportfolio)
 	
 Nach dieser Einordnung waren zunächst immer Produkt und Prozess im Vordergrund, aber die Feedback-Schleife wurde vernachlässigt und die Kompetenzen, die dafür nötig sind, nur angedeutet. Außerdem spricht man metaphorisch auch vom "Schaufenster des eigenen Lernens" (Bräuer 2000: 22, zitiert nach Brunner et al. 2008: 35 sowie Bauer/Baumgartner 2012). Das ist letztlich die technologische, eher tool-orientierte Brille.
@@ -36,7 +36,7 @@ Aus pädagogisch-didaktischer Perspektive nähert man sich dem Ganzen aber in se
 
 Daher wurde versucht, eine integrierende Sichtweise als Methode zu definieren und es mit Social Software zu verknüpfen:
 
-	"Demnach ist ein Social-Software-Portfolio eine spezifische Form der webbasierten Selbstdarstellung über ein E-Portfolio. Durch die digitale Aufbereitung der Artefakte werden dem Inhaber zusätzliche mediale Möglichkeiten der Präsentation von Lernprodukten geboten (insbesondere in Form von Audio und Video). Mittels Social Software und insbesondere der Nutzung von Weblogs ermöglicht ein derartiges Portfolio dem Eigentümer außerdem eine fortlaufende Widerspiegelung seiner persönlichen Weiterentwicklung von (Medien-) Kompetenzen und regt damit zur Reflexion im selbstgesteuert-konnektiven Lernprozess an. Dies wird besonders unterstützt, indem es Besuchern Möglichkeiten bietet, ein Feedback über die Inhalte an den Eigentümer zu übermitteln, die sich bei E-Portfolio-Blogs vor allem über die Kommentarfunktion oder die gegenseitige Verlinkung äußern." (Kirchner 2015: 36)
+*"Demnach ist ein Social-Software-Portfolio eine spezifische Form der webbasierten Selbstdarstellung über ein E-Portfolio. Durch die digitale Aufbereitung der Artefakte werden dem Inhaber zusätzliche mediale Möglichkeiten der Präsentation von Lernprodukten geboten (insbesondere in Form von Audio und Video). Mittels Social Software und insbesondere der Nutzung von Weblogs ermöglicht ein derartiges Portfolio dem Eigentümer außerdem eine fortlaufende Widerspiegelung seiner persönlichen Weiterentwicklung von (Medien-) Kompetenzen und regt damit zur Reflexion im selbstgesteuert-konnektiven Lernprozess an. Dies wird besonders unterstützt, indem es Besuchern Möglichkeiten bietet, ein Feedback über die Inhalte an den Eigentümer zu übermitteln, die sich bei E-Portfolio-Blogs vor allem über die Kommentarfunktion oder die gegenseitige Verlinkung äußern." (Kirchner 2015: 36)*
 
 -----------------------
 -----------------------
@@ -81,60 +81,6 @@ Typische Orientierungsfragen, die man sich zum Reflektieren immer wieder stellt 
 Nun habt Ihr alle wichtigen Basis-Informationen zum Lernen mit ePortfolios erhalten und könnt beim Lernpfad direkt weiter durchstarten.
 
 **Quellen**
-
--   Attwell, Graham (2007): E-Portfolio Entwicklung und Verwendung. Ins Deutsche übersetzt von der Salzburg Research
-    Forschungsgesellschaft.
-    [http://blip.tv/pontydysgu/e-portfolio-entwicklung-und-verwendung-416096](http://blip.tv/pontydysgu/e-portfolio-entwicklung-und-verwendung-416096)
-    [last possible access on 19.10.2013].
-    Available alternative content on slideshare:
-    [https://de.slideshare.net/GrahamAttwell/eportfolio-development-and-implementation](https://de.slideshare.net/GrahamAttwell/eportfolio-development-and-implementation)
-    [access on 12.10.2020]
-
--   Bauer, R. / Baumgartner, P. (2012): Schaufenster des Lernens: Eine
-    Sammlung von Mustern zur Arbeit mit E-Portfolios. Münster: Waxmann
-    Verlag.
-
--   Baumgartner, P. / Bauer, R. (2012): Didaktische Szenarien mit
-    E-Portfolios gestalten: Mustersammlung statt Leitfaden. In:
-    Csanyi, G. / Reichl, F. / Steiner, A. (Hrsg.): Digitale Medien -
-    Werkzeuge für exzellente Forschung und Lehre. Medien in der
-    Wissenschaft, Band 61, S. 383-392. Münster: Waxmann.
-
--   Baumgartner, P. / Zauchner, S. / Bauer, R. (Hrsg.) (2009): The
-    Potential of E-Portfolios in Higher Education.
-    Innsbruck/Wien/Bozen: StudienVerlag.
-
--   Bernhardt, Thomas / Kirchner, Marcel (2007): E-Learning 2.0 im
-    Einsatz - Du bist der Autor! - Vom Nutzer zum WikiBlog-Caster.
-    vwh-Verlag, Boizenburg.
-
--   Bräuer, Gerd (2000): Schreiben als reflexive Praxis: Tagebuch,
-    Arbeitsjournal, Portfolio. Freiburg im Breisgau: Fillibach-Verlag.
-
--   Brunner, I. / Häcker, T. / Winter, F. (Hrsg.) (2008): Das Handbuch
-    Portfolioarbeit (2. Auflage). 1. Auflage 2006. Seelze-Velber:
-    Kallmeyer.
-
--   Hilzensauer, W. / Hornung-Prähauser, V. (2006): ePortfolio --
-    Methode und Werkzeug für kompetenzorientiertes Lernen. Salzburg
-    Research Forschungsgesellschaft m.b.H. -- EduMedia [PDF]. Online
-    verfügbar unter: [http://edumedia.salzburgresearch.at/images/stories/EduMedia/Inhalte/eportfolio_srfg.pdf](http://edumedia.salzburgresearch.at/)[last possible access on 03.12.2012]. Alternative link on:
-    [https://docplayer.org/16445308-Eportfolio-methode-und-werkzeug-fuer-kompetenzbasiertes-lernen.html](https://docplayer.org/16445308-Eportfolio-methode-und-werkzeug-fuer-kompetenzbasiertes-lernen.html) access on 12.10.2020
-
--   Hornung-Prähauser, V., Geser, G., Hilzensauer, W., Schaffert, S.
-    (2007): Didaktische, organisatorische und technologische
-    Grundlagen von E-Portfolios und Analyse internationaler Beispiele
-    und Erfahrungen mit E-Portfolio-Implementierungen an Hochschulen.
-    Salzburg: Salzburg Research Forschungsgesellschaft und
-    fnm-austria. Online verfügbar als PDF unter:
-    [http://www.fnm-austria.at/projekte/ePortfolio/Dateiablage/view/fnm-austria_ePortfolio_Studie_SRFG.pdf](http://www.fnm-austria.at/projekte/ePortfolio/Dateiablage/view/fnm-austria_ePortfolio_Studie_SRFG.pdf)
-    last possible access on 15.02.2013. Alternative link on:
-    [https://www.yumpu.com/de/document/view/32927444/didaktische-organisatorische-und-technologische-grundlagen-von-](https://www.yumpu.com/de/document/view/32927444/didaktische-organisatorische-und-technologische-grundlagen-von-)
-    [access on 12.10.2020]
-
--   Kirchner, Marcel (2015): Social-Software-Portfolios im Einsatz --
-    Zwischen Online-Lernen und Medienkompetenz im
-    selbstgesteuert-konnektiven Lernalltag. vwh-Verlag, Boizenburg.
     
 1) Attwell, Graham (2007): E-Portfolio Entwicklung und Verwendung [Video-Quelle]. Ins Deutsche übersetzt von der Salzburg Research Forschungsgesellschaft. http://blip.tv/pontydysgu/e-portfolio-entwicklung-und-verwendung-416096 [letzter möglicher Zugriff am 19.10.2013]. Verfügbarer alternativer Inhalt auf Slideshare: https://de.slideshare.net/GrahamAttwell/eportfolio-development-and-implementation [Abruf am 12.10.2020]
 2) Bauer, R. / Baumgartner, P. (2012): Schaufenster des Lernens: Eine Sammlung von Mustern zur Arbeit mit E-Portfolios. Münster: Waxmann Verlag.
