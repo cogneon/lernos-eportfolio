@@ -25,8 +25,6 @@ Basic and advanced kata and another optional video kata
 
 ### Week 2 - Objectives
 
-![Sketchnote Topic ideas and objectives of the ePortfolio from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image11.jpeg)
-
 **A) Brief presentation of ePortfolio examples you have brought with you** | (approx. 25 minutes)
 
 Welcome to the second content week! After you were able to gain a basic
