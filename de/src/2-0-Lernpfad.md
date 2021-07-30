@@ -9,9 +9,9 @@
 * Die Katas der jeweiligen Woche sind Übungen mit der Empfehlung, diese im Laufe der Woche abzuarbeiten. Diese bereiten Euch jeweils gut auf den Austausch in der Folgewoche vor.
 
 **Die nächsten Wochen werdet Ihr Euch mit folgenden Lernbereichen beschäftigen 
-(Achtung: bitte die nachfolgende Übersicht von unten nach oben anschauen 😉):**
+(Achtung: bitte die nachfolgende Übersicht von unten nach oben anschauen):**
 
 ![Visualisations as sketchnotes from Katrin Mäntele - on Twitter [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image7.jpeg)
 (deutsche Grafik)
 
-Und schon geht’s los beim 1. Lernbereich 😊
+Und schon geht’s los beim 1. Lernbereich

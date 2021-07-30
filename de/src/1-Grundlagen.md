@@ -20,8 +20,6 @@ Wer es lieber Schwarz auf Weiß mag, dem können wir ePortfolios kurz und knapp 
 
 ![Illustration eines ePortfolios als Sketchnote von Katrin Mäntele [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image4.jpeg)
 
-----------------------------------
-----------------------------------
 Kleiner wissenschaftlicher Exkurs (optional):
 Wer es detaillierter wissen möchte, dem sei die nachfolgende Einordnung empfohlen (zitiert nach Kirchner 2015: 32ff.):
 
@@ -38,15 +36,12 @@ Daher wurde versucht, eine integrierende Sichtweise als Methode zu definieren un
 
 *"Demnach ist ein Social-Software-Portfolio eine spezifische Form der webbasierten Selbstdarstellung über ein E-Portfolio. Durch die digitale Aufbereitung der Artefakte werden dem Inhaber zusätzliche mediale Möglichkeiten der Präsentation von Lernprodukten geboten (insbesondere in Form von Audio und Video). Mittels Social Software und insbesondere der Nutzung von Weblogs ermöglicht ein derartiges Portfolio dem Eigentümer außerdem eine fortlaufende Widerspiegelung seiner persönlichen Weiterentwicklung von (Medien-) Kompetenzen und regt damit zur Reflexion im selbstgesteuert-konnektiven Lernprozess an. Dies wird besonders unterstützt, indem es Besuchern Möglichkeiten bietet, ein Feedback über die Inhalte an den Eigentümer zu übermitteln, die sich bei E-Portfolio-Blogs vor allem über die Kommentarfunktion oder die gegenseitige Verlinkung äußern." (Kirchner 2015: 36)*
 
------------------------
------------------------
-
 **2. Welche Bestandteile hat ein ePortfolio?**
 
 Hier gibt es eine Fülle an Möglichkeiten und Werkzeugen, die unterschiedlich einsetzbar sind. Nachfolgend dazu eine Empfehlung aufgrund unserer bisherigen Erfahrung.
 
 Jeder von uns nutzt ja bereits verschiedene Online-Tools, um Inhalte im Netz zu erstellen und sei es nur, dass man eine E-Mail im kleinen Kreis schreibt oder gar eine öffentliche Webseite gestaltet. Dies kann als ein Portal oder Tor ins Internet betrachtet werden. Mit Hilfe dieses persönlichen Lernportals kann die Portfolio-Methode direkt angewendet werden, indem man z.B. einen eigenen Blog führt und ein soziales Netzwerk, wie LinkedIn oder Twitter für die Bereitstellung und Verbreitung seiner Inhalte (= Artefakte) verwendet.
-Dabei werden im weiteren Sinne Inhalte über Prozesse des Setzens von Zielen, Sammelns, Selektierens, Verknüpfens und Reflektierens erzeugt und schließlich für eine Präsentation, Weitergabe und mögliche Bewertung aufbereitet (vgl. Kirchner 2015: 57 bezugnehmend auf Hilzensauer, Hornung-Prähauser 2006: 5 bzw. Hornung-Prähauser et al. 2007: 15). Im engeren Sinne werden als eine Art “Auge” ins Netz relevante Inhalte aufgenommen und über ein “Schaufenster” z.B. als Blog-Beitrag und Tweet geeignet veröffentlicht (vgl. Kirchner 2015: 57 bezugnehmend auf Bräuer 2000: 22 und Baumgartner / Bauer 2013).
+Dabei werden im weiteren Sinne Inhalte über Prozesse des Setzens von Zielen, Sammelns, Selektierens, Verknüpfens und Reflektierens erzeugt und schließlich für eine Präsentation, Weitergabe und mögliche Bewertung aufbereitet (vgl. Kirchner 2015: 57 bezugnehmend auf Hilzensauer, Hornung-Prähauser 2006: 5 bzw. Hornung-Prähauser et al. 2007: 15). Im engeren Sinne werden als eine Art "Auge" ins Netz relevante Inhalte aufgenommen und über ein “Schaufenster” z.B. als Blog-Beitrag und Tweet geeignet veröffentlicht (vgl. Kirchner 2015: 57 bezugnehmend auf Bräuer 2000: 22 und Baumgartner / Bauer 2013).
 
 Die nachfolgende Infografik fasst diese Prozesse einmal visuell zusammen:
 
@@ -87,8 +82,8 @@ Nun habt Ihr alle wichtigen Basis-Informationen zum Lernen mit ePortfolios erhal
 3) Baumgartner, P. / Bauer, R. (2012): Didaktische Szenarien mit E-Portfolios gestalten: Mustersammlung statt Leitfaden. In: Csanyi, G. / Reichl, F. / Steiner, A. (Hrsg.): Digitale Medien - Werkzeuge für exzellente Forschung und Lehre. Medien in der Wissenschaft, Band 61, S. 383-392. Münster: Waxmann.
 4) Baumgartner, P. / Zauchner, S. / Bauer, R. (Hrsg.) (2009): The Potential of E-Portfolios in Higher Education. Innsbruck/Wien/Bozen: StudienVerlag.
 5) Bernhardt, Thomas / Kirchner, Marcel (2007): E-Learning 2.0 im Einsatz - "Du bist der Autor!" - Vom Nutzer zum WikiBlog-Caster. vwh-Verlag, Boizenburg.
-6) Bräuer, Gerd (2000): Schreiben als reflexive Praxis: Tagebuch, Arbeitsjournal, Portfolio. Freiburg im Breisgau: Fillibach-Verlag.
+6) Bräuer, Gerd (2000): Schreiben als reflexive Praxis: Tagebuch, Arbeitsjournal, Portfolio. Freiburg im Breisgau: Fillibach-Verlag.
 7) Brunner, I. / Häcker, T. / Winter, F. (Hrsg.) (2008): Das Handbuch Portfolioarbeit (2. Auflage). 1. Auflage 2006. Seelze-Velber: Kallmeyer.
-8) Hilzensauer, W. / Hornung-Prähauser, V. (2006): ePortfolio – Methode und Werkzeug für kompetenzorientiertes Lernen. Salzburg Research Forschungsgesellschaft m.b.H. – EduMedia [PDF]. Online verfügbar unter: http://edumedia.salzburgresearch.at/ images/stories/EduMedia/Inhalte/eportfolio_srfg.pdf (letzter möglicher Abruf am 03.12.2012). Alternativer Link unter: https://docplayer.org/16445308-Eportfolio-methode-und-werkzeug-fuer-kompetenzbasiertes-lernen.html [Abruf am 12.10.2020]
+8) Hilzensauer, W. / Hornung-Prähauser, V. (2006): ePortfolio - Methode und Werkzeug für kompetenzorientiertes Lernen. Salzburg Research Forschungsgesellschaft m.b.H. - EduMedia [PDF]. Online verfügbar unter: http://edumedia.salzburgresearch.at/ images/stories/EduMedia/Inhalte/eportfolio_srfg.pdf (letzter möglicher Abruf am 03.12.2012). Alternativer Link unter: https://docplayer.org/16445308-Eportfolio-methode-und-werkzeug-fuer-kompetenzbasiertes-lernen.html [Abruf am 12.10.2020]
 9) Hornung-Prähauser, V., Geser, G., Hilzensauer, W., Schaffert, S. (2007): Didaktische, organisatorische und technologische Grundlagen von E-Portfolios und Analyse internationaler Beispiele und Erfahrungen mit E-Portfolio-Implementierungen an Hochschulen. Salzburg: Salzburg Research Forschungsgesellschaft und fnm-austria. Online verfügbar als PDF unter: http://www.fnm-austria.at/projekte/ePortfolio/Dateiablage/view/fnm-austria_ePortfolio_Studie_SRFG.pdf [letzter möglicher Abruf am 15.02.2013]. Alternativer Link unter: https://www.yumpu.com/de/document/view/32927444/didaktische-organisatorische-und-technologische-grundlagen-von- [Abruf am 12.10.2020]
-10) Kirchner, Marcel (2015): Social-Software-Portfolios im Einsatz – Zwischen Online-Lernen und Medienkompetenz im selbstgesteuert-konnektiven Lernalltag. vwh-Verlag, Boizenburg.
+10) Kirchner, Marcel (2015): Social-Software-Portfolios im Einsatz - Zwischen Online-Lernen und Medienkompetenz im selbstgesteuert-konnektiven Lernalltag. vwh-Verlag, Boizenburg.

@@ -2,26 +2,22 @@
 
 ## Links
 
--   Basis-Quellen siehe im
-
-
+-   Basis-Quellen siehe im Grundlagen-Kapitel
 -   E-Portfolio bei Wikipedia:
     <https://en.wikipedia.org/wiki/Electronic_portfolio>
-
 -   E-Portfolio bei e-teaching.org:
     <https://www.e-teaching.org/lehrszenarien/pruefung/pruefungsform/eportfolio>
     (German language only)
-
 -   Veröffentlichte Dissertation von Marcel im Januar 2015:
     <http://www.vwh-verlag.de/vwh/?p=958(German language only)
 
 ## Danksagung
 
-Während des Entstehungsprozess dieses Circle Guides gab es einige treue Wegbegleiter_innen, die uns immer wieder mit Rat und Tat zur Seite standen.
+Während des Entstehungsprozess dieses Circle Guides gab es einige treue Wegbegleiter\*innen, die uns immer wieder mit Rat und Tat zur Seite standen.
 
 Daher möchten wir uns bei all diesen hier noch einmal ganz herzlich bedanken:
 
-1.  bei den Mitgliedern*-innen des initialen lernOS Circles, aus dem dieser Leitfaden entstanden ist für den intensiven, produktiven und offenen Austausch – also bei Alfred, Helmut, Herta, Judith, Marcel und Stefan,
+1.  bei den Mitgliedern\*-innen des initialen lernOS Circles, aus dem dieser Leitfaden entstanden ist für den intensiven, produktiven und offenen Austausch – also bei Alfred, Helmut, Herta, Judith, Marcel und Stefan,
 
 2.  bei unserer Sketchnoterin Katrin für die tolle Bereicherung dieses Leitfadens durch Ihre Illustrationen und ihr ehrenamtliches Engagement,
 

@@ -39,7 +39,7 @@ Anhand der Stimmenvergabe könnt Ihr Euch gegenseitig begründen, warum Ihr für
 
 Basic-Kata für diese Woche (ca. 1 Stunde):
 
-Verfeinert die Themen aus dem Circle und erstellt für die kommende Woche eine überdachte Reihenfolge als (redaktionellen) Plan. Beginnt mit einer ersten Recherche und Ausarbeitung für das aus Eurer Sicht nächste anstehende Thema.![image](https://user-images.githubusercontent.com/8386676/127635215-b37b79dd-de37-4ee3-aff2-7b84a46cbdc4.png)
+Verfeinert die Themen aus dem Circle und erstellt für die kommende Woche eine überdachte Reihenfolge als (redaktionellen) Plan. Beginnt mit einer ersten Recherche und Ausarbeitung für das aus Eurer Sicht nächste anstehende Thema.
 
 
 Vertiefungs-Kata für diese Woche (ca. 1 Stunde):
