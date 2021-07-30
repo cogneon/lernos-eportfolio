@@ -6,15 +6,15 @@ Structure:
 
 *Week 8*
 
-A) Developing content ideas for further topic contributions
-B) Taking and giving feedback
-C) Distribute the first topic article via social media
+- A) Developing content ideas for further topic contributions
+- B) Taking and giving feedback
+- C) Distribute the first topic article via social media
 
 *Week 9*
 
-D) Provide current status on the topic
-E) Feedback round on who knows good contacts for the respective topic
-F) Learning reflection on the current status
+- D) Provide current status on the topic
+- E) Feedback round on who knows good contacts for the respective topic
+- F) Learning reflection on the current status
 
 ![Sketchnote Contact establishment and feedback from the community from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image14.jpeg)
 
