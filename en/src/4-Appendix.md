@@ -42,11 +42,17 @@ Therefore we would like to thank all of them once again very much:
 ## Changelog
 
   Version 0.1   28.11.2019   After ending of the lernOS OKR-Circle and first continuation with Herta and Stefan
-  ------------- ------------ --------------------------------------------------------------------------------------------------
+  
   Version 0.3   06.01.2020   After continuation without meeting over the turn of the year and first meeting 2020
+  
   Version 0.4   20.03.2020   To present the interim status at the Corporate Learning Camp digital clcdigital20
+  
   Version 0.5   29.04.2020   To present the interim results at the clc30 regional meeting in the Barcamp part of MOOCamp 2020
+  
   Version 0.6   31.05.2020   Learning path content largely completed and made available for internal review
+  
   Version 0.8   11.06.2020   Learning path content finalized and prepared for publication
+  
   Version 0.9   23.06.2020   Completion of the guide and submission as session at the lernOS All Stars Camp
+  
   Version 1.0   17.10.2020   Finalization of the guide including a detailed revision and translation into English
