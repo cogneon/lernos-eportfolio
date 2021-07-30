@@ -1,108 +1,50 @@
-## Learning area 1 - Get to know
-**Getting to know the circle members and the ePortfolio method, checking the level of knowledge among each other and looking at examples -- recognizing added value (weeks 0-1)**
+## Lernbereich 1 - Kennenlernen
+**Circle-Mitglieder und ePortfolio-Methode kennenlernen bzw. Wissensstand untereinander checken und Beispiele anschauen – Mehrwerte erkennen 
+(Wochen 0-1)**
 
-Structure:
+Struktur:
+Woche 0
+- A) Kennenlernrunde und Intention des Circles
+- B) Besprechung des Circle-Lernpfads über die 12 Wochen
+- C) Zukünftiger Austausch-Rahmen (Zeit und Tool-Nutzung) sowie ggf. Erwartungshaltung
+Erste kurze Basic-Kata
 
-*Week 0*
+Woche 1
+- D) Gemeinsames Grundverständnis der ePortfolio-Methode und -Ansätze - Grundlagen durchgehen
+- E) Erwartungshaltung vorstellen und mit Grundverständnis abgleichen
+- F) Themeninteresse andeuten und erste Gemeinsamkeiten erkennen
+Empfohlene Basic-Kata und mögliche Vertiefungs-Kata sowie erste optionale Video-Kata
 
-A) Getting to know each other and intention of the circle
-B) Discussion of the circle learning path over the 12 weeks
-C) Future exchange framework (time and tool usage) and expectations
+![Sketchnote "Gemeinsamer Einstieg in den ePortfolio Cicle Guide" von Katrin Mäntele [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image8.jpeg)
 
-First short basic kata
+### Week 0 - Kennenlernrunde
 
-*Week 1*
+**A) Kennenlernrunde und Intention des Circles** | (ca. 25 Minuten)
+Herzlich Willkommen zum ePortfolio-Learning Circle Guide!
+Großartig, dass Ihr Euch hier zusammengefunden habt und diese neue Lernmethode kennenlernen wollt! Nehmt Euch nun zu Beginn erstmal genügend Zeit, Euch gegenseitig vorzustellen. Wer seid Ihr, womit beschäftigt Ihr Euch in Eurer täglichen Arbeit und woran habt Ihr besonderes Interesse oder wolltet Euch schon immer einmal weiterbilden?
 
-D) Common basic understanding of the ePortfolio method and approaches -- go through the Basics
-E) Present expectations and compare them with basic understanding
-F) Indicate interest in the topic and identify initial similarities
+**B) Besprechung des Circle-Lernpfads über die 12 Wochen** | (ca. 15 Minuten)
+Um einen ersten Überblick zu bekommen, was Euch erwartet, schaut Euch doch bitte gemeinsam einmal den roten Faden dieses Lernpfads an. Dazu haben wir Euch zu Beginn einmal eine übersichtliche Sketchnote aufbereitet, die Euch die 7 Lernbereiche von unten nach oben aufzeigt. Direkt vor jedem der Lernbereiche ist außerdem einmal die inhaltliche Struktur dargestellt (siehe oben). Das soll Euch zur Orientierung dienen und ein erstes Grundverständnis für die Inhalte vermitteln. Nachfolgend nochmal die Übersicht der Lernbereiche:
 
-Recommended basic kata and possible advanced kata as well as first
-optional video kata
+- Lernbereich 1: Circle-Mitglieder und ePortfolio-Methode kennenlernen | Wissensstand untereinander checken und Beispiele anschauen – Mehrwerte erkennen (2 Wochen = 2W)
+- Lernbereich 2: Themeninteresse bekunden und Zielstellungen für das ePortfolio abstecken (2W)
+- Lernbereich 3: Auswahl des ePortfolio-Werkzeugs und Weiterentwicklung des Themas (2W)
+- Lernbereich 4: Erstellung und Aufbereitung eines ersten Themen-Beitrags und Lernreflexion (2W)
+- Lernbereich 5: Vernetzung und Bekanntmachen des ePortfolios in der Community und erstes Themen-Feedback und -Ideen einholen (2W)
+- Lernbereich 6: Aufbereitung eines Themenplans und Veröffentlichen weiterer Beiträge mit potenziellem Austausch (2W)
+- Lernbereich 7: Fördern des Feedbacks und Austausch über die Themen im ePortfolio sowie Lessons learned (1 W)
 
-![Sketchnote Joint access to the ePortfolio Circle Guide from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image8.jpeg)
 
-### Week 0 - Getting to know each other
+**C) Zukünftiger Austausch-Rahmen und Erwartungshaltung** | (ca. 20 Minuten)
+Bitte klärt für Euch einmal gemeinsam ab, wann Ihr Euch wöchentlich eine Stunde treffen wollt und ob Ihr ggf. eine kleine Pause (zur Halbzeit) einlegen möchtet. Ihr solltet Euch dazu am besten eine erste Kalendereinladung mit den Planungs-Details (insb. Meeting-Link) versenden. 
+Wichtig ist dafür auch zu klären, wir Ihr am besten zusammenfindet: 
+Zu empfehlen ist ein Online-Konferenztool, wie z.B. Teams, Skype oder Zoom und ggf. eine gemeinsame Online-Applikation, um Eure ersten Gedanken und Ideen festzuhalten, wie z.B. über OneNote, Etherpad oder ein Wiki. Gerne könnt Ihr dazu auch unser Circle Template verwenden, dass wir Euch dafür zusammengestellt haben.
+Sicherlich ist es hilfreich, wenn jeweils eine\*r die Moderation übernimmt und entweder jemand anderes oder Ihr alle gemeinsam Notizen im Tool macht. Aus unserer Erfahrung funktioniert es gut, wenn die Moderation unter den Circle-Mitgliedern wöchentlich abgewechselt wird bzw. rotiert.
+Schaut am Ende auch gerne schon einmal kurz in die Inhalte der Woche 1 weiter, was Euch als Nächstes erwartet. Das lässt sich immer gut als Check-Out jeder Woche tuen, um und hilft Euch, schnell einen Überblick zu bekommen. Die Übungen, so genannte Katas, sind meist so aufgebaut, dass Ihr sie zusammen im Circle-Treffen beginnen bzw. besprechen könnt und dann über die Woche hinweg erfüllt, um die Ergebnisse wieder mit in das nächste Circle-Treffen zu nehmen.
 
-**A) Getting to know each other and intention of the circle** | (approx. 25 minutes)
+Und los geht´s mit einer kurzen Basic-Kata für die Einstiegswoche (ca. 1 Stunde Aufwand):
+Bitte überlegt Euch kurz, welche Erwartungshaltung Ihr an diesen Learning Circle habt und haltet diese fest. Das könnt Ihr noch im ersten Präsenz-Meeting starten und bis zur kommenden Woche mitbringen. Dazu empfehlen wir, Euch vorbereitend einmal die Grundlagen der ePortfolio-Lernmethode anzuschauen.
 
-Welcome to the ePortfolio Learning Circle Guide!
-
-Great that you have gathered here and want to get to know this new
-learning method! Please take enough time to introduce yourselves to
-each other at the beginning. Who are you, what do you deal with in
-your daily work and what are you particularly interested in or have
-always wanted to learn more about?
-
-**B) Discussion of the circle learning path over the 12 weeks** | (approx. 15 minutes)
-
-To get a first overview of what to expect, please take a look at the
-golden thread of this learning path. For this purpose we have prepared
-the clear sketchnote in the beginning that shows you the seven
-learning areas from bottom to top. Directly in front of each of the
-learning areas also the structure of the content is shown (e.g. see
-above). This should help you to find your way around and give you a
-first basic understanding of the content.
-In the following lines you can see an overview of the learning areas
-again:
-
--   Learning area 1: Get to know circle members and ePortfolio method |
-    Checking the level of knowledge among each other and looking at
-    examples -- recognizing added value (2 weeks = 2w)
-
--   Learning area 2: State topic interest and define objectives for the
-    ePortfolio (2w)
-
--   Learning area 3: Selection of ePortfolio tool and further
-    development of the topic (2w)
-
--   Learning area 4: Creation and preparation of the first topic post
-    and learning contemplation (2w)
-
--   Learning area 5: Networking and promotion of the ePortfolio within
-    the community and obtain initial topic feedback and ideas (2w)
-
--   Learning area 6: Preparation of a topic agenda and publishing of
-    further posts with potential exchange (2w)
-
--   Learning area 7: Encourage feedback and exchange about the
-    ePortfolio topics as well as lessons learned (1w)
-
-**C) Future exchange framework and expectations** | (approx. 20 minutes)
-
-Please decide together when you want to meet for an hour each week and
-if you would like to take a short break (at half time). You should
-send yourself a first calendar invitation with the planning details
-(especially the meeting link).
-
-It is also important to clarify how you can come together in the best
-way:
-
-We recommend an online conference tool, such as Teams, Skype or Zoom
-and if necessary a common online application to document your first
-thoughts and ideas, such as OneNote, Etherpad or a Wiki. You are also
-welcome to use our Circle Template, which we have put together for
-you.
-
-Surely it would be helpful if one of you takes over the moderation and
-either someone else or all of you together make notes in the tool.
-From our experience it works well if the moderation among the circle
-members rotates weekly.
-
-At the end of the week you can have a look at the content of week 1
-and see what you can expect next. This can always be done as a
-check-out every week to help you get a quick overview. The exercises,
-so called katas, are mostly structured in a way that you can start or
-discuss them together in the circle meeting and then complete them
-over the week to take the results back into the next circle meeting.
-
-And off we go with a short basic kata for the entry week
-(about 1 hour effort):
-
-Please think about what you expect from this Learning Circle and keep
-it in mind. You can start this in the first presence meeting and bring
-it with you until next week. Therefor we recommend that you take a
-look at the basics of the ePortfolio learning method.
 
 ### Week 1 - Basic understanding
 
@@ -167,14 +109,3 @@ the basic understanding of an ePortfolio.
 Optional video kata: Present your favorite ePortfolio in a short video - this can include:
 
 Who runs the ePortfolio and which topics does it deal with?
-
-For a quick start into video production you can have a short look into
-this two microlearnings:
-
-1.  [Screen Recording with Microsoft Stream](https://web.microsoftstream.com/video/33afa265-2f42-45da-b3f8-6b3e4ff3191c)
-
-![Video web content titled: Microsoft Stream](./images/image9.jpg)
-
-2.  [Create a video with the Microsoft Stream Mobile App](https://web.microsoftstream.com/video/fe6d5961-60d6-4770-83db-a413aec84b94)
-
-![Video web content titled: Microsoft Stream](./images/image10.png)
