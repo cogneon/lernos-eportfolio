@@ -1,43 +1,20 @@
-# Basics
-In the beginning:
-If you are thinking about doing this Circle, you might want to have a
-look at the following basics that we have put together for you:
+# Grundlagen
+Zu Beginn:
+Wenn Du überlegst, ob Du diesen Circle durchführen möchtest, dann schau Dir am besten einmal die nachfolgenden Grundlagen an, die wir für Dich zusammengestellt haben:
 
--   What is actually behind the idea of an ePortfolio and what added value can it offer?
+	• Was steckt eigentlich hinter der Idee eines ePortfolios und welche Mehrwerte kann es bieten?
+	• Welche Bestandteile hat ein ePortfolio?
+	• Wie funktioniert das Führen eines ePortfolios?
+	• Was meint Reflektieren beim ePortfolio?
 
--   What are the components of an ePortfolio?
+Anhand der ePortfolio Learning-Methode möchten wir, dass Ihr im Circle gemeinsam an einem von Dir oder Euch selbst gewählten, spannenden Thema arbeitet. Du kannst Dir dazu eine online sichtbare Expertise aufbauen. Außerdem besteht dadurch die Möglichkeit, Dich mit anderen zu diesem Thema zu vernetzen und eine neue Praxis-Community aufzubauen oder Dich einer anzuschließen. Nun schauen wir uns aber erstmal die Basics genauer an.
 
--   How does the management of an ePortfolio work?
+**1. Was steckt eigentlich hinter der Idee eines ePortfolios und welche Mehrwerte kann es bieten?**
 
--   What does it mean to reflect with an ePortfolio?
-
-Using the ePortfolio learning method we would like you to work
-together in a circle on an exciting topic of your choice. You can
-builc up an expertise that is visible online. It also gives you the
-opportunity to network with others on this topic and build up a new
-community of practice or join one. But now we will take a closer look
-at the basics at first.
-
-**1. What is actually behind the idea of an ePortfolio and what added value can it offer?**
-
-The portfolio method originally comes from the artistic field, in
-which works made with skill (= artifacts) are put together in a folder
-(portare = carry and folio = piece of paper in Latin). In addition,
-one discusses the contents of this portfolio with others in order to
-be able to develop further in the process and later even apply for a
-job. This was transferred to electronic use with the advent of digital
-media and the Internet. This also opens up more possibilities for
-designing an ePortfolio.
-
-As a further introduction we would like to recommend a small online
-tutorial which Marcel prepared in 2009 on this topic:
-[ePortfolios in use](https://www.youtube.com/watch?v=6lwSyXD20Jg)
-(length approx. 9 min.)
+Die Portfolio-Methode stammt ursprünglich aus dem künstlerischen Bereich, bei der mit Geschick gemachte Arbeiten (= Artefakte) in einer Sammelmappe zusammengestellt werden (portare = tragen und folio = Blatt im Lateinischen). Außerdem bespricht man die Inhalte dieser Mappe mit anderen, um sich im Prozess weiterzuentwickeln und später sogar bewerben zu können. Dies wurde durch den Einzug von digitalen Medien und des Internets auf die elektronische Nutzung übertragen. Dadurch ergeben sich auch mehr Möglichkeiten, ein ePortfolio zu gestalten.
+Als weiterführenden Einstieg möchten wir Euch gerne ein kleines Online-Tutorial empfehlen, welches Marcel 2009 zu diesem Thema aufbereitet hat: [E-Portfolios im Einsatz](https://www.youtube.com/watch?v=6lwSyXD20Jg) (Länge ca. 9 min.)
 
 ![Video-Webinhalt mit Titel: Online-Tutorial E-Portfolios im Einsatz - Teil 1](./images/image2.jpg)
-
-As the native language is German please activate subtitles and
-choose English via the gear setting next to it:
 
 ![Deutsch (Deutschland) E-Portfolios im Einsa s./ Englisch (Vereinigte Staaten) Let us Dipl.-Medienwtss. Marc thouc Automatisch übersetzen](./images/image3.png)
 
