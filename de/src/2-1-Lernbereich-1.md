@@ -46,66 +46,36 @@ Und los geht´s mit einer kurzen Basic-Kata für die Einstiegswoche (ca. 1 Stund
 Bitte überlegt Euch kurz, welche Erwartungshaltung Ihr an diesen Learning Circle habt und haltet diese fest. Das könnt Ihr noch im ersten Präsenz-Meeting starten und bis zur kommenden Woche mitbringen. Dazu empfehlen wir, Euch vorbereitend einmal die Grundlagen der ePortfolio-Lernmethode anzuschauen.
 
 
-### Week 1 - Basic understanding
+### Woche 1 - Grundverständnis
 
-**D) Common basic understanding of the ePortfolio method and approaches** | (approx. 25 minutes)
+**D) Gemeinsames Grundverständnis der ePortfolio-Methode und -Ansätze** | (ca. 25 Minuten)
+Willkommen zur ersten Inhaltswoche im Circle Guide! Klasse, dass Ihr nach dem Reinschnuppern vergangene Woche dranbleiben wollt und Euch nun auch im Detail mit der neuen Lernmethode beschäftigen möchtet! Um ein gemeinsames Grundverständnis zu bekommen, schaut Euch doch zunächst zusammen noch einmal die Grundlagen genauer an. Geht Sie am besten zusammen durch – vielleicht hat eine\*r von Euch ja schon während der vergangenen Woche etwas gestöbert und kann den anderen eine kurze Zusammenfassung seiner\*ihrer Erkenntnisse geben? Die Videos könnt Ihr natürlich auch einzeln im Nachgang anschauen oder direkt kurz besprechen, um nicht zu viel Zeit Eurer wertvollen Stunde zu verlieren.
 
-Welcome to the first content week of the Circle Guide! Its great that
-you want to stay tuned after last weeks sniffing around and that you
-want to get to know the new learning method in detail! In order to get a
-common basic understanding, please take a closer look at the basics
-together again. Its best to go through them together - maybe one of
-you has already browsed a bit during the last week and can give the
-others a short summary of his or her findings? Of course, you can also
-watch the videos individually afterwards or discuss them briefly to
-avoid wasting too much time of your valuable hour.
+**E) Erwartungshaltung vorstellen und mit Grundverständnis abgleichen** | (ca. 25 Minuten)
+Da Ihr Euch über die Woche auch überlegt habt, welche Erwartungen Ihr an den Learning Circle habt, geht nun der Reihe nach durch und stellt diese vor. Geht dabei auch darauf ein, wie dies zum Grundverständnis der ePortfolio-Lernmethode passen kann.
 
-**E) Present expectations and compare them with basic understanding** | (approx. 25 minutes)
+**F) Themeninteresse andeuten und erste Gemeinsamkeiten erkennen** | (ca. 10 min)
+Überlegt Euch zum Schluss - falls es nicht schon in der Erwartungshaltung angerissen wurde -, in welche thematische Richtung es für Euch im Laufe der nächsten Wochen gehen könnte. Dies wird dann Euer zentraler Gegenstand sein, um Euch mit den anderen auszutauschen und zu lernen.
 
-Since you have also thought about what you expect from the Learning
-Circle during the week, go through them one by one and present them. It
-also addresses how this can fit in with the basic understanding of the
-ePortfolio learning method.
+Basic-Kata für diese Woche (ca. 1 Stunde):
+Beschreibt Euer Themeninteresse im Laufe der Woche genauer. Dies kann erstmal in Stichpunkten erfolgen und bei Bedarf auch eine kleine Linkliste oder Mediensammlung (Grafiken, kurze Erklärvideos) enthalten.
 
-**F) Indicate interest in the topic and identify initial similarities** | (approx. 10 min)
+Schaut Euch außerdem einmal **1 bis 2 Beispiele** aus der nachfolgenden Liste an, um für die kommende Woche eine erste Orientierung zu bekommen, wie ein ePortfolio aussehen kann:
 
-At the end, if it has not already been touched upon in the expectations,
-think about the thematic direction you might want to take in the next
-few weeks. This will then be your central object of exchange and
-learning with the others.
-
-Basic kata for this week (approx. 1 hour):
-
-Describe your interests in the course of the week. This can be done in
-bullet points for the time being and, if required, also include a small
-link list or media collection (graphics, short explanatory videos).
-
-Also take a look at 1 or 2 examples from the following list to get a first orientation on how an ePortfolio can look like for the upcoming week :
-
-- [Dion Hinchcliffe](https://dionhinchcliffe.com/) - person-oriented
-business portfolio
-- [Sketchnoting](https://raeuberleiterin.de/) and [Office 365](https://medium.com/@LuiseFreese) - topic-oriented portfolios from
+- [Bildungsdesign](https://www.bildungsdesign.com/) - themenorientiertes Portfolio von Christoph Schmitt
+- [Katharina Nolden](https://katharina-nolden.de/) – personenorientiertes Business-Portfolio
+- [Sketchnoting](https://raeuberleiterin.de/) and [Office 365](https://medium.com/@LuiseFreese) - themenorientiertes Portfolio von Luise Freese
 Luise Freese
-- [Petra Schubert](https://www.researchgate.net/profile/Petra_Schubert)
-and [Susan Williams](https://www.researchgate.net/profile/Susan_Williams14) -
-network-oriented academic portfolios on ResearchGate
-- [Sebastian Thomas](http://sebastian-thomas.de/) - person-oriented
-business portfolio (German language only = Glonly)
-- [Elearning20.de](http://www.elearning2null.de/) - topic-oriented
-Co-Portfolio of Thomas Bernhardt and Marcel Kirchner (Glonly)
-- [Harald Schirmer](https://harald-schirmer.de/) - combined person and
-topic portfolio (Glonly)
-- [VUCARockers](https://harald-schirmer.de/vucarockers-members/) - a
-growing ePortfolio community from Harald for designers of the future
-(Glonly)
+- [Petra Schubert](https://www.researchgate.net/profile/Petra_Schubert) und [Susan Williams](https://www.researchgate.net/profile/Susan_Williams14) -
+netzwerkorientiertes, akademisches Portfolio auf ResearchGate
+- [Sebastian Thomas](http://sebastian-thomas.de/) - personenorientiertes Business-Portfolio
+- [Elearning20.de](http://www.elearning2null.de/) - themenorientiertes Co-Portfolio of Thomas Bernhardt and Marcel Kirchner
+- [Harald Schirmer](https://harald-schirmer.de/) - kombiniertes Personen- und Themen-Portfolio
+- [VUCARockers](https://harald-schirmer.de/vucarockers-members/) - eine wachsende ePortfolio-Community von Harald für Zukunftsgestalter
 
-Recommended advanced kata for the week (approx. 1.5 hours):
+Empfohlene Vertiefungs-Kata für die Woche (ca. 1,5 Stunden):
+Recherchiert einmal nach Beispielen für ePortfolios im Netz (z.B. auch thematischen Blogs oder Podcasts), die Ihr spannend findet und bringt diese zum nächsten Circle-Treffen mit. Erklärt auch, warum sie aus Eurer Sicht zum Grundverständnis eines ePortfolios gut passen können.
 
-Search for examples of ePortfolios in the web (e.g. thematic blogs or
-podcasts) that you find exciting and bring them with you to the next
-circle meeting. Also explain why you think they might fit in well with
-the basic understanding of an ePortfolio.
-
-Optional video kata: Present your favorite ePortfolio in a short video - this can include:
-
-Who runs the ePortfolio and which topics does it deal with?
+Optionale Video-Kata:
+Stellt Euer favorisiertes ePortfolio in einem Kurzvideo vor – das kann beinhalten: 
+Wer führt das ePortfolio und mit welchen Themen beschäftigt es sich?
