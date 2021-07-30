@@ -1,0 +1,704 @@
+
+<!doctype html>
+<html lang="de" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="canonical" href="https://cogneon.github.io/2-1-Lernbereich-5/">
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-7.1.3">
+    
+    
+      
+        <title>Learning area 5 - Networking - lernOS ePortfolio Guide</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.e35208c4.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ef6f36e2.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#ff6e42">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+      
+    
+    
+    
+    
+      
+        
+<script>window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga("create","UA-156969141-1","auto"),ga("set","anonymizeIp",!0),ga("send","pageview"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){var e;this.value&&(e=document.location.pathname,ga("send","pageview",e+"?q="+this.value))}),"undefined"!=typeof location$&&location$.subscribe(function(e){ga("send","pageview",e.pathname)})})</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="deep-orange" data-md-color-accent="deep-orange">
+  
+    
+    <script>function __prefix(e){return new URL("..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#learning-area-5-networking" class="md-skip">
+          Zum Inhalt
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="lernOS ePortfolio Guide" class="md-header__button md-logo" aria-label="lernOS ePortfolio Guide" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            lernOS ePortfolio Guide
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Learning area 5 - Networking
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Suche" placeholder="Suche" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Suche wird initialisiert
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        
+<a href="https://github.com/cogneon/lernos-eportfolio/" title="Quellcode" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    cogneon/lernos-eportfolio
+  </div>
+</a>
+      </div>
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="lernOS ePortfolio Guide" class="md-nav__button md-logo" aria-label="lernOS ePortfolio Guide" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    lernOS ePortfolio Guide
+  </label>
+  
+    <div class="md-nav__source">
+      
+<a href="https://github.com/cogneon/lernos-eportfolio/" title="Quellcode" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    cogneon/lernos-eportfolio
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        About lernOS
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../1-Grundlagen/" class="md-nav__link">
+        Basics
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" checked>
+      
+      <label class="md-nav__link" for="__nav_3">
+        Learning Pathway
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Learning Pathway" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Learning Pathway
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2-0-Lernpfad/" class="md-nav__link">
+        Learning Pathway Overview
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2-1-Lernbereich-1/" class="md-nav__link">
+        Learning area 1 - Get to know
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2-1-Lernbereich-2/" class="md-nav__link">
+        Learning area 2 - Topic interest
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2-1-Lernbereich-3/" class="md-nav__link">
+        Learning area 3 - ePortfolio tools
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2-1-Lernbereich-4/" class="md-nav__link">
+        Learning area 4 - Topic article and learning reflection
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Learning area 5 - Networking
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Learning area 5 - Networking
+      </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Inhaltsverzeichnis">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#learning-area-5-networking" class="md-nav__link">
+    Learning area 5 - Networking
+  </a>
+  
+    <nav class="md-nav" aria-label="Learning area 5 - Networking">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#week-8-distribution-of-the-article" class="md-nav__link">
+    Week 8 - Distribution of the article
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#week-9-community-building" class="md-nav__link">
+    Week 9 - Community building
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2-1-Lernbereich-6/" class="md-nav__link">
+        Learning area 6 - Topic plan
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2-1-Lernbereich-7/" class="md-nav__link">
+        Learning area 7 - Feedback / Lessons learned
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../3-Lessons-Learned/" class="md-nav__link">
+        Lessons Learned
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../4-Anhang/" class="md-nav__link">
+        Appendix
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Inhaltsverzeichnis">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#learning-area-5-networking" class="md-nav__link">
+    Learning area 5 - Networking
+  </a>
+  
+    <nav class="md-nav" aria-label="Learning area 5 - Networking">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#week-8-distribution-of-the-article" class="md-nav__link">
+    Week 8 - Distribution of the article
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#week-9-community-building" class="md-nav__link">
+    Week 9 - Community building
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/cogneon/lernos-eportfolio/edit/master/docs/2-1-Lernbereich-5.md" title="Seite editieren" class="md-content__button md-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+                  </a>
+                
+                
+                  <h1>Learning area 5 - Networking</h1>
+                
+                <h2 id="learning-area-5-networking">Learning area 5 - Networking</h2>
+<p><strong>Networking and promotion of the ePortfolio within the community as well as obtain initial topic feedback and ideas (Weeks 8-9 with reference to the WOL Circle method)</strong></p>
+<p>Structure:</p>
+<p><em>Week 8</em></p>
+<p>A) Developing content ideas for further topic contributions
+B) Taking and giving feedback
+C) Distribute the first topic article via social media</p>
+<p><em>Week 9</em></p>
+<p>D) Provide current status on the topic
+E) Feedback round on who knows good contacts for the respective topic
+F) Learning reflection on the current status</p>
+<p><img alt="Sketchnote Contact establishment and feedback from the community from Katrin @kleinerw4hnsinn (CC BY)" src="../images/image14.jpeg" /></p>
+<h3 id="week-8-distribution-of-the-article">Week 8 - Distribution of the article</h3>
+<p><img alt="Sketchnote Contact establishment and feedback from the community from Katrin @kleinerw4hnsinn (CC BY)" src="../images/image14.jpeg" /></p>
+<p><strong>A) Developing content ideas for further topic contributions</strong> | (approx. 20 minutes)</p>
+<p>After you have created your first topic contribution during the last two
+weeks and perhaps already have a rough idea of how you want to proceed
+with your topic, discuss it together today and try to refine the rough
+plan. Which further aspects of your topic do you want to deepen in the
+next weeks? Where do you want to leave room for new aspects of your
+topic that you encounter in the course of your investigation? What do
+you not want to work on more deeply for the moment? You can develop this
+further in the course of this week and then exchange ideas either at the
+meeting next week or in the ongoing process.</p>
+<p><strong>B) Taking and giving feedback</strong> | (approx. 20 minutes)</p>
+<p>Now it is also a good time to practice getting feedback on your planning
+from the others in the circle, to think about how and where it fits for
+you and also how you can give helpful feedback to the others. To support
+this you can work with different methods that bring a good structure
+into the feedback and help you to cover several dimensions.</p>
+<p>A good method for this is, for example, Twitter feedback: Present your
+plan in the style of a Twitter message (or do it directly via Twitter)
+and, if necessary, ask questions that you have to the other circle
+participants. So max. 280 characters, hashtags, emojis etc. and the
+others answer, retweet with comments, ask questions on your part and use
+hashtags for the keywords again. Make several rounds about it and then a
+small summary or sort the re-tweets and hashtags afterwards into
+clusters, which very nicely show the main points, frequently mentioned
+aspects or additions.</p>
+<p><strong>C) Distribute the first topic article via social media</strong>| (approx. 20 minutes)</p>
+<p>We all live and work in communities and networks. With the Internet and
+social media they have become larger, more geographically dispersed and
+more international. The opportunities for establishing relationships,
+accessing and sharing knowledge have also become much richer and more
+diverse. ePortfolios thrive on this networking and exchange with others
+- for example via social networks such as LinkedIn, Xing or Twitter.
+Thats why an important part of an ePortfolio is to build up its
+community or contribute to relevant communities and then learn from the
+comments and feedback from the network and further develop your own
+ideas. A first step into a topic community is to exchange your topic
+contributions with the other circle members in the respective social
+networks. A good example of networking and appreciative exchange is the
+<a href="https://workingoutloud.com/en/home">Working out Loud method</a>, which can
+also be applied in learning circles.</p>
+<p>So your ePortfolio lives and breathes especially through your networking
+and building or entering a community. Up to now you have mainly
+exchanged ideas with each other in the circle and if you have not yet
+made your first contributions or artifacts available to a larger circle,
+now it is a good time to do so. Discuss with each other how you want to
+proceed and why you want to use which channel to further promote your
+portfolio. Afterwards, please feel free to share your first feature
+article about social media and other helpful channels.</p>
+<p>Basic kata in this week (about 1 hour):</p>
+<p>Publish your first ideas or a first rough topic plan as a second
+contribution to the ePortfolio and search for suitable experts or other
+contact points (e.g. institutions or organizations) for your topic on
+the web who could potentially network and exchange information with you
+in the future.</p>
+<p>Advanced kata in this week (about 1 hour):</p>
+<p>Leave a helpful comment in the ePortfolio of the others on their first
+topic contribution and if applicable give additional tips on your own
+experiences or links on the web.</p>
+<h3 id="week-9-community-building">Week 9 - Community building</h3>
+<p><strong>D) Provide current status on the topic</strong> | (approx. 20 minutes)</p>
+<p>After you have developed new topic ideas last week and evaluated them
+with the others a first rough topic plan should now have been created
+via the basic kata which covers different parts and facets of your theme
+interest. Present this status in the circle and think about how you can
+approach the two most important or the most pleasant next parts of the
+plan.</p>
+<p><strong>E) Feedback round on who knows good contacts for the respective topic</strong> | (approx. 25 minutes)</p>
+<p>Introduce your web experts and contact points to each other and find out
+whether one or the other person in the circle already has a point of
+reference or could even connect you to contacts that would be helpful.
+Check together who it would be most worthwhile to get in contact with
+and create a first common contact list which you can tackle in the
+course of the week. The main goal is to consciously network and make
+your ePortfolio known under the motto Make it easy. Dare to try this
+out with the circle members with whom you will strengthen each others
+backs!</p>
+<p><strong>F) Learning reflection on the current status</strong> | (approx. 15 minutes)</p>
+<p>At this point reflect together on what you have learned in the circle,
+what was especially important and helpful for you, what you have already
+been able to implement quite well, where things are not going so well
+and where you can still use support (from the circle) or where you want
+to deepen certain contents.</p>
+<p>Starting point for this can be for example a short summary of the most
+important learnings of each circle member which you write on (analog or
+digital) cards and then compare: What is the same? Where are you
+different? At what point small accumulations have occurred? What do the
+others have on the cards that you didnt think of yourself? Therefor
+you can use e.g. the Whiteboard application in Teams or standalone.</p>
+<p>Basic kata in this week (about 1 hour):</p>
+<p>Write down your identified contacts in a targeted and friendly manner
+via the channels that seem suitable to you and refer briefly to your
+first topic article and the rough topic plan.</p>
+<p>If necessary take up suitable links and sources that connect you with
+each other professionally and that the expert has already prepared
+comprehensively or competently from your perspective.</p>
+<p>Advanced video kata in this week (about 1 to 2 hours):</p>
+<p>Create a small video podcast episode in which you welcome your potential
+ePortfolio visitors and describe your topic ideas audiovisually.</p>
+                
+              
+              
+                
+
+
+  <h2 id="__comments">Kommentare</h2>
+  <div id="disqus_thread"></div>
+  <script>var disqus_config=function(){this.page.url="https://cogneon.github.io/2-1-Lernbereich-5/",this.page.identifier="2-1-Lernbereich-5/"};window.addEventListener("load",function(){var e=document,i=e.createElement("script");i.src="//lernos.disqus.com/embed.js",i.setAttribute("data-timestamp",+new Date),(e.head||e.body).appendChild(i)})</script>
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        <a href="../2-1-Lernbereich-4/" class="md-footer__link md-footer__link--prev" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Zurück
+              </span>
+              Learning area 4 - Topic article and learning reflection
+            </div>
+          </div>
+        </a>
+      
+      
+        <a href="../2-1-Lernbereich-6/" class="md-footer__link md-footer__link--next" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Weiter
+              </span>
+              Learning area 6 - Topic plan
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "..", "features": [], "translations": {"clipboard.copy": "In Zwischenablage kopieren", "clipboard.copied": "In Zwischenablage kopiert", "search.config.lang": "de", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Suche", "search.result.placeholder": "Suchbegriff eingeben", "search.result.none": "Keine Suchergebnisse", "search.result.one": "1 Suchergebnis", "search.result.other": "# Suchergebnisse", "search.result.more.one": "1 weiteres Suchergebnis auf dieser Seite", "search.result.more.other": "# weitere Suchergebnisse auf dieser Seite", "search.result.term.missing": "Es fehlt"}, "search": "../assets/javascripts/workers/search.fe42c31b.min.js", "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.4ea5477f.min.js"></script>
+      
+    
+  </body>
+</html>

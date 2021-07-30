@@ -5,8 +5,8 @@ REM Required Software
 REM See lernOS Core Repository
 
 REM Variables
-set filename="lernOS-ePortfolio-Guide-en"
-set chapters=./src/index.md ./src/1-Basics.md ./src/2-0-Learning-Pathway.md ./src/2-1-Learning-area-1.md ./src/2-1-Learning-area-2.md ./src/2-1-Learning-area-3.md ./src/2-1-Learning-area-4.md ./src/2-1-Learning-area-5.md ./src/2-1-Learning-area-6.md ./src/2-1-Learning-area-7.md ./src/3-Lessons-Learned.md ./src/4-Appendix.md
+set filename="lernOS-ePortfolio-Guide-de"
+set chapters=./src/index.md ./src/1-Grundlagen.md ./src/2-0-Lernpfad.md ./src/2-1-Lernbereich-1.md ./src/2-1-Lernbereich-2.md ./src/2-1-Lernbereich-3.md ./src/2-1-Lernbereich-4.md ./src/2-1-Lernbereich-5.md ./src/2-1-Lernbereich-6.md ./src/2-1-Lernbereich-7.md ./src/3-Lessons-Learned.md ./src/4-Anhang.md
 
 REM Delete Old Versions
 echo Deleting old versions ...
