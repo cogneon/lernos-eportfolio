@@ -57,6 +57,7 @@ Wähle ein ePortfolio-Werkzeug aus der Orientierungs-Liste aus und experimentier
 | ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Example: *Microsoft OneNote* | Mix of videos and screenshots that I have embedded in my text. Various thematically different notebooks Topic: Learning hacks | + comfortable embedding of media (videos, wakelet, office etc.)<br /><br />+ structuring easily possible<br /><br />- unwieldy for larger groups (compared to blog etc.) | I would use the tool to work out topics for myself. I would share the notebooks in small groups and develop them further with my colleagues. |
 | ...                          | ...                                                          | ...                                                          | ...                                                          |
+
 Vertiefungs-Kata (ca. 1 bis 2 Stunden): Stellt eine vergleichende Toolanalyse für zwei der favorisierten Werkzeuge auf, die Ihr dann den anderen präsentierst. So könnt Ihr noch besser gemeinsam eine Entscheidung treffen.
 
 Als Orientierungshilfe kann Euch hierbei die Aufbereitung anhand des [8C-model for collaborative technologies](http://bas.uni-koblenz.de/bas/publications_light.nsf/9419ff0c508bbae8c1257219004fef63/e71c2845ef894202c1257b45003f4934/$FILE/E2.0-collaborative-technologies.pdf) von Susan Williams (2011) der Universität Koblenz-Landau dienen.
