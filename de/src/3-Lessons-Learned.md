@@ -1,20 +1,15 @@
 # Lessons learned
 
-Here you can document your experiences as a separate
-reflection area during the 12 weeks of the learning circle:
+Hier kannst Du **Deine Erfahrungswerte** als gesonderten Reflexionsbereich im Laufe der 12 Wochen des Learning Circles festhalten:
 
-What were our experiences in creating the Circle Guide in a nutshell:
+Was waren **unsere Erfahrungswerte** bei der Erstellung des Circle Guides - kurz und knapp:
 
-1.  Bring a long breath and patience in the creation.
+1.  Einen langen Atem und Geduld bei der Erstellung mitbringen
 
-2.  Gradually compile the contents of the weeks and katas, if possible
-    in combination with a learning area or at least a guideline week
-    with exercises.
+2.  Schrittweise die Inhalte aus den Wochen und Katas zusammentragen, nach Möglichkeit im Verbund eines Lernbereichs oder zumindest einer Leitfaden-Woche mit Übungen
 
-3.  Pay attention to the golden thread and transition between exercises
-    and following weeks and close gaps.
+3.  Roten Faden und Übergang zwischen Übungen und Folgewochen beachten und Lücken schließen
 
-4.  Dont squeeze too much into a weekly session - less is more!
+4.  Nicht zuviel auf einmal in eine Wochensession pressen – weniger ist mehr!
 
-5.  Deliberately formulate katas as learning offers that promote
-    motivation.
+5.  Katas bewusst als Lernangebote formulieren, welche die Motivation fördern
