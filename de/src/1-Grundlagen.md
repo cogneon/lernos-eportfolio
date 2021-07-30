@@ -2,10 +2,10 @@
 Zu Beginn:
 Wenn Du überlegst, ob Du diesen Circle durchführen möchtest, dann schau Dir am besten einmal die nachfolgenden Grundlagen an, die wir für Dich zusammengestellt haben:
 
-	• Was steckt eigentlich hinter der Idee eines ePortfolios und welche Mehrwerte kann es bieten?
-	• Welche Bestandteile hat ein ePortfolio?
-	• Wie funktioniert das Führen eines ePortfolios?
-	• Was meint Reflektieren beim ePortfolio?
+- Was steckt eigentlich hinter der Idee eines ePortfolios und welche Mehrwerte kann es bieten?
+- Welche Bestandteile hat ein ePortfolio?
+- Wie funktioniert das Führen eines ePortfolios?
+- Was meint Reflektieren beim ePortfolio?
 
 Anhand der ePortfolio Learning-Methode möchten wir, dass Ihr im Circle gemeinsam an einem von Dir oder Euch selbst gewählten, spannenden Thema arbeitet. Du kannst Dir dazu eine online sichtbare Expertise aufbauen. Außerdem besteht dadurch die Möglichkeit, Dich mit anderen zu diesem Thema zu vernetzen und eine neue Praxis-Community aufzubauen oder Dich einer anzuschließen. Nun schauen wir uns aber erstmal die Basics genauer an.
 
@@ -91,4 +91,4 @@ Nun habt Ihr alle wichtigen Basis-Informationen zum Lernen mit ePortfolios erhal
 7) Brunner, I. / Häcker, T. / Winter, F. (Hrsg.) (2008): Das Handbuch Portfolioarbeit (2. Auflage). 1. Auflage 2006. Seelze-Velber: Kallmeyer.
 8) Hilzensauer, W. / Hornung-Prähauser, V. (2006): ePortfolio – Methode und Werkzeug für kompetenzorientiertes Lernen. Salzburg Research Forschungsgesellschaft m.b.H. – EduMedia [PDF]. Online verfügbar unter: http://edumedia.salzburgresearch.at/ images/stories/EduMedia/Inhalte/eportfolio_srfg.pdf (letzter möglicher Abruf am 03.12.2012). Alternativer Link unter: https://docplayer.org/16445308-Eportfolio-methode-und-werkzeug-fuer-kompetenzbasiertes-lernen.html [Abruf am 12.10.2020]
 9) Hornung-Prähauser, V., Geser, G., Hilzensauer, W., Schaffert, S. (2007): Didaktische, organisatorische und technologische Grundlagen von E-Portfolios und Analyse internationaler Beispiele und Erfahrungen mit E-Portfolio-Implementierungen an Hochschulen. Salzburg: Salzburg Research Forschungsgesellschaft und fnm-austria. Online verfügbar als PDF unter: http://www.fnm-austria.at/projekte/ePortfolio/Dateiablage/view/fnm-austria_ePortfolio_Studie_SRFG.pdf [letzter möglicher Abruf am 15.02.2013]. Alternativer Link unter: https://www.yumpu.com/de/document/view/32927444/didaktische-organisatorische-und-technologische-grundlagen-von- [Abruf am 12.10.2020]
-10) Kirchner, Marcel (2015): Social-Software-Portfolios im Einsatz – Zwischen Online-Lernen und Medienkompetenz im selbstgesteuert-konnektiven Lernalltag. vwh-Verlag, Boizenburg.![grafik](https://user-images.githubusercontent.com/84276941/127634887-afca6958-7f58-4bb1-8795-eca4f9917ed7.png)
+10) Kirchner, Marcel (2015): Social-Software-Portfolios im Einsatz – Zwischen Online-Lernen und Medienkompetenz im selbstgesteuert-konnektiven Lernalltag. vwh-Verlag, Boizenburg.
