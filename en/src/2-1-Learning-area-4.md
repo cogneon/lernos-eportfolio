@@ -6,18 +6,18 @@ Structure:
 
 *Week 6*
 
-A) Searching and reading of first sources (Seeking method)
-B) Classification of the sources with short explanation (Sensemaking
+- A) Searching and reading of first sources (Seeking method)
+- B) Classification of the sources with short explanation (Sensemaking
 method)
-C) Instructions on how a good learning reflection can be processed
+- C) Instructions on how a good learning reflection can be processed
 
 *Week 7*
 
-D) Short presentation of the entry level sources and integration into
+- D) Short presentation of the entry level sources and integration into
 the first topic article / posting
-E) Publication of the article / if applicable video microlearning
+- E) Publication of the article / if applicable video microlearning
 (Sharing method)
-F) Learning reflection round of the last two weeks
+- F) Learning reflection round of the last two weeks
 
 ![Sketchnote Preparation and publication of first contents from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image13.jpeg)
 
