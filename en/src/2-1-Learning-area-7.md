@@ -16,8 +16,6 @@ next steps
 
 ### Week 12 - Retrospective
 
-![Sketchnote The successfully established ePortfolio from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image16.jpeg)
-
 **Closing week 12**
 
 **A) Brief instructions for feedback motivation and reflection** | (approx. 20 minutes)
