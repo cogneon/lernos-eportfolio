@@ -41,7 +41,7 @@ Daher wurde versucht, eine integrierende Sichtweise als Methode zu definieren un
 -----------------------
 -----------------------
 
-2. Welche Bestandteile hat ein ePortfolio?
+**2. Welche Bestandteile hat ein ePortfolio?**
 
 Hier gibt es eine Fülle an Möglichkeiten und Werkzeugen, die unterschiedlich einsetzbar sind. Nachfolgend dazu eine Empfehlung aufgrund unserer bisherigen Erfahrung.
 
