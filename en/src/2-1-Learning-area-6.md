@@ -6,14 +6,14 @@
 
 *Week 10*
 
-A) Exchange about the feedback of the contacts made so far
-B) Refine topic ideas and vote on their relevance together in a voting
-C) Discuss ideas for topics together and put them in a first order
+- A) Exchange about the feedback of the contacts made so far
+- B) Refine topic ideas and vote on their relevance together in a voting
+- C) Discuss ideas for topics together and put them in a first order
 
 *Week 11*
-D) Presentation of the previous revised topic plan
-E) Taking and giving feedback
-F) Encourage community exchange
+- D) Presentation of the previous revised topic plan
+- E) Taking and giving feedback
+- F) Encourage community exchange
 
 ![Sketchnote Editorial plan and growing community feedback from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image15.jpeg)
 
