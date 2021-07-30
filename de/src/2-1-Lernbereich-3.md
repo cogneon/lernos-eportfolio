@@ -24,7 +24,7 @@ Struktur:
 
 In dieser Woche sollt Ihr Euer Thema / Themeninteresse vorerst abrunden und eine finalisierte erste Version für Euch erreicht haben. Dafür könnt Ihr die Zeit im Circle gemeinsam nutzen, um den anderen noch letzte Weiterentwicklungen oder Anpassungen auf der Basis des erhaltenen Feedbacks vorzustellen. Das müsst Ihr diesmal nicht alle im Circle tuen, sondern könnt die anderen auch bitten, im Laufe der Woche über Euren finalen Stand zu schauen. Sicherlich hat der eine oder andere aber noch eine Idee, die in der Runde eventuell thematisiert werden soll.
 
-*tellt Euch ggf. ergänzend die Frage: Was zeichnet für Euch grundsätzlich ein gutes ePortfolio aus und welche Grundfunktionalitäten sollte es mitbringen? (siehe dazu auch Grundlagen)*
+*Stellt Euch ggf. ergänzend die Frage: Was zeichnet für Euch grundsätzlich ein gutes ePortfolio aus und welche Grundfunktionalitäten sollte es mitbringen? (siehe dazu auch Grundlagen)*
 
 **B) Kuratierte ePortfolio-Werkzeugliste anschauen und Austausch über mögliche Erfahrungswerte mit einem Tool** | ( ca. 25 Minuten)
 
