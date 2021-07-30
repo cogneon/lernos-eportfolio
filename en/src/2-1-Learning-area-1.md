@@ -5,9 +5,9 @@ Structure:
 
 *Week 0*
 
-A) Getting to know each other and intention of the circle
-B) Discussion of the circle learning path over the 12 weeks
-C) Future exchange framework (time and tool usage) and expectations
+- A) Getting to know each other and intention of the circle
+- B) Discussion of the circle learning path over the 12 weeks
+- C) Future exchange framework (time and tool usage) and expectations
 
 First short basic kata
 
