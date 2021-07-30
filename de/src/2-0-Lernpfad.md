@@ -13,6 +13,5 @@
 
 ![Visualisations as sketchnotes from Katrin Mäntele - on Twitter [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image7.jpeg)
 (deutsche Grafik)
--> PDF OnePager!?
 
 Und schon geht’s los beim 1. Lernbereich 😊
