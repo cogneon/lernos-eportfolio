@@ -58,38 +58,27 @@ Die nachfolgende Infografik fasst diese Prozesse einmal visuell zusammen:
 
 Beim Einsatz eines ePortfolios und Anwenden der zugehörigen Methode werden im Wesentlichen die folgenden Prozesse ausgeführt, die bereits oben kurz erwähnt wurden (vgl. Hornung-Prähauser et al. 2007: 15):
 
-	1. **Ziele setzen**, um die Vorgehensweise und Rahmenbedingungen beim Führen des ePortfolios zu klären.
-	2. **Sammeln, Selektieren und Verknüpfen** der Inhalte, um den Kompetenzaufbau im Lernprozess zu dokumentieren.
-	3. Reflektieren im ePortfolio, um die eigene Leistung kritisch zu hinterfragen und das Lernziel zu analysieren.
-	4. Präsentieren und Weitergeben der Ergebnisse an Dritte, um den Kompetenzaufbau sichtbar werden zu lassen.
-	5. Bewerten und Evaluieren des ePortfolios, um den Kompetenzaufbau ganzheitlich beurteilen zu können (optional).
+1. **Ziele setzen**, um die Vorgehensweise und Rahmenbedingungen beim Führen des ePortfolios zu klären.
+2. **Sammeln, Selektieren und Verknüpfen** der Inhalte, um den Kompetenzaufbau im Lernprozess zu dokumentieren.
+3. **Reflektieren** im ePortfolio, um die eigene Leistung kritisch zu hinterfragen und das Lernziel zu analysieren.
+4. **Präsentieren und Weitergeben** der Ergebnisse an Dritte, um den Kompetenzaufbau sichtbar werden zu lassen.
+5. **Bewerten und Evaluieren** des ePortfolios, um den Kompetenzaufbau ganzheitlich beurteilen zu können (optional).
 
-**4. What does it mean to reflect with an ePortfolio?**
+**4. Was meint Reflektieren beim ePortfolio genauer?**
 
-Therefore we recommend [the first two minutes]{.underline} of Marcels
-second online tutorial:
+Dazu empfehlen wir die [ersten 2 Minuten]{.underline} des zweiten Online.Tutorials von Marcel:
 
-[ePortfolios in use - part 2](https://www.youtube.com/watch?v=_h4Q4_YEFKU) (total length approx. 8 min.)
+[E-Portfolios im Einsatz - Teil 2](https://www.youtube.com/watch?v=_h4Q4_YEFKU) (Gesamtlänge ca. 8 min.)
 
 ![Video-Webinhalt mit Titel: Online-Tutorial E-Portfolios im Einsatz - Teil 2](./images/image6.jpg)
 
-As the native language is German please activate subtitles and
-choose English via the gear setting next to it:
-
-![Deutsch (Deutschland) E-Portfolios im Einsa s. Englisch (Vereinigte Staaten) Let us Dipl.-Medienwtss. Marc thouc Automatisch übersetzen](./images/image3.png)
-
-Typical questions for orientation which you should ask yourself again
-and again for reflection and which should be recorded as answers in
-the ePortfolio are:
-
--   What have I learned so far?
--   Where do I stand today?
--   What should be my next steps?
-
+Typische Orientierungsfragen, die man sich zum Reflektieren immer wieder stellt und als Antworten im ePortfolio festgehalten werden sollten, sind:
+	• "Was habe ich bisher gelernt?"
+	• "Wo stehe ich heute?"
+	• "Was sollen meine nächsten Schritte sein?"
 (Atwell 2007, Hornung-Prähauser et al. 2007)
 
-Now you have received all the important basic information about
-learning with ePortfolios and you can continue on your learning path.
+Nun habt Ihr alle wichtigen Basis-Informationen zum Lernen mit ePortfolios erhalten und könnt beim Lernpfad direkt weiter durchstarten.
 
 **Quellen**
 
@@ -146,3 +135,14 @@ learning with ePortfolios and you can continue on your learning path.
 -   Kirchner, Marcel (2015): Social-Software-Portfolios im Einsatz --
     Zwischen Online-Lernen und Medienkompetenz im
     selbstgesteuert-konnektiven Lernalltag. vwh-Verlag, Boizenburg.
+    
+1) Attwell, Graham (2007): E-Portfolio Entwicklung und Verwendung [Video-Quelle]. Ins Deutsche übersetzt von der Salzburg Research Forschungsgesellschaft. http://blip.tv/pontydysgu/e-portfolio-entwicklung-und-verwendung-416096 [letzter möglicher Zugriff am 19.10.2013]. Verfügbarer alternativer Inhalt auf Slideshare: https://de.slideshare.net/GrahamAttwell/eportfolio-development-and-implementation [Abruf am 12.10.2020]
+2) Bauer, R. / Baumgartner, P. (2012): Schaufenster des Lernens: Eine Sammlung von Mustern zur Arbeit mit E-Portfolios. Münster: Waxmann Verlag.
+3) Baumgartner, P. / Bauer, R. (2012): Didaktische Szenarien mit E-Portfolios gestalten: Mustersammlung statt Leitfaden. In: Csanyi, G. / Reichl, F. / Steiner, A. (Hrsg.): Digitale Medien - Werkzeuge für exzellente Forschung und Lehre. Medien in der Wissenschaft, Band 61, S. 383-392. Münster: Waxmann.
+4) Baumgartner, P. / Zauchner, S. / Bauer, R. (Hrsg.) (2009): The Potential of E-Portfolios in Higher Education. Innsbruck/Wien/Bozen: StudienVerlag.
+5) Bernhardt, Thomas / Kirchner, Marcel (2007): E-Learning 2.0 im Einsatz - "Du bist der Autor!" - Vom Nutzer zum WikiBlog-Caster. vwh-Verlag, Boizenburg.
+6) Bräuer, Gerd (2000): Schreiben als reflexive Praxis: Tagebuch, Arbeitsjournal, Portfolio. Freiburg im Breisgau: Fillibach-Verlag.
+7) Brunner, I. / Häcker, T. / Winter, F. (Hrsg.) (2008): Das Handbuch Portfolioarbeit (2. Auflage). 1. Auflage 2006. Seelze-Velber: Kallmeyer.
+8) Hilzensauer, W. / Hornung-Prähauser, V. (2006): ePortfolio – Methode und Werkzeug für kompetenzorientiertes Lernen. Salzburg Research Forschungsgesellschaft m.b.H. – EduMedia [PDF]. Online verfügbar unter: http://edumedia.salzburgresearch.at/ images/stories/EduMedia/Inhalte/eportfolio_srfg.pdf (letzter möglicher Abruf am 03.12.2012). Alternativer Link unter: https://docplayer.org/16445308-Eportfolio-methode-und-werkzeug-fuer-kompetenzbasiertes-lernen.html [Abruf am 12.10.2020]
+9) Hornung-Prähauser, V., Geser, G., Hilzensauer, W., Schaffert, S. (2007): Didaktische, organisatorische und technologische Grundlagen von E-Portfolios und Analyse internationaler Beispiele und Erfahrungen mit E-Portfolio-Implementierungen an Hochschulen. Salzburg: Salzburg Research Forschungsgesellschaft und fnm-austria. Online verfügbar als PDF unter: http://www.fnm-austria.at/projekte/ePortfolio/Dateiablage/view/fnm-austria_ePortfolio_Studie_SRFG.pdf [letzter möglicher Abruf am 15.02.2013]. Alternativer Link unter: https://www.yumpu.com/de/document/view/32927444/didaktische-organisatorische-und-technologische-grundlagen-von- [Abruf am 12.10.2020]
+10) Kirchner, Marcel (2015): Social-Software-Portfolios im Einsatz – Zwischen Online-Lernen und Medienkompetenz im selbstgesteuert-konnektiven Lernalltag. vwh-Verlag, Boizenburg.![grafik](https://user-images.githubusercontent.com/84276941/127634887-afca6958-7f58-4bb1-8795-eca4f9917ed7.png)
