@@ -6,19 +6,15 @@
 
 *Woche 10*
 
-A) Austausch über das bisherige Feedback der entstandenen Kontakte
-
-B) Themenideen verfeinern und gemeinsam in einem Voting über die Relevanz abstimmen
-
-C) Ideen für Themen gemeinsam diskutieren und in eine erste Reihenfolge bringen
+- A) Austausch über das bisherige Feedback der entstandenen Kontakte
+- B) Themenideen verfeinern und gemeinsam in einem Voting über die Relevanz abstimmen
+- C) Ideen für Themen gemeinsam diskutieren und in eine erste Reihenfolge bringen
 
 *Woche 11*
 
-D) Vorstellen des bisherigen überarbeiteten Themenplans
-
-E) Feedback nehmen und geben
-
-F) Community-Austausch fördern
+- D) Vorstellen des bisherigen überarbeiteten Themenplans
+- E) Feedback nehmen und geben
+- F) Community-Austausch fördern
 
 ![Sketchnote Editorial plan and growing community feedback from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image15.jpeg)
 
