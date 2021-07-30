@@ -117,30 +117,10 @@ Helpful criteria can be, for example, user-friendliness (usability) and
 click paths, possible costs, suitable application scenarios as well as
 dialogue and feedback possibilities.
 
-+-------------+-----------------+-----------------+-----------------+
-| **Tool**    | **Description   | **+ good / -    | **My            |
-|             | and criteria**  | bad**           | r               |
-|             |                 |                 | ecommendation** |
-+=============+=================+=================+=================+
-| *Example:* | *Mix of videos  | *+ comfortable  | *I would use    |
-| *Microsoft | and screenshots | embedding of    | the tool to     |
-| OneNote*    | that I have     | media (videos,  | work out topics |
-|             | embedded in my  | wakelet, office | for myself. I   |
-|             | text. Various   | etc.)*          | would share the |
-|             | thematically    |                 | notebooks in    |
-|             | different       | *+ structuring  | small groups    |
-|             | notebooks      | easily          | and develop     |
-|             | Topic: Learning | possible*       | them further    |
-|             | hacks*          |                 | with my         |
-|             |                 | *- unwieldy for | colleagues.*    |
-|             |                 | larger groups   |                 |
-|             |                 | (compared to    |                 |
-|             |                 | blog etc.)*     |                 |
-+-------------+-----------------+-----------------+-----------------+
-| ...        | ...            | ...            | ...            |
-+-------------+-----------------+-----------------+-----------------+
-|            |                |                |                |
-+-------------+-----------------+-----------------+-----------------+
+| **Tool**                     | **Description and criteria**                                 | **+ good / - bad**                                           | **My recommendation**                                        |
+| ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Example: *Microsoft OneNote* | Mix of videos and screenshots that I have embedded in my text. Various thematically different notebooks Topic: Learning hacks | + comfortable embedding of media (videos, wakelet, office etc.)<br /><br />+ structuring easily possible<br /><br />- unwieldy for larger groups (compared to blog etc.) | I would use the tool to work out topics for myself. I would share the notebooks in small groups and develop them further with my colleagues. |
+| ...                          | ...                                                          | ...                                                          | ...                                                          |
 
 Advanced kata (approx. 1 to 2 hours): Make a comparative
 tool analysis for two of your favorite tools which you then present to
