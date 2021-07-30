@@ -20,8 +20,6 @@ F) Learning reflection on the current status
 
 ### Week 8 - Distribution of the article
 
-![Sketchnote Contact establishment and feedback from the community from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image14.jpeg)
-
 **A) Developing content ideas for further topic contributions** | (approx. 20 minutes)
 
 After you have created your first topic contribution during the last two
