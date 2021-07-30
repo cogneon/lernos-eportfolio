@@ -6,19 +6,19 @@ docs_dir: src
 site_dir: ../docs/de
 
 nav:
-    - About lernOS: index.md
-    - Basics: 1-Grundlagen.md
-    - Learning Pathway:
-        - Learning Pathway Overview: 2-0-Lernpfad.md
-        - Learning area 1 - Get to know: 2-1-Lernbereich-1.md
-        - Learning area 2 - Topic interest: 2-1-Lernbereich-2.md
-        - Learning area 3 - ePortfolio tools: 2-1-Lernbereich-3.md
-        - Learning area 4 - Topic article and learning reflection: 2-1-Lernbereich-4.md
-        - Learning area 5 - Networking: 2-1-Lernbereich-5.md
-        - Learning area 6 - Topic plan: 2-1-Lernbereich-6.md
+    - Über lernOS: index.md
+    - Grundlagen: 1-Grundlagen.md
+    - Lernpfad:
+        - Lernpfad Überblick: 2-0-Lernpfad.md
+        - Lernbereich 1 - Kennenlernen: 2-1-Lernbereich-1.md
+        - Lernbereich 2 - Themeninteresse: 2-1-Lernbereich-2.md
+        - Lernbereich 3 - ePortfolio-Werkzeuge: 2-1-Lernbereich-3.md
+        - Lernbereich 4 - Themenbeitrag und Lernreflexio: 2-1-Lernbereich-4.md
+        - Lernbereich 5 - Vernetzun: 2-1-Lernbereich-5.md
+        - Lernbereich 6 - Themenplan: 2-1-Lernbereich-6.md
         - Learning area 7 - Feedback / Lessons learned: 2-1-Lernbereich-7.md
     - Lessons Learned: 3-Lessons-Learned.md
-    - Appendix: 4-Anhang.md
+    - Anhang: 4-Anhang.md
 
 theme:
     name: 'material'

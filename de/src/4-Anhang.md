@@ -1,4 +1,4 @@
-# Appendix
+# Anhang
 
 ## Links
 
@@ -27,7 +27,7 @@ Daher möchten wir uns bei all diesen hier noch einmal ganz herzlich bedanken:
 
 5.  und natürlich bei unseren Partnern und Familien für die rücksichtsvolle Unterstützung dieser zum größten Teil freiwilligen / ehrenamtlichen Tätigkeit neben der täglichen Arbeit!
 
-## Changelog
+## Änderungshistorie
 
   Version 0.1   28.11.2019   Nach Ende des lernOS OKR-Circles und erster Weiterführung mit Herta und Stefan
   
