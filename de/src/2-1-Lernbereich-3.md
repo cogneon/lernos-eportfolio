@@ -22,8 +22,6 @@ use for your ePortfolio and why
 
 ### Week 4 - Variety of tools
 
-![Sketchnote Experiment with different ePortfolio tools from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image12.jpeg)
-
 **A) Present possible further development of the topic** | (approx. 15 Minuten)
 
 In this week you should complete your subject / topic of interest in the
