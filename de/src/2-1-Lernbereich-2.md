@@ -1,117 +1,57 @@
-## Learning area 2 - Topic interest
+## Lernbereich 2 - Themeninteresse
 
-**State topic interest and define objectives for the ePortfolio (weeks 2-3)**
+**Themeninteresse bekunden und Zielstellungen für das ePortfolio abstecken 
+(Wochen 2-3)**
 
-Structure:
+Struktur:
 
-*Week 2*
+*Woche 2*
+- A) Mitgebrachte ePortfolio-Beispiele kurz vorstellen
+- B) Mögliches Themeninteresse für das ePortfolio eingrenzen und Motivation klären (Warum?)
+- C) Zielstellung/en des ePortfolios abstecken und wen möchte ich erreichen (Zielgruppe/n)
+Basic- und Vertiefungs-Kata
 
-A) Brief presentation of ePortfolio examples you have brought with you
-B) Limit the possible topic interest for the ePortfolio and clarify
-motivation (Why?)
-C) Define the objective(s) of the ePortfolio and whom I want to reach (target group(s)) Basic and advanced kata
+*Woche 3*
+- D) Erarbeitetes Themeninteresse, Motivation, Zielstellungen und -gruppe gegenseitig vorstellen
+- E) Feedback nehmen und geben
+- F) Wie strukturiere ich zukünftig meine möglichen Wochenaktivitäten im ePortfolio?
+Basic- und Vertiefungs-Kata sowie eine weitere optionale Video-Kata
 
-*Week 3*
+![Sketchnote Themenideen und Zielstellungen des ePortfolios von Katrin Mäntele [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image11.jpeg)
 
-D) Present the topic interest, motivation, objective(s) and target
-group(s) to each other
-E) Taking and giving feedback
-F) How do I prospectively structure my possible weekly activities in my
-ePortfolio?
+### Woche 2 - Zielstellungen
 
-Basic and advanced kata and another optional video kata
+**A) Mitgebrachte ePortfolio-Beispiele kurz vorstellen** | (ca. 25 Minuten)
+Willkommen zur zweiten inhaltlichen Woche! Nachdem ihr vorige Woche ein Grundverständnis für die ePortfolio-Lernmethode gewinnen konntet und ein grobes Themeninteresse ermittelt habt, werdet Ihr dies heute gemeinsam vertiefen. Bitte schaut Euch dazu zunächst zusammen einmal genauer, Beispiele für ePortfolios an und stellt sie Euch gegenseitig kurz im Circle vor. Achtet vor allem auf Gemeinsamkeiten oder Unterschiede zwischen den Beispielen. Hier könnt Ihr gerne eine kurze Stichpunktliste mit Kriterien festhalten, die bei den Beispielen immer wiederkehren oder auch ganz individuell sein, um für Euch eine weitere Orientierung zu haben.
 
-![Sketchnote Topic ideas and objectives of the ePortfolio from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image11.jpeg)
+**B) Mögliches Themeninteresse für das ePortfolio eingrenzen und Motivation klären (Warum?)** | (ca. 25 Minuten)
+Stellt Euch nun in der Runde gegenseitig Euer Themeninteresse vor, über das Ihr Euer ePortfolio gerne aufbauen möchtet und warum dieses so spannend oder relevant für Euch ist. Gebt Euch hierzu auch gerne erstes Feedback.
 
-### Week 2 - Objectives
+**C) Zielstellung des ePortfolios abstecken und wen möchte ich erreichen (Zielgruppe/n)** | (ca. 10 Minuten)
+Überlegt Euch zum Abschluss zusammen eine erste mögliche Zielstellung für das ePortfolio und wen Ihr zunächst erreichen wollt. Dies kann sich natürlich im Laufe der Zeit noch ändern oder erweitern.
 
-**A) Brief presentation of ePortfolio examples you have brought with you** | (approx. 25 minutes)
+Basic-Kata für diese Woche (ca. 1 Stunde): Formuliert aus dem bisherigem Stand Euer detailliertes ePortfolio-Themeninteresse / Thema, die Haupt-Zielgruppe und eine zentrale Zielstellung des ePortfolios.
 
-Welcome to the second content week! After you were able to gain a basic
-understanding of the ePortfolio learning method last week and determined
-a rough interest in the topic you will deepen this together today.
-Please take a closer look at some examples of ePortfolios and introduce
-them to each other in a circle. Pay special attention to similarities or
-differences between the examples. You are welcome to write down a short
-list of criteria that are recurring in the examples or that are very
-individual to give you further orientation.
+Beispiel zur Orientierung: "Ich möchte mir eine Umgebung einrichten, in der ich meine persönlichen Lernschritte zum Thema künstliche Intelligenz entwickeln, dokumentieren und der Community zur Verfügung stellen kann. Dabei möchte ich vor allem andere Interessierte für dieses Themenfeld begeistern und nach Möglichkeit mit Experten in Austausch treten."
 
-**B) Limit the possible topic interest for the ePortfolio and clarify motivation (Why?)** | (approx. 25 minutes)
+Vertiefungs-Kata (ca. 1 Stunde): Formuliert tiefergehende Lern- oder Unterziele und führt eine kleine Zielgruppenanalyse durch, um ggf. verschiedene Gruppen besser ansprechen zu können *-> ggf. Hilfestellung zur Zielgruppenanalyse und Lernzielformulierung –> Kernfragen formulieren*
 
-Now please introduce each other your topic of interest about which you
-would like to build your ePortfolio and why it is so exciting or
-relevant for you. We would also like you to give your first feedback on
-this.
+### Woche 3 - Strukturierung
 
-**C) Define the objective(s) of the ePortfolio and whom I want to reach (target group(s))** | (approx. 10 minutes)
+**D) Erarbeitetes Themeninteresse, Motivation, Zielstellungen und -gruppe gegenseitig vorstellen** | (ca. 20 Minuten)
+In dieser Woche seid Ihr kurz davor, alle grundlegenden, inhaltlichen Voraussetzungen für den Beginn des ePortfolios abzuschließen. Das ist also der erste wichtige Meilenstein, bevor es an die Auswahl des passenden Online-Werkzeugs und die erste Veröffentlichung geht. Stellt Euch heute im Circle der Reihe nach Eure Themen / Themeninteressen vor und beschreibt dabei, welche Zielgruppe und Zielstellung(en) Euer ePortfolio erreichen soll.
 
-At the end of the session think about a first possible objective for the
-ePortfolio and whom you want to reach first. Of course this may change
-or expand over time.
+**E) Feedback nehmen und geben** | (ca. 20 Minuten)
+Für die jeweils anderen im Circle ist es wichtig, dem / der Präsentierenden proaktiv zuzuhören und konstruktives Feedback zu geben. Idealer Weise wird dieses Feedback gleich passend festgehalten, damit es für den letzten Feinschliff genutzt werden kann.
 
-Basic kata for this week (approx. 1 hour): Out of the
-current state please formulate your detailed ePortfolio topic of
-interest / subject, the main target group and a central goal of the
-ePortfolio.
+**F) Wie strukturiere ich zukünftig meine möglichen Wochenaktivitäten im ePortfolio?** | (ca. 20 Minuten)
+Macht Euch schließlich im Circle gemeinsam Gedanken, ob und wie Ihr eine gewisse Regelmäßigkeit in das Führen eines ePortfolios bringen könnt. Hier ist es zum Beispiel sinnvoll, darüber nachzudenken, in welchem Turnus Beiträge geplant, erstellt und veröffentlicht werden sollen, welche Formate Ihr ausprobieren wollt, ob Ihr ein so genanntes Beitrags-Backlog (Liste von möglichen Inhalten, die für Beiträge in Frage kommen) erstellen möchtet und wie dieses aussehen kann.
 
-Example for orientation: "I would like to create an environment in
-which I can develop and document my personal learning steps on the topic
-of artificial intelligence and make them available to the community.
-Above all, I would like to inspire other interested parties for this
-field of interest and, if possible, enter into an exchange with
-experts"
+Basic-Kata für diese Woche (ca. 1 Stunde):
+Entwickelt auf der Grundlage des erhaltenen Feedbacks von den anderen Euer Themeninteresse / Thema weiter und verfeinert die Beschreibung der Zielstellungen.
 
-Advanced kata (approx. 1 hour): Formulate in-depth learning
-goals or sub-goals and carry out a small target group analysis in order
-to be able to address different groups more effectively if necessary.
+Vertiefungs-Kata "Having the end in mind" (ca. 1 Stunde)
+Überlegt Euch einmal, wie das konkrete Endergebnis nach den 12 Wochen des Circles aussehen könnte? Skizziert dieses kurz, selbst wenn nur ein vages Bild von diesem Ergebnis vorhanden ist. Nutzt dieses Bild in den kommenden Wochen, um es zu verfeinern, zu ergänzen und zu ändern. So könnt Ihr später besser reflektieren, wo Ihr steht und was Ihr noch erreichen wollt.
 
-If applicable assistance with target group analysis and formulation
-of learning objectives - Formulating core questions
-
-### Week 3 - Structuring
-
-**D) Present the topic interest, motivation, objective(s) and target group(s) to each other** | (approx. 20 minutes)
-
-This week you are about to complete all basic, content related
-requirements for the start of the ePortfolio. So this is the first
-important milestone before we start selecting the suitable online tool
-and the first release. Today take turns introducing your topics of
-interest / subjects to the circle and describe the target group and
-goal(s) you want to reach with your ePortfolio.
-
-**E) Taking and giving feedback** | (approx. 20 minutes)
-
-For the others in the circle it is important to listen proactively to
-the presenter and to give constructive feedback. Ideally, this feedback
-should be documented immediately and appropriately so that it can be
-used for the fine-tuning.
-
-**F) How do I prospectively structure my possible weekly activities in my ePortfolio?** | (approx. 20 minutes)
-
-Finally think about together in the circle whether and how you can bring
-a certain regularity towards the management of an ePortfolio. Here, for
-example, it makes sense to think about the frequency with which
-contributions are planned, created and published, which formats you want
-to try out, whether you want to create a so-called contribution backlog
-(list of possible content that can be considered for contributions) and
-how this can look like.
-
-Basic kata for this week (about 1 hour):
-
-Based on the feedback received from the others develop your topic of
-interest / subject further and refine the description of the
-objectives.
-
-Advanced kata "Having the end in mind" (approx. 1 hour)
-
-Think about how the concrete end result after the 12 weeks of the circle
-might look like? Sketch it out briefly, even if there is only a vague
-picture of this result. Use this image in the coming weeks to refine,
-add and change it. That way you can better reflect later on where you
-are and what you still want to achieve.
-
-Video kata (approx. 1 hour):
-
-Create a small video podcast sequence in which you describe the topic
-interest and the objectives of the ePortfolio in order to arouse the
-interest of your target group later.
+Video-Kata (ca. 1 Stunde):
+Erstellt eine kleine Videopodcast-Folge, in der Ihr das Themeninteresse und die Zielstellungen des ePortfolios beschreibt, um später das Interesse Eurer Zielgruppe zu wecken.
