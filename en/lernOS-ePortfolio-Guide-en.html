@@ -8,12 +8,143 @@
   <meta name="author" content="Herta Schuster and Stefan Diepolder" />
   <title>lernOS ePortfolio Guide</title>
   <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      word-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     span.underline{text-decoration: underline;}
     div.column{display: inline-block; vertical-align: top; width: 50%;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
@@ -28,6 +159,7 @@
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
+<li><a href="#introduction">Introduction</a></li>
 <li><a href="#about-lernos">About lernOS</a></li>
 <li><a href="#basics">Basics</a></li>
 <li><a href="#learning-pathway">Learning pathway</a>
@@ -76,6 +208,16 @@
 </ul></li>
 </ul>
 </nav>
+<h1 id="introduction">Introduction</h1>
+<p>When six of us started our first lernOS Circle in September 2019, it was not yet clear where this learning journey would lead us finally. But we were aware that we wanted to connect this experiment with something that could give something back to others who would try it after us.</p>
+<p><img src="./images/image1.jpg" /></p>
+<p>Basically each of us had his own topic that he pursued during the circle time. Nevertheless, the shared experience of supporting each other and exchanging information online enabled us to make good progress on all of our topics.</p>
+<p>Therefore the decision was made relatively quickly to continue with three of us after the Circle and to create two own guides (Circle Guides), which should enable others to gain these experiences themselves through various innovative learning methods. So in the end one of these two guides was created and we hope that it can accompany you well on your learning journey.</p>
+<p><strong>Central objectives of this ePortfolio Learning Guide</strong></p>
+<p>This Circle Guide would like to show you a learning method with which you can continue your education in an exciting future topic and exchange and network with other learners.</p>
+<p>You will be able to learn a basic and overview knowledge of the ePortfolio method and Social Software.</p>
+<p>At the same time you will build or further develop your own ePortfolio with a suitable software and work out a detailed understanding of an exciting topic with others.</p>
+<p>We are already looking forward to your field reports and wish you a lot of fun!</p>
 <h1 id="about-lernos">About lernOS</h1>
 <p>lernOS is a method of self-organization for people living and working in the 21st century. To be successful today, you need to be constantly learning, organizing and developing. No one else is responsible for this process. You have to take care of it yourself (self-directed, lifelong learning).</p>
 <p>lernOS guides are licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.de">Creative Commons Attribution 4.0 International</a> (CC BY 4.0):</p>
@@ -88,16 +230,8 @@
 <p><strong>Under the following conditions:</strong></p>
 <ul>
 <li><strong>Name attribution</strong> - you must provide appropriate copyright and rights notices, include a link to the license, and indicate if any modifications have been made. These disclosures may be made in any reasonable manner, but not in such a way as to give the impression that the licensor is particularly supportive of you or your use.</li>
-<li><strong>No Other Restrictions</strong> - You may not use any additional clauses or technical procedures that legally prohibit others from doing anything that the License permits. # Introduction When six of us started our first lernOS Circle in September 2019, it was not yet clear where this learning journey would lead us finally. But we were aware that we wanted to connect this experiment with something that could give something back to others who would try it after us.</li>
+<li><strong>No Other Restrictions</strong> - You may not use any additional clauses or technical procedures that legally prohibit others from doing anything that the License permits.</li>
 </ul>
-<p><img src="./images/image1.jpg" /></p>
-<p>Basically each of us had his own topic that he pursued during the circle time. Nevertheless, the shared experience of supporting each other and exchanging information online enabled us to make good progress on all of our topics.</p>
-<p>Therefore the decision was made relatively quickly to continue with three of us after the Circle and to create two own guides (Circle Guides), which should enable others to gain these experiences themselves through various innovative learning methods. So in the end one of these two guides was created and we hope that it can accompany you well on your learning journey.</p>
-<p><strong>Central objectives of this ePortfolio Learning Guide</strong></p>
-<p>This Circle Guide would like to show you a learning method with which you can continue your education in an exciting future topic and exchange and network with other learners.</p>
-<p>You will be able to learn a basic and overview knowledge of the ePortfolio method and Social Software.</p>
-<p>At the same time you will build or further develop your own ePortfolio with a suitable software and work out a detailed understanding of an exciting topic with others.</p>
-<p>We are already looking forward to your field reports and wish you a lot of fun!</p>
 <h1 id="basics">Basics</h1>
 <p>In the beginning: If you are thinking about doing this Circle, you might want to have a look at the following basics that we have put together for you:</p>
 <ul>
@@ -111,20 +245,20 @@
 <p>The portfolio method originally comes from the artistic field, in which works made with skill (= artifacts) are put together in a folder (portare = carry and folio = piece of paper in Latin). In addition, one discusses the contents of this portfolio with others in order to be able to develop further in the process and later even apply for a job. This was transferred to electronic use with the advent of digital media and the Internet. This also opens up more possibilities for designing an ePortfolio.</p>
 <p>As a further introduction we would like to recommend a small online tutorial which Marcel prepared in 2009 on this topic: <a href="https://www.youtube.com/watch?v=6lwSyXD20Jg">ePortfolios in use</a> (length approx. 9 min.)</p>
 <figure>
-<img src="./images/image2.jpg" alt="" /><figcaption>Video-Webinhalt mit Titel: Online-Tutorial E-Portfolios im Einsatz - Teil 1</figcaption>
+<img src="./images/image2.jpg" alt="Video-Webinhalt mit Titel: Online-Tutorial E-Portfolios im Einsatz - Teil 1" /><figcaption aria-hidden="true">Video-Webinhalt mit Titel: Online-Tutorial E-Portfolios im Einsatz - Teil 1</figcaption>
 </figure>
 <p>As the native language is German please activate subtitles and choose English via the gear setting next to it:</p>
 <figure>
-<img src="./images/image3.png" alt="" /><figcaption>Deutsch (Deutschland) E-Portfolios im Einsa s./ Englisch (Vereinigte Staaten) Let us Dipl.-Medienwtss. Marc thouc Automatisch übersetzen</figcaption>
+<img src="./images/image3.png" alt="Deutsch (Deutschland) E-Portfolios im Einsa s./ Englisch (Vereinigte Staaten) Let us Dipl.-Medienwtss. Marc thouc Automatisch übersetzen" /><figcaption aria-hidden="true">Deutsch (Deutschland) E-Portfolios im Einsa s./ Englisch (Vereinigte Staaten) Let us Dipl.-Medienwtss. Marc thouc Automatisch übersetzen</figcaption>
 </figure>
 <p>For those who prefer it in written words we can describe ePortfolios briefly and concisely as a hybrid form of online learning using various social software. On the one hand this software serves to transparently present oneself as a person with ones competencies and to network with others (= social networking). On the other hand it is used in combination with an appealing way of documenting the learning process and results using digital media (= social publishing). What has been learned is reflected in the process and specifically put up for discussion (see Bernhardt / Kirchner 2007: 82 f. &amp; Kirchner 2015: 32 f.).</p>
 <figure>
-<img src="./images/image4.jpeg" alt="" /><figcaption>Illustration of an ePortfolio as a sketchnote from Katrin Mäntele <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
+<img src="./images/image4.jpeg" alt="Illustration of an ePortfolio as a sketchnote from Katrin Mäntele [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)" /><figcaption aria-hidden="true">Illustration of an ePortfolio as a sketchnote from Katrin Mäntele <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
 </figure>
 <p>Little scientific exkursion (optional):</p>
 <p>For those who would like to know it in more detail the following classification is recommended (quoted from Kirchner 2015: 32ff. and translated corresponding into English):</p>
 <p>The original classification in the German-speaking countries comes from the Salzburg Research Society EduMedia:</p>
-<p>"E-portfolio is a digital collection of works made with skill (= lat. artefacts) of a person who wants to document and illustrate the product (learning outcomes) and the process (learning pathway/growth) of his or her competence development in a certain period of time and for certain purposes. The person concerned has made the selection of artefacts independently and organised them in relation to the learning objective. He/she, as the owner, has complete control over who, when and how much information from the portfolio can be viewed. (Hornung-Prähauser et al. 2007: 14 and Hilzensauer/Hornung-Prähauser 2006:4)</p>
+<p>“E-portfolio is a digital collection of works made with skill (= lat. artefacts) of a person who wants to document and illustrate the product (learning outcomes) and the process (learning pathway/growth) of his or her competence development in a certain period of time and for certain purposes. The person concerned has made the selection of artefacts independently and organised them in relation to the learning objective. He/she, as the owner, has complete control over who, when and how much information from the portfolio can be viewed. (Hornung-Prähauser et al. 2007: 14 and Hilzensauer/Hornung-Prähauser 2006:4)</p>
 <p><em>(see also <a href="https://www.e-teaching.org/lehrszenarien/pruefung/pruefungsform/eportfolio">similar classification of terms</a> on e-teaching.org - German language only)</em></p>
 <p>According to this classification the product and process were always in the foreground at first but the feedback loop was neglected and the competencies required for this were only indicated. In addition, metaphorically speaking, one also speaks of a showcase of ones own learning (Bräuer 2000: 22, quoted after Brunner et al. 2008: 35 as well as Bauer/Baumgartner 2012). This is at least the technological, rather tool-oriented perspective.</p>
 <p>From a pedagogical-didactic perspective, however, it is classified more as a (didactic) method of independent and competence-based learning and ist application of which is supported by various processes (including selection, reflection and presentation) with its own objectives and planning and can even go as far as a holistic institutionally controlled pedagogical concept. In the past this has led to an increasing confusion of terms.</p>
@@ -136,7 +270,7 @@
 <p>In a broader sense content is generated through processes of setting goals, collecting, selecting, linking and reflecting and finally prepared for presentation, dissemination and possible evaluation (see Kirchner 2015: 57 with reference to Hilzensauer, Hornung-Prähauser 2006: 5 or Hornung-Prähauser et al. 2007: 15). In the narrower sense relevant content is taken up as a kind of an eye into the web and published in a suitable manner via a showcase, e.g. as blog entries and tweets (see Kirchner 2015: 57 with reference to Bräuer 2000: 22 and Baumgartner / Bauer 2013).</p>
 <p>The following infographic visually summarizes these processes:</p>
 <figure>
-<img src="./images/image5.jpeg" alt="" /><figcaption>Illustration of learning with ePortfolios as sketchnote by <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
+<img src="./images/image5.jpeg" alt="Illustration of learning with ePortfolios as sketchnote by [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)" /><figcaption aria-hidden="true">Illustration of learning with ePortfolios as sketchnote by <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
 </figure>
 <p><em>According to a slightly adapted model of self-directed connective learning with e-portfolio blogs (Kirchner 2015: 58, Figure 11) as a further development following Bernhardt / Kirchner 2007: 89 and with reference to Hilzensauer, Hornung-Prähauser 2006: 5</em></p>
 <p><strong>3. How does the management of an ePortfolio work?</strong></p>
@@ -149,14 +283,14 @@
 <li><strong>Assessing and evaluating</strong> the ePortfolio in order to be able to assess the competence development holistically (optional).</li>
 </ul>
 <p><strong>4. What does it mean to reflect with an ePortfolio?</strong></p>
-<p>Therefor we recommend <span class="underline">the first two minutes</span> of Marcels second online tutorial:</p>
+<p>Therefor we recommend <u>the first two minutes</u> of Marcels second online tutorial:</p>
 <p><a href="https://www.youtube.com/watch?v=_h4Q4_YEFKU">ePortfolios in use - part 2</a> (total length approx. 8 min.)</p>
 <figure>
-<img src="./images/image6.jpg" alt="" /><figcaption>Video-Webinhalt mit Titel: Online-Tutorial E-Portfolios im Einsatz - Teil 2</figcaption>
+<img src="./images/image6.jpg" alt="Video-Webinhalt mit Titel: Online-Tutorial E-Portfolios im Einsatz - Teil 2" /><figcaption aria-hidden="true">Video-Webinhalt mit Titel: Online-Tutorial E-Portfolios im Einsatz - Teil 2</figcaption>
 </figure>
 <p>As the native language is German please activate subtitles and choose English via the gear setting next to it:</p>
 <figure>
-<img src="./images/image3.png" alt="" /><figcaption>Deutsch (Deutschland) E-Portfolios im Einsa s. Englisch (Vereinigte Staaten) Let us Dipl.-Medienwtss. Marc thouc Automatisch übersetzen</figcaption>
+<img src="./images/image3.png" alt="Deutsch (Deutschland) E-Portfolios im Einsa s. Englisch (Vereinigte Staaten) Let us Dipl.-Medienwtss. Marc thouc Automatisch übersetzen" /><figcaption aria-hidden="true">Deutsch (Deutschland) E-Portfolios im Einsa s. Englisch (Vereinigte Staaten) Let us Dipl.-Medienwtss. Marc thouc Automatisch übersetzen</figcaption>
 </figure>
 <p>Typical questions for orientation which you should ask yourself again and again for reflection and which should be recorded as answers in the ePortfolio are:</p>
 <ul>
@@ -194,7 +328,7 @@
 </ul>
 <p><strong>In the next weeks you will be concerned with the following learning areas (Attention: please look at the following overview from bottom to top):</strong></p>
 <figure>
-<img src="./images/image7.jpeg" alt="" /><figcaption>Visualisations as sketchnotes from Katrin Mäntele - on Twitter <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
+<img src="./images/image7.jpeg" alt="Visualisations as sketchnotes from Katrin Mäntele - on Twitter [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)" /><figcaption aria-hidden="true">Visualisations as sketchnotes from Katrin Mäntele - on Twitter <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
 </figure>
 <p>And here we go directly with Learning area 1!</p>
 <h2 id="learning-area-1---get-to-know">Learning area 1 - Get to know</h2>
@@ -215,12 +349,9 @@
 </ol>
 <p>Recommended basic kata and possible advanced kata as well as first optional video kata</p>
 <figure>
-<img src="./images/image8.jpeg" alt="" /><figcaption>Sketchnote Joint access to the ePortfolio Circle Guide from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
+<img src="./images/image8.jpeg" alt="Sketchnote Joint access to the ePortfolio Circle Guide from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)" /><figcaption aria-hidden="true">Sketchnote Joint access to the ePortfolio Circle Guide from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
 </figure>
 <h3 id="week-0---getting-to-know-each-other">Week 0 - Getting to know each other</h3>
-<figure>
-<img src="./images/image8.jpeg" alt="" /><figcaption>Sketchnote Joint access to the ePortfolio Circle Guide from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
-</figure>
 <p><strong>A) Getting to know each other and intention of the circle</strong> | (approx. 25 minutes)</p>
 <p>Welcome to the ePortfolio Learning Circle Guide!</p>
 <p>Great that you have gathered here and want to get to know this new learning method! Please take enough time to introduce yourselves to each other at the beginning. Who are you, what do you deal with in your daily work and what are you particularly interested in or have always wanted to learn more about?</p>
@@ -271,13 +402,13 @@
 <li><a href="https://web.microsoftstream.com/video/33afa265-2f42-45da-b3f8-6b3e4ff3191c">Screen Recording with Microsoft Stream</a></li>
 </ol>
 <figure>
-<img src="./images/image9.jpg" alt="" /><figcaption>Video web content titled: Microsoft Stream</figcaption>
+<img src="./images/image9.jpg" alt="Video web content titled: Microsoft Stream" /><figcaption aria-hidden="true">Video web content titled: Microsoft Stream</figcaption>
 </figure>
 <ol start="2" type="1">
 <li><a href="https://web.microsoftstream.com/video/fe6d5961-60d6-4770-83db-a413aec84b94">Create a video with the Microsoft Stream Mobile App</a></li>
 </ol>
 <figure>
-<img src="./images/image10.png" alt="" /><figcaption>Video web content titled: Microsoft Stream</figcaption>
+<img src="./images/image10.png" alt="Video web content titled: Microsoft Stream" /><figcaption aria-hidden="true">Video web content titled: Microsoft Stream</figcaption>
 </figure>
 <h2 id="learning-area-2---topic-interest">Learning area 2 - Topic interest</h2>
 <p><strong>State topic interest and define objectives for the ePortfolio (weeks 2-3)</strong></p>
@@ -296,12 +427,9 @@
 </ol>
 <p>Basic and advanced kata and another optional video kata</p>
 <figure>
-<img src="./images/image11.jpeg" alt="" /><figcaption>Sketchnote Topic ideas and objectives of the ePortfolio from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
+<img src="./images/image11.jpeg" alt="Sketchnote Topic ideas and objectives of the ePortfolio from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)" /><figcaption aria-hidden="true">Sketchnote Topic ideas and objectives of the ePortfolio from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
 </figure>
 <h3 id="week-2---objectives">Week 2 - Objectives</h3>
-<figure>
-<img src="./images/image11.jpeg" alt="" /><figcaption>Sketchnote Topic ideas and objectives of the ePortfolio from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
-</figure>
 <p><strong>A) Brief presentation of ePortfolio examples you have brought with you</strong> | (approx. 25 minutes)</p>
 <p>Welcome to the second content week! After you were able to gain a basic understanding of the ePortfolio learning method last week and determined a rough interest in the topic you will deepen this together today. Please take a closer look at some examples of ePortfolios and introduce them to each other in a circle. Pay special attention to similarities or differences between the examples. You are welcome to write down a short list of criteria that are recurring in the examples or that are very individual to give you further orientation.</p>
 <p><strong>B) Limit the possible topic interest for the ePortfolio and clarify motivation (Why?)</strong> | (approx. 25 minutes)</p>
@@ -341,12 +469,9 @@
 <li>Decide (at the meeting or during the week) which tool you want to use for your ePortfolio and why</li>
 </ol>
 <figure>
-<img src="./images/image12.jpeg" alt="" /><figcaption>Sketchnote Experiment with different ePortfolio tools from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
+<img src="./images/image12.jpeg" alt="Sketchnote Experiment with different ePortfolio tools from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)" /><figcaption aria-hidden="true">Sketchnote Experiment with different ePortfolio tools from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
 </figure>
 <h3 id="week-4---variety-of-tools">Week 4 - Variety of tools</h3>
-<figure>
-<img src="./images/image12.jpeg" alt="" /><figcaption>Sketchnote Experiment with different ePortfolio tools from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
-</figure>
 <p><strong>A) Present possible further development of the topic</strong> | (approx. 15 Minuten)</p>
 <p>In this week you should complete your subject / topic of interest in the first glance and reach a finalized first version for you. You can use the time together in the circle to present the last developments or adjustments based on the received feedback to the others. You dont have to do that this time but you can also ask the others to look at your final version during the week. Surely some of you will have an idea that might be discussed in the circle.</p>
 <p><em>If applicable ask yourself the following question: What do you think are the basic characteristics of a good ePortfolio and what basic functionalities should it have? (see also Basics)</em></p>
@@ -370,41 +495,33 @@
 <p>Decide together who would like to take a closer look at which tool in the course of the week. Choose one tool at a time and think about the first criteria that would be especially important for you to be able to give an assessment of the usability as an ePortfolio. It might also make sense to split up according to the tool combinations recommended at the end of the list and then collect the analyses by the following week.</p>
 <p>Basic kata for this week (approx. 1 hour):</p>
 <p>Select an ePortfolio tool from the orientation list and experiment with it until the following week, when you briefly introduce it to the others. Below you will find a small tool template that you can use as an orientation and fill out to present it to your Circle members next week. Helpful criteria can be, for example, user-friendliness (usability) and click paths, possible costs, suitable application scenarios as well as dialogue and feedback possibilities.</p>
-<table style="width:94%;">
+<table style="width:100%;">
 <colgroup>
-<col style="width: 19%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col style="width: 13%" />
+<col style="width: 28%" />
+<col style="width: 28%" />
+<col style="width: 28%" />
 </colgroup>
 <thead>
 <tr class="header">
 <th><strong>Tool</strong></th>
 <th><strong>Description and criteria</strong></th>
 <th><strong>+ good / - bad</strong></th>
-<th><strong>My r ecommendation</strong></th>
+<th><strong>My recommendation</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><em>Example:</em> | <em>Microsoft | OneNote</em></td>
-<td><em>Mix of videos | and screenshots | that I have embedded in my text. Various thematically different notebooks | Topic: Learning hacks</em></td>
-<td><p><em>+ comfortable | embedding of | media (videos, wakelet, office etc.)</em></p>
-<p><em>+ structuring easily | possible</em></p>
-<p><em>- unwieldy for larger groups (compared to blog etc.)</em></p></td>
-<td><em>I would use the tool to work out topics for myself. I would share the notebooks in small groups and develop them further with my colleagues.</em></td>
+<td>Example: <em>Microsoft OneNote</em></td>
+<td>Mix of videos and screenshots that I have embedded in my text. Various thematically different notebooks Topic: Learning hacks</td>
+<td>+ comfortable embedding of media (videos, wakelet, office etc.)<br /><br />+ structuring easily possible<br /><br />- unwieldy for larger groups (compared to blog etc.)</td>
+<td>I would use the tool to work out topics for myself. I would share the notebooks in small groups and develop them further with my colleagues.</td>
 </tr>
 <tr class="even">
-<td>… |</td>
-<td>… | .</td>
-<td>.. | ..</td>
-<td>.</td>
-</tr>
-<tr class="odd">
-<td><pre><code>       |</code></pre></td>
-<td><pre><code>          |</code></pre></td>
-<td><pre><code>         |</code></pre></td>
-<td></td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
 </tr>
 </tbody>
 </table>
@@ -437,12 +554,9 @@
 <li>Learning reflection round of the last two weeks</li>
 </ol>
 <figure>
-<img src="./images/image13.jpeg" alt="" /><figcaption>Sketchnote Preparation and publication of first contents from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
+<img src="./images/image13.jpeg" alt="Sketchnote Preparation and publication of first contents from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)" /><figcaption aria-hidden="true">Sketchnote Preparation and publication of first contents from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
 </figure>
 <h3 id="week-6---investigation-and-reflection">Week 6 - Investigation and reflection</h3>
-<figure>
-<img src="./images/image13.jpeg" alt="" /><figcaption>Sketchnote Preparation and publication of first contents from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
-</figure>
 <p><strong>A) Searching and reading of first sources (Seeking method)</strong> | (approx. 20 minutes)</p>
 <p>After the tool selection for ePortfolios in the past two weeks, the focus is now back on content. In order to be able to create a first article on a topic, relevant information and people have to be searched for and discovered. Either information can be found automatically via social media channels, RSS feeds or content aggregators with artificial intelligence, like <a href="https://anderspink.com/">anderspink.com</a> or <a href="https://refind.com/">refind.com</a>. Or you actively search and observe yourself on content portals, in open knowledge resources - Open Educational Resources (OER), on YouTube, in blogs or search engines and social media channels. Exchange about possible concrete sources for your first professional contribution for your created topic interest.</p>
 <p><strong>B) Classification of the sources with short explanation (Sensemaking method)</strong> | (approx. 20 minutes)</p>
@@ -520,12 +634,9 @@
 <li>Learning reflection on the current status</li>
 </ol>
 <figure>
-<img src="./images/image14.jpeg" alt="" /><figcaption>Sketchnote Contact establishment and feedback from the community from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
+<img src="./images/image14.jpeg" alt="Sketchnote Contact establishment and feedback from the community from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)" /><figcaption aria-hidden="true">Sketchnote Contact establishment and feedback from the community from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
 </figure>
 <h3 id="week-8---distribution-of-the-article">Week 8 - Distribution of the article</h3>
-<figure>
-<img src="./images/image14.jpeg" alt="" /><figcaption>Sketchnote Contact establishment and feedback from the community from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
-</figure>
 <p><strong>A) Developing content ideas for further topic contributions</strong> | (approx. 20 minutes)</p>
 <p>After you have created your first topic contribution during the last two weeks and perhaps already have a rough idea of how you want to proceed with your topic, discuss it together today and try to refine the rough plan. Which further aspects of your topic do you want to deepen in the next weeks? Where do you want to leave room for new aspects of your topic that you encounter in the course of your investigation? What do you not want to work on more deeply for the moment? You can develop this further in the course of this week and then exchange ideas either at the meeting next week or in the ongoing process.</p>
 <p><strong>B) Taking and giving feedback</strong> | (approx. 20 minutes)</p>
@@ -562,12 +673,9 @@
 </ol>
 <p><em>Week 11</em> D) Presentation of the previous revised topic plan E) Taking and giving feedback F) Encourage community exchange</p>
 <figure>
-<img src="./images/image15.jpeg" alt="" /><figcaption>Sketchnote Editorial plan and growing community feedback from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
+<img src="./images/image15.jpeg" alt="Sketchnote Editorial plan and growing community feedback from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)" /><figcaption aria-hidden="true">Sketchnote Editorial plan and growing community feedback from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
 </figure>
 <h3 id="week-10---collection-of-topics">Week 10 - Collection of topics</h3>
-<figure>
-<img src="./images/image15.jpeg" alt="" /><figcaption>Sketchnote Editorial plan and growing community feedback from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
-</figure>
 <p><strong>A) Exchange about the feedback of the contacts made so far</strong> | (approx. 20 minutes)</p>
 <p>In the last two weeks you have identified and contacted experts / contacts for your topic. What have you learned? How much feedback did you get? Have you gained new insights? Reflect in the group and ask each other questions in order to run through your topic as deeply and comprehensively as possible. You can use the following aspects to structure your exchange:</p>
 <ul>
@@ -604,12 +712,9 @@
 <li>Lessons learned: discuss successes and challenges as well as possible next steps</li>
 </ol>
 <figure>
-<img src="./images/image16.jpeg" alt="" /><figcaption>Sketchnote The successfully established ePortfolio from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
+<img src="./images/image16.jpeg" alt="Sketchnote The successfully established ePortfolio from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)" /><figcaption aria-hidden="true">Sketchnote The successfully established ePortfolio from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
 </figure>
 <h3 id="week-12---retrospective">Week 12 - Retrospective</h3>
-<figure>
-<img src="./images/image16.jpeg" alt="" /><figcaption>Sketchnote The successfully established ePortfolio from Katrin <span class="citation" data-cites="kleinerw4hnsinn">[@kleinerw4hnsinn]</span>(https://twitter.com/kleinerw4hnsinn) (CC BY)</figcaption>
-</figure>
 <p><strong>Closing week 12</strong></p>
 <p><strong>A) Brief instructions for feedback motivation and reflection</strong> | (approx. 20 minutes)</p>
 <p>Today you start your final week - first of all, make a small change of perspective: Try to put yourself in the position of one of your circle members and think about why you should look at his / her ePortfolio from his / her perspective. Which contents would you emphasize in particular? Which added value for readers would you highlight? Perhaps also where do you see connections to other ePortfolios from your circle? What contents, contributions or discussions encourage you to leave feedback in the ePortfolio? Exchange your views on this and mutually document any helpful arguments that arise.</p>
@@ -656,51 +761,13 @@
 <li><p>and of course to our partners and families for the considerate support of this mostly voluntary / honorary work beside the daily business!</p></li>
 </ol>
 <h2 id="changelog">Changelog</h2>
-<table>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Version 0.1</th>
-<th style="text-align: left;">28.11.2019</th>
-<th style="text-align: left;">After ending of the lernOS OKR-Circle and first continuation with Herta and Stefan</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Version 0.3</td>
-<td style="text-align: left;">06.01.2020</td>
-<td style="text-align: left;">After continuation without meeting over the turn of the year and first meeting 2020</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Version 0.4</td>
-<td style="text-align: left;">20.03.2020</td>
-<td style="text-align: left;">To present the interim status at the Corporate Learning Camp digital clcdigital20</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Version 0.5</td>
-<td style="text-align: left;">29.04.2020</td>
-<td style="text-align: left;">To present the interim results at the clc30 regional meeting in the Barcamp part of MOOCamp 2020</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Version 0.6</td>
-<td style="text-align: left;">31.05.2020</td>
-<td style="text-align: left;">Learning path content largely completed and made available for internal review</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Version 0.8</td>
-<td style="text-align: left;">11.06.2020</td>
-<td style="text-align: left;">Learning path content finalized and prepared for publication</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Version 0.9</td>
-<td style="text-align: left;">23.06.2020</td>
-<td style="text-align: left;">Completion of the guide and submission as session at the lernOS All Stars Camp</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Version 1.0</td>
-<td style="text-align: left;">17.10.2020</td>
-<td style="text-align: left;">Finalization of the guide including a detailed revision and translation into English</td>
-</tr>
-</tbody>
-</table>
+<p>Version 0.1 28.11.2019 After ending of the lernOS OKR-Circle and first continuation with Herta and Stefan</p>
+<p>Version 0.3 06.01.2020 After continuation without meeting over the turn of the year and first meeting 2020</p>
+<p>Version 0.4 20.03.2020 To present the interim status at the Corporate Learning Camp digital clcdigital20</p>
+<p>Version 0.5 29.04.2020 To present the interim results at the clc30 regional meeting in the Barcamp part of MOOCamp 2020</p>
+<p>Version 0.6 31.05.2020 Learning path content largely completed and made available for internal review</p>
+<p>Version 0.8 11.06.2020 Learning path content finalized and prepared for publication</p>
+<p>Version 0.9 23.06.2020 Completion of the guide and submission as session at the lernOS All Stars Camp</p>
+<p>Version 1.0 17.10.2020 Finalization of the guide including a detailed revision and translation into English</p>
 </body>
 </html>
