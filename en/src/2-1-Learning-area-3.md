@@ -6,16 +6,16 @@ Structure:
 
 *Week 4*
 
-A) Present possible further development of the topic
-B) Have a look on the curated ePortfolio tool list and exchange possible
+- A) Present possible further development of the topic
+- B) Have a look on the curated ePortfolio tool list and exchange possible
 experiences with a tool
-C) Distribution among the circle members (each one a tool for a closer look)
+- C) Distribution among the circle members (each one a tool for a closer look)
 
 *Week 5*
 
-D) Presentation of the tool findings by means of a tool arena
-E) Exchange pros and cons in the group
-F) Decide (at the meeting or during the week) which tool you want to
+- D) Presentation of the tool findings by means of a tool arena
+- E) Exchange pros and cons in the group
+- F) Decide (at the meeting or during the week) which tool you want to
 use for your ePortfolio and why
 
 ![Sketchnote Experiment with different ePortfolio tools from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image12.jpeg)
