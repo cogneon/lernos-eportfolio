@@ -6,17 +6,17 @@ Structure:
 
 *Week 2*
 
-A) Brief presentation of ePortfolio examples you have brought with you
-B) Limit the possible topic interest for the ePortfolio and clarify
+- A) Brief presentation of ePortfolio examples you have brought with you
+- B) Limit the possible topic interest for the ePortfolio and clarify
 motivation (Why?)
-C) Define the objective(s) of the ePortfolio and whom I want to reach (target group(s)) Basic and advanced kata
+- C) Define the objective(s) of the ePortfolio and whom I want to reach (target group(s)) Basic and advanced kata
 
 *Week 3*
 
-D) Present the topic interest, motivation, objective(s) and target
+- D) Present the topic interest, motivation, objective(s) and target
 group(s) to each other
-E) Taking and giving feedback
-F) How do I prospectively structure my possible weekly activities in my
+- E) Taking and giving feedback
+- F) How do I prospectively structure my possible weekly activities in my
 ePortfolio?
 
 Basic and advanced kata and another optional video kata
