@@ -1,104 +1,73 @@
-## Learning area 6 - Topic plan
+## Lernbereich 6 - Themenplan
 
-**Preparation of an (editorial) topic agenda and publishing of further (reflection) posts with potential exchange (weeks 10-11; with reference to the Content Curation Circle Guide - week 9/10 content deep dive)**
+**Aufbereitung eines (redaktionellen) Themenplans und Veröffentlichen weiterer (Reflexions-)Beiträge mit potenziellem Austausch (mit Bezug zum Content Curation Circle Guide - Wochen 10-11)**
 
-**Structure:**
+**Struktur:**
 
-*Week 10*
+*Woche 10*
 
-A) Exchange about the feedback of the contacts made so far
-B) Refine topic ideas and vote on their relevance together in a voting
-C) Discuss ideas for topics together and put them in a first order
+A) Austausch über das bisherige Feedback der entstandenen Kontakte
 
-*Week 11*
-D) Presentation of the previous revised topic plan
-E) Taking and giving feedback
-F) Encourage community exchange
+B) Themenideen verfeinern und gemeinsam in einem Voting über die Relevanz abstimmen
+
+C) Ideen für Themen gemeinsam diskutieren und in eine erste Reihenfolge bringen
+
+*Woche 11*
+
+D) Vorstellen des bisherigen überarbeiteten Themenplans
+
+E) Feedback nehmen und geben
+
+F) Community-Austausch fördern
 
 ![Sketchnote Editorial plan and growing community feedback from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image15.jpeg)
 
-### Week 10 - Collection of topics
+### Woche 10 - Themensammlung
 
-**A) Exchange about the feedback of the contacts made so far** | (approx. 20 minutes)
+**A) Austausch über das bisherige Feedback der entstandenen Kontakte** | (ca. 20 Minuten)
 
-In the last two weeks you have identified and contacted experts /
-contacts for your topic. What have you learned? How much feedback did
-you get? Have you gained new insights? Reflect in the group and ask each
-other questions in order to run through your topic as deeply and
-comprehensively as possible. You can use the following aspects to
-structure your exchange:
+Ihr habt in den letzten beiden Wochen Experten / Kontakte für Euer Thema ermittelt und kontaktiert. Was habt Ihr gelernt? Wie viel Rückmeldungen habt Ihr bekommen? Habt Ihr neue Erkenntnisse gewonnen? Reflektiert in der Gruppe und stellt Euch gegenseitig Fragen, um Euer Thema so tief und umfassend wie möglich zu durchdringen. Ihr könnt dafür folgende Aspekte zur Strukturierung Eures Austauschs nutzen:
 
--   My three top experts and their core aspects
+- Meine drei Top-Experten und ihre Kernaspekte
+- Aufzählung der wichtigsten Teilaspekte für mein Thema
+- Dieses Wissen fehlt mir (noch)
 
--   Listing of the most important partial aspects for my topic
+**B) Themenideen verfeinern und gemeinsam in einem Voting über die Relevanz abstimmen** | (ca. 20 Minuten)
 
--   This knowledge is (still) missing
+Schaut zusammen über die ermittelten Themenideen der vergangenen Wochen. Vergebt Euch gegenseitig Stimmen, welcher Teilbereich oder welche Facette am relevantesten ist und daher zuerst oder bewusst an späterer Stelle angegangen werden sollte. Pro Themenidee kann dabei jedes Circle-Mitglied bis zu 3 Punkte vergeben.
 
-**B) Refine topic ideas and vote on their relevance together in a voting** | (approx. 20 minutes)
+**C) Ideen für Themen gemeinsam diskutieren und in eine erste Reihenfolge bringen** | (ca. 20 Minuten))
 
-Look together on the determined topic ideas of the past weeks. Give each
-other a vote on which sub-area or facet is most relevant and should
-therefore be tackled first or consciously at a later point. Each circle
-member can give up to 3 points per idea.
+Anhand der Stimmenvergabe könnt Ihr Euch gegenseitig begründen, warum Ihr für bestimmte Themen besonders viele, wenige oder gar keine Punkte vergeben habt. Aus dieser weiterführenden Themendiskussion kann jeder von Euch für seine Themen nun wertvolle Erkenntnisse und Schlüsse über die zeitliche und fachliche Einordnung in den Plan ziehen.
 
-**C) Discuss ideas for topics together and put them in a first order** | (approx. 20 minutes)
 
-By means of the voting system you can explain to each other why you have
-given particularly many, few or no points for certain topics. From this
-further discussion each of you can now draw valuable insights and
-conclusions for your topics and how they fit into the plan in terms of
-time and subject matter.
+Basic-Kata für diese Woche (ca. 1 Stunde):
 
-Basic kata for this week (about 1 hour):
+Verfeinert die Themen aus dem Circle und erstellt für die kommende Woche eine überdachte Reihenfolge als (redaktionellen) Plan. Beginnt mit einer ersten Recherche und Ausarbeitung für das aus Eurer Sicht nächste anstehende Thema.![image](https://user-images.githubusercontent.com/8386676/127635215-b37b79dd-de37-4ee3-aff2-7b84a46cbdc4.png)
 
-Refine the topics from the circle and create a reconsidered order for
-the next week as an (editorial) plan. Begin with a first investigation
-and elaboration for the next upcoming topic from your point of view.
 
-Advanced kata for this week (about 1 hour):
+Vertiefungs-Kata für diese Woche (ca. 1 Stunde):
 
-Think about questions that you could ask the community of your
-ePortfolio in the context of your topic contributions and develop
-further implementation ideas for the content of your future
-contributions (e.g. for texts, infographics or short videos).
+Überlegt Euch Fragestellungen, die Ihr im Rahmen Eurer Themenbeiträge an die Community Eures ePortfolios stellen könntet und entwickelt weiterführende Umsetzungsideen für Inhalte Eurer zukünftigen Beiträge (z.B. für Texte, Infografiken oder Kurzvideos).
 
-### Week 11 - Promoting exchange
+### Week 11 - Austausch fördern
 
-**D) Presentation of the previous revised topic plan** | (approx 25 minutes)
+**D) Vorstellen des bisherigen überarbeiteten Themenplans** | (ca. 25 Minuten)
 
-On the basis of the past week you will now present your topic plans to
-each other in the circle and also describe the basic considerations for
-the order and different facets in more detail. If possible even mutual
-topic plans can be created. Please also explain how the circle ranking
-was taken into account in the voting process or why you consciously
-decided against it.
+Auf der Basis der vergangenen Woche stellt Ihr Euch im Circle reihum nun Eure Themenpläne gegenseitig vor und beschreibt auch die Grundüberlegungen für die Reihenfolge und verschiedenen Facetten genauer. Ggf. können sogar gemeinsame Themenpläne entstehen. Geht auch darauf ein, inwiefern das Circle-Ranking anhand der Stimmenvergabe letztlich mit eingeflossen ist oder warum Ihr Euch ggf. bewusst dagegen entschieden habt.
 
-**E) Taking and giving feedback** | (approx. 15 minutes)
+**E) Feedback nehmen und geben** | (ca. 15 Minuten)
 
-During or directly after the mutual presentation of the respective topic
-plans give each other final feedback or additional tips on the various
-topics. In this way you can ensure that your approach and planning is
-perceived as meaningful and motivating by potential visitors to your
-ePortfolio.
+Während oder direkt nach der gegenseitigen Vorstellung der jeweiligen Themenpläne, gebt Euch untereinander finale Rückmeldungen oder ergänzende Tipps zu den verschiedenen Themen. So könnt Ihr sicherstellen, dass Euer Vorgehen und Eure Planung auch aus den Augen potenzieller Besucher Eures ePortfolios als sinnvoll und motivierend wahrgenommen wird.
 
-**F) Encourage community exchange** | (approx. 20 minutes)
+**F) Community-Austausch fördern** | (ca. 20 Minuten)
 
-Finally think together about which questions you could address to your
-community as part of the topic contributions in order to promote the
-exchange and further development of your topic. At the same time you can
-also develop ideas for possible measures or accompanying actions that
-support community feedback.
+Macht Euch schließlich gemeinsam Gedanken darüber, welche Fragestellungen Ihr als Teil der Themenbeiträge an Eure Community richten könntet, um den Austausch und die Weiterentwicklung Eures Themas zu fördern. Gleichzeitig könnt Ihr auch Ideen für mögliche Maßnahmen oder begleitende Aktionen entwickeln, die ein Community-Feedback unterstützen.
 
-Basic kata for this week (about 1 hour):
+Basic-Kata für diese Woche (ca. 1 Stunde):
 
-Create your preliminary finalized editorial plan for your topics of the
-next months. Of course you can change it at any time if priorities for a
-certain topic change but it should serve as an important guideline and
-offer you orientation. Publish this plan or already a second post with
-questions to your community, if you like.
+Erstellt Euren vorläufig finalisierten Redaktionsplan für Eure Themen der kommenden Monate. Natürlich kann dieser jederzeit angepasst werden, wenn sich Prioritäten für ein bestimmtes Thema verschieben, aber dieser soll Euch als wichtige Richtschnur helfen und Orientierung bieten. Veröffentlicht diesen Plan oder bereits einen zweiten Themenbeitrag mit Fragen an Eure Community, wenn Ihr möchtet.
 
-Advanced video kata for this week (about 1 to 2 hours):
+Vertiefungs-Video-Kata für diese Woche (ca. 1 bis 2 Stunden):
 
-Create a small video podcast episode in which you briefly introduce your
-topic plan and describe special features / highlights and publish it in
-your ePortfolio.
+Erstellt eine kleine Video-Podcast-Episode, in dem Ihr Euren Themenplan kurz vorstellt und auf Besonderheiten / Highlights eingeht und veröffentlicht ihn in Eurem ePortfolio.
