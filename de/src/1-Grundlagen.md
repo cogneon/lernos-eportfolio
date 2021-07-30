@@ -16,121 +16,57 @@ Als weiterführenden Einstieg möchten wir Euch gerne ein kleines Online-Tutoria
 
 ![Video-Webinhalt mit Titel: Online-Tutorial E-Portfolios im Einsatz - Teil 1](./images/image2.jpg)
 
-![Deutsch (Deutschland) E-Portfolios im Einsa s./ Englisch (Vereinigte Staaten) Let us Dipl.-Medienwtss. Marc thouc Automatisch übersetzen](./images/image3.png)
+Wer es lieber Schwarz auf Weiß mag, dem können wir ePortfolios kurz und knapp als eine Mischform des Online-Lernens mit Hilfe verschiedener Social Software beschreiben. Diese dient einerseits dazu, sich selbst als Person mit seinen Kompetenzen transparent darzustellen und mit anderen zu vernetzen (= Social Networking). Andererseits erfolgt dies in Kombination damit, seinen Lernprozess und die Ergebnisse mittels digitaler Medien ansprechend zu dokumentieren (= Social Publishing). Dabei wird das Gelernte reflektiert und gezielt zur Diskussion gestellt (vgl. Bernhardt / Kirchner 2007: 82 f. & Kirchner 2015: 32 f.).
 
-For those who prefer it in written words we can describe ePortfolios
-briefly and concisely as a hybrid form of online learning using
-various social software. On the one hand this software serves to
-transparently present oneself as a person with ones competencies and
-to network with others (= social networking). On the other hand it is
-used in combination with an appealing way of documenting the learning
-process and results using digital media (= social publishing). What
-has been learned is reflected in the process and specifically put up
-for discussion (see Bernhardt / Kirchner 2007: 82 f. & Kirchner 2015:
-32 f.).
+![Illustration eines ePortfolios als Sketchnote von Katrin Mäntele [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image4.jpeg)
 
-![Illustration of an ePortfolio as a sketchnote from Katrin Mäntele [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image4.jpeg)
+----------------------------------
+----------------------------------
+Kleiner wissenschaftlicher Exkurs (optional):
+Wer es detaillierter wissen möchte, dem sei die nachfolgende Einordnung empfohlen (zitiert nach Kirchner 2015: 32ff.):
 
-Little scientific exkursion (optional):
+Die ursprüngliche Einordnung im deutschsprachigen Raum stammt von der Salzburg Research Forschungsgesellschaft "EduMedia":
 
-For those who would like to know it in more detail the following
-classification is recommended (quoted from Kirchner 2015: 32ff. and
-translated corresponding into English):
+	"E-Portfolio ist eine digitale Sammlung von 'mit Geschick gemachten Arbeiten' (= lat. Artefakte) einer Person, die dadurch das Produkt (Lernergebnisse) und den Prozess (Lernpfad/Wachstum) ihrer Kompetenzentwicklung in einer bestimmten Zeitspanne und für bestimmte Zwecke dokumentieren und veranschaulichen möchte. Die betreffende Person hat die Auswahl der Artefakte selbstständig getroffen, und diese in Bezug auf das Lernziel selbst organisiert. Sie (Er) hat als Eigentümer(in) die komplette Kontrolle darüber, wer, wann und wie viel Information aus dem Portfolio einsehen darf." (Hornung-Prähauser et al. 2007: 14 sowie Hilzensauer/Hornung-Prähauser 2006:4)
+(-> [siehe auch ähnliche Begriffseinordnung auf e-teaching.org](https://www.e-teaching.org/lehrszenarien/pruefung/pruefungsform/eportfolio)
+	
+Nach dieser Einordnung waren zunächst immer Produkt und Prozess im Vordergrund, aber die Feedback-Schleife wurde vernachlässigt und die Kompetenzen, die dafür nötig sind, nur angedeutet. Außerdem spricht man metaphorisch auch vom "Schaufenster des eigenen Lernens" (Bräuer 2000: 22, zitiert nach Brunner et al. 2008: 35 sowie Bauer/Baumgartner 2012). Das ist letztlich die technologische, eher tool-orientierte Brille.
 
-The original classification in the German-speaking countries comes
-from the Salzburg Research Society EduMedia:
+Aus pädagogisch-didaktischer Perspektive nähert man sich dem Ganzen aber in seiner Einordnung als (didaktische) Methode des eigenständigen und kompetenzbasierten Lernens, deren Anwendung mit eigener Zielsetzung und Planung anhand verschiedener Prozesse unterstützt wird (u.a. Auswählen, Reflektieren und Präsentieren) und sogar bis zu einem ganzheitlichen institutions-gesteuerten pädagogischen Konzept gehen kann. Das führte in der Vergangenheit dann vermehrt zu Begriffs-Wirrwarr.
 
-"E-portfolio is a digital collection of works made with skill (=
-lat. artefacts) of a person who wants to document and illustrate the
-product (learning outcomes) and the process (learning pathway/growth)
-of his or her competence development in a certain period of time and
-for certain purposes. The person concerned has made the selection of
-artefacts independently and organised them in relation to the learning
-objective. He/she, as the owner, has complete control over who, when
-and how much information from the portfolio can be viewed.
-(Hornung-Prähauser et al. 2007: 14 and Hilzensauer/Hornung-Prähauser
-2006:4)
+Daher wurde versucht, eine integrierende Sichtweise als Methode zu definieren und es mit Social Software zu verknüpfen:
 
-*(see also [similar classification of terms](https://www.e-teaching.org/lehrszenarien/pruefung/pruefungsform/eportfolio) on e-teaching.org - German language only)*
+	"Demnach ist ein Social-Software-Portfolio eine spezifische Form der webbasierten Selbstdarstellung über ein E-Portfolio. Durch die digitale Aufbereitung der Artefakte werden dem Inhaber zusätzliche mediale Möglichkeiten der Präsentation von Lernprodukten geboten (insbesondere in Form von Audio und Video). Mittels Social Software und insbesondere der Nutzung von Weblogs ermöglicht ein derartiges Portfolio dem Eigentümer außerdem eine fortlaufende Widerspiegelung seiner persönlichen Weiterentwicklung von (Medien-) Kompetenzen und regt damit zur Reflexion im selbstgesteuert-konnektiven Lernprozess an. Dies wird besonders unterstützt, indem es Besuchern Möglichkeiten bietet, ein Feedback über die Inhalte an den Eigentümer zu übermitteln, die sich bei E-Portfolio-Blogs vor allem über die Kommentarfunktion oder die gegenseitige Verlinkung äußern." (Kirchner 2015: 36)
 
-According to this classification the product and process were always
-in the foreground at first but the feedback loop was neglected and the
-competencies required for this were only indicated. In addition,
-metaphorically speaking, one also speaks of a showcase of ones own
-learning (Bräuer 2000: 22, quoted after Brunner et al. 2008: 35 as
-well as Bauer/Baumgartner 2012). This is at least the technological,
-rather tool-oriented perspective.
+-----------------------
+-----------------------
 
-From a pedagogical-didactic perspective, however, it is
-classified more as a (didactic) method of independent and
-competence-based learning and ist application of which is supported by
-various processes (including selection, reflection and presentation)
-with its own objectives and planning and can even go as far as a
-holistic institutionally controlled pedagogical concept. In the past
-this has led to an increasing confusion of terms.
+2. Welche Bestandteile hat ein ePortfolio?
 
-Therefore the attempt was made to define an integrating view as a
-method and to link it to social software:
+Hier gibt es eine Fülle an Möglichkeiten und Werkzeugen, die unterschiedlich einsetzbar sind. Nachfolgend dazu eine Empfehlung aufgrund unserer bisherigen Erfahrung.
 
-According to this a social software portfolio is a specific form
-of web-based self-presentation via an e-portfolio. The digital
-processing of the artefacts offers the owner additional media options
-for presenting learning products (especially in the form of audio and
-video). By means of social software and especially the use of weblogs
-such a portfolio also enables the owner to continuously reflect his
-personal development of (media) skills and thus encourages reflection
-in the self-directed connective learning process. This is particularly
-supported by offering visitors the opportunity to provide feedback on
-the content to the owner which in the case of e-portfolio blogs is
-expressed primarily through the comment function or mutual
-linking (quote from Kirchner 2015: 36)
+Jeder von uns nutzt ja bereits verschiedene Online-Tools, um Inhalte im Netz zu erstellen und sei es nur, dass man eine E-Mail im kleinen Kreis schreibt oder gar eine öffentliche Webseite gestaltet. Dies kann als ein Portal oder Tor ins Internet betrachtet werden. Mit Hilfe dieses persönlichen Lernportals kann die Portfolio-Methode direkt angewendet werden, indem man z.B. einen eigenen Blog führt und ein soziales Netzwerk, wie LinkedIn oder Twitter für die Bereitstellung und Verbreitung seiner Inhalte (= Artefakte) verwendet.
+Dabei werden im weiteren Sinne Inhalte über Prozesse des Setzens von Zielen, Sammelns, Selektierens, Verknüpfens und Reflektierens erzeugt und schließlich für eine Präsentation, Weitergabe und mögliche Bewertung aufbereitet (vgl. Kirchner 2015: 57 bezugnehmend auf Hilzensauer, Hornung-Prähauser 2006: 5 bzw. Hornung-Prähauser et al. 2007: 15). Im engeren Sinne werden als eine Art “Auge” ins Netz relevante Inhalte aufgenommen und über ein “Schaufenster” z.B. als Blog-Beitrag und Tweet geeignet veröffentlicht (vgl. Kirchner 2015: 57 bezugnehmend auf Bräuer 2000: 22 und Baumgartner / Bauer 2013).
 
-**2. What are the components of an ePortfolio?**
+Die nachfolgende Infografik fasst diese Prozesse einmal visuell zusammen:
 
-Here there is a wealth of possibilities and tools that can be used in
-different ways. The following is a recommendation based on our
-previous experience.
+![Illustration des Lernens mit ePortfolios als Sketchnote von Katrin Mäntele [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image5.jpeg)
 
-Everyone of us already uses different online tools to create content
-on the web even if its only to write an e-mail in a small circle or
-to design a public website. This can be seen as a portal or gateway to
-the Internet. With the help of this personal learning portal the
-portfolio method can be applied directly, e.g. by having your own blog
-and using a social network such as LinkedIn or Twitter to provide and
-distribute your content (= artefacts).
+*Nach einem leicht angepassten Modell des selbstgesteuert-konnektiven Lernens mit E-Portfolio-Blogs (Kirchner 2015: 58, Abbildung 11) als Weiterentwicklung in Anlehnung an Bernhardt / Kirchner 2007: 89 und mit Bezug zu Hilzensauer, Hornung-Prähauser 2006: 5*
 
-In a broader sense content is generated through processes of setting
-goals, collecting, selecting, linking and reflecting and finally
-prepared for presentation, dissemination and possible evaluation (see
-Kirchner 2015: 57 with reference to Hilzensauer, Hornung-Prähauser
-2006: 5 or Hornung-Prähauser et al. 2007: 15). In the narrower sense
-relevant content is taken up as a kind of an eye into the web and
-published in a suitable manner via a showcase, e.g. as blog
-entries and tweets (see Kirchner 2015: 57 with reference to Bräuer
-2000: 22 and Baumgartner / Bauer 2013).
+**3. Wie funktioniert des Führen eines ePortfolios?**
 
-The following infographic visually summarizes these processes:
+Beim Einsatz eines ePortfolios und Anwenden der zugehörigen Methode werden im Wesentlichen die folgenden Prozesse ausgeführt, die bereits oben kurz erwähnt wurden (vgl. Hornung-Prähauser et al. 2007: 15):
 
-![Illustration of learning with ePortfolios as sketchnote by [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image5.jpeg)
-
-*According to a slightly adapted model of self-directed connective learning with e-portfolio blogs (Kirchner 2015: 58, Figure 11) as a further development following Bernhardt / Kirchner 2007: 89 and with reference to Hilzensauer, Hornung-Prähauser 2006: 5*
-
-**3. How does the management of an ePortfolio work?**
-
-When using an ePortfolio and applying the associated method the
-following processes are essentially carried out which
-have already been briefly mentioned above (see Hornung-Prähauser et
-al. 2007: 15):
-
--   **Setting goals** to clarify the procedure and framework conditions for managing the ePortfolio.
--   **Collecting, selecting and linking** the contents in order to document the competence development in the learning process.
--   **Reflecting** in the ePortfolio in order to critically question ones own performance and analyze the learning goal.
--   **Presenting and passing** on the results to third parties in order to make the competence development visible.
--   **Assessing and evaluating** the ePortfolio in order to be able to assess the competence development holistically (optional).
+	1. **Ziele setzen**, um die Vorgehensweise und Rahmenbedingungen beim Führen des ePortfolios zu klären.
+	2. **Sammeln, Selektieren und Verknüpfen** der Inhalte, um den Kompetenzaufbau im Lernprozess zu dokumentieren.
+	3. Reflektieren im ePortfolio, um die eigene Leistung kritisch zu hinterfragen und das Lernziel zu analysieren.
+	4. Präsentieren und Weitergeben der Ergebnisse an Dritte, um den Kompetenzaufbau sichtbar werden zu lassen.
+	5. Bewerten und Evaluieren des ePortfolios, um den Kompetenzaufbau ganzheitlich beurteilen zu können (optional).
 
 **4. What does it mean to reflect with an ePortfolio?**
 
-Therefor we recommend [the first two minutes]{.underline} of Marcels
+Therefore we recommend [the first two minutes]{.underline} of Marcels
 second online tutorial:
 
 [ePortfolios in use - part 2](https://www.youtube.com/watch?v=_h4Q4_YEFKU) (total length approx. 8 min.)
@@ -155,7 +91,7 @@ the ePortfolio are:
 Now you have received all the important basic information about
 learning with ePortfolios and you can continue on your learning path.
 
-**Sources**
+**Quellen**
 
 -   Attwell, Graham (2007): E-Portfolio Entwicklung und Verwendung. Ins Deutsche übersetzt von der Salzburg Research
     Forschungsgesellschaft.
