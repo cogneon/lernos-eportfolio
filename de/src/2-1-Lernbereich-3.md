@@ -76,7 +76,7 @@ Tauscht Euch im Rahmen der Arena-Runden aus, welche Pro- und Contra-Argumente es
 
 **F) Entscheidung, welches Tool man warum für sein ePortfolio nutzen möchte** | (ca. 10 Minuten)
 
-Versucht noch während des Circle-Treffens eine Entscheidung zu treffen, welches ePortfolio-Werkzeug oder welche Kombination am ehesten für Euch in Frage kommt und teilt diese gerne den anderen mit. Wenn Ihr noch etwas unsicher seid, könnt Ihr Euch auch im Laufe der Woche weiter Gedanken machen und die Empfehlungen der anderen nutzen, um für Euch Klarheit zu bekommen. Teilt aber in jedem Fall den anderen mit, für welches Tool oder welche Kombination Ihr Euch entschieden habt. Dies muss nicht endgültig sein, aber für den Anfang ist das wichtig, um einfach loslegen zu können.![image](https://user-images.githubusercontent.com/8386676/127642614-419a18b0-53de-45a1-9076-e587393f6957.png)
+Versucht noch während des Circle-Treffens eine Entscheidung zu treffen, welches ePortfolio-Werkzeug oder welche Kombination am ehesten für Euch in Frage kommt und teilt diese gerne den anderen mit. Wenn Ihr noch etwas unsicher seid, könnt Ihr Euch auch im Laufe der Woche weiter Gedanken machen und die Empfehlungen der anderen nutzen, um für Euch Klarheit zu bekommen. Teilt aber in jedem Fall den anderen mit, für welches Tool oder welche Kombination Ihr Euch entschieden habt. Dies muss nicht endgültig sein, aber für den Anfang ist das wichtig, um einfach loslegen zu können.
 
 Basic-Kata für diese Woche (ca. 1 Stunde):
 
