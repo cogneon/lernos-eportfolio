@@ -24,8 +24,6 @@ optional video kata
 
 ### Week 0 - Getting to know each other
 
-![Sketchnote Joint access to the ePortfolio Circle Guide from Katrin [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image8.jpeg)
-
 **A) Getting to know each other and intention of the circle** | (approx. 25 minutes)
 
 Welcome to the ePortfolio Learning Circle Guide!
