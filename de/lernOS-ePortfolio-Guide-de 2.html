@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de-de" xml:lang="de-de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Marcel Kirchner" />
+  <meta name="author" content="Herta Schuster and Stefan Diepolder" />
+  <title>lernOS ePortfolio Leitfaden</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">lernOS ePortfolio Leitfaden</h1>
+<p class="author">Marcel Kirchner</p>
+<p class="author">Herta Schuster and Stefan Diepolder</p>
+<p class="date">Version 1.0 (17.10.2020)</p>
+</header>
+<nav id="TOC" role="doc-toc">
+
+</nav>
+<h1 data-number="1" id="einführung"><span class="header-section-number">1</span> Einführung</h1>
+<p>Als wir im September 2019 zu sechst unseren ersten lernOS Circle starteten, war noch nicht klar, wohin uns diese Lernreise letztlich führen wird. Aber uns war bewusst, dass wir dieses Experiment mit etwas verbinden wollten, was anderen, die es nach uns ausprobieren würden, auch etwas zurückgeben kann.</p>
+<p><img src="./images/image1.jpg" /></p>
+<p>Grundsätzlich hatte jeder von uns sein eigenes Thema, dass er während der Zeit verfolgte. Trotzdem ermöglichte uns die gemeinsame Erfahrung, sich gegenseitig zu unterstützen und online miteinander auszutauschen, bei allen unseren Themen ein gutes Stück voranzukommen.</p>
+<p>Daher kam relativ schnell der Entschluss, auch nach dem Circle zu dritt weiterzumachen und zwei eigene Leitfäden (Circle Guides) zu erstellen, die es anderen ermöglichen sollten, über verschiedene innovative Lernmethoden selbst diese Erfahrungen zu sammeln. So entstand letztlich hierdurch einer dieser beiden Leitfäden und wir hoffen, dass er Euch gut bei Eurer Lernreise begleiten kann.</p>
+<p><strong>Zentrale Zielstellungen dieses ePortfolio Learning-Leitfadens</strong></p>
+<p>Dieser Circle Guide möchte Euch eine Lernmethode zeigen, mit der Ihr Euch in einem spannenden Zukunftsthema weiterbilden und Euch mit anderen Lernern*innen darüber austauschen und vernetzen könnt.</p>
+<p>Ihr werdet in der Lage sein, ein Basis- und Überblickswissen über die ePortfolio-Methode und Social Software zu erlernen.</p>
+<p>Gleichzeitig werdet Ihr ein eigenes ePortfolio mit einer geeigneten Software aufbauen oder weiterentwickeln und mit anderen ein Detailwissen zu einem spannenden Thema erarbeiten.</p>
+<p>Wir sind schon gespannt auf Eure Erfahrungsberichte und wünschen Euch nun viel Freude!</p>
+<h1 data-number="2" id="über-lernos"><span class="header-section-number">2</span> Über lernOS</h1>
+<p>lernOS ist eine Methode zur Selbstorganisation für Menschen, die im 21. Jahrhundert leben und arbeiten. Um heute erfolgreich zu sein, muss man ständig lernen, sich organisieren und weiterentwickeln. Niemand sonst ist für diesen Prozess verantwortlich. Man muss sich selber darum kümmern (selbstgesteuertes, lebenslanges Lernen).</p>
+<p>lernOS Leitfäden stehen unter der Lizenz <a href="https://creativecommons.org/licenses/by/4.0/deed.de">Creative Commons Attribution 4.0 International</a> (CC BY 4.0): <img src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></p>
+<p>Du darfst:</p>
+<ul>
+<li><strong>Teilen</strong> - das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten.</li>
+<li><strong>Bearbeiten</strong> - das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</li>
+</ul>
+<p><strong>Unter folgenden Bedingungen:</strong></p>
+<ul>
+<li><strong>Namensnennung</strong> - Du musst angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.</li>
+<li><strong>Keine weiteren Einschränkungen</strong> - Du darst keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</li>
+</ul>
+<h1 data-number="3" id="grundlagen"><span class="header-section-number">3</span> Grundlagen</h1>
+<p>Zu Beginn: Wenn Du überlegst, ob Du diesen Circle durchführen möchtest, dann schau Dir am besten einmal die nachfolgenden Grundlagen an, die wir für Dich zusammengestellt haben:</p>
+<ul>
+<li>Was steckt eigentlich hinter der Idee eines ePortfolios und welche Mehrwerte kann es bieten?</li>
+<li>Welche Bestandteile hat ein ePortfolio?</li>
+<li>Wie funktioniert das Führen eines ePortfolios?</li>
+<li>Was meint Reflektieren beim ePortfolio?</li>
+</ul>
+<p>Anhand der ePortfolio Learning-Methode möchten wir, dass Ihr im Circle gemeinsam an einem von Dir oder Euch selbst gewählten, spannenden Thema arbeitet. Du kannst Dir dazu eine online sichtbare Expertise aufbauen. Außerdem besteht dadurch die Möglichkeit, Dich mit anderen zu diesem Thema zu vernetzen und eine neue Praxis-Community aufzubauen oder Dich einer anzuschließen. Nun schauen wir uns aber erstmal die Basics genauer an.</p>
+<p><strong>1. Was steckt eigentlich hinter der Idee eines ePortfolios und welche Mehrwerte kann es bieten?</strong></p>
+<p>Die Portfolio-Methode stammt ursprünglich aus dem künstlerischen Bereich, bei der mit Geschick gemachte Arbeiten (= Artefakte) in einer Sammelmappe zusammengestellt werden (portare = tragen und folio = Blatt im Lateinischen). Außerdem bespricht man die Inhalte dieser Mappe mit anderen, um sich im Prozess weiterzuentwickeln und später sogar bewerben zu können. Dies wurde durch den Einzug von digitalen Medien und des Internets auf die elektronische Nutzung übertragen. Dadurch ergeben sich auch mehr Möglichkeiten, ein ePortfolio zu gestalten. Als weiterführenden Einstieg möchten wir Euch gerne ein kleines Online-Tutorial empfehlen, welches Marcel 2009 zu diesem Thema aufbereitet hat: <a href="https://www.youtube.com/watch?v=6lwSyXD20Jg">E-Portfolios im Einsatz</a> (Länge ca. 9 min.)</p>
+<figure>
+<img src="./images/image2.jpg" alt="Video-Webinhalt mit Titel: Online-Tutorial E-Portfolios im Einsatz - Teil 1" /><figcaption aria-hidden="true">Video-Webinhalt mit Titel: Online-Tutorial E-Portfolios im Einsatz - Teil 1</figcaption>
+</figure>
+<p>Wer es lieber Schwarz auf Weiß mag, dem können wir ePortfolios kurz und knapp als eine Mischform des Online-Lernens mit Hilfe verschiedener Social Software beschreiben. Diese dient einerseits dazu, sich selbst als Person mit seinen Kompetenzen transparent darzustellen und mit anderen zu vernetzen (= Social Networking). Andererseits erfolgt dies in Kombination damit, seinen Lernprozess und die Ergebnisse mittels digitaler Medien ansprechend zu dokumentieren (= Social Publishing). Dabei wird das Gelernte reflektiert und gezielt zur Diskussion gestellt (vgl. Bernhardt / Kirchner 2007: 82 f. &amp; Kirchner 2015: 32 f.).</p>
+<figure>
+<img src="./images/image4.jpeg" alt="Illustration eines ePortfolios als Sketchnote von Katrin Mäntele @kleinerw4hnsinn (CC BY)" /><figcaption aria-hidden="true">Illustration eines ePortfolios als Sketchnote von Katrin Mäntele <a href="https://twitter.com/kleinerw4hnsinn"><span class="citation" data-cites="kleinerw4hnsinn">@kleinerw4hnsinn</span></a> (CC BY)</figcaption>
+</figure>
+<p>Kleiner wissenschaftlicher Exkurs (optional): Wer es detaillierter wissen möchte, dem sei die nachfolgende Einordnung empfohlen (zitiert nach Kirchner 2015: 32ff.):</p>
+<p>Die ursprüngliche Einordnung im deutschsprachigen Raum stammt von der Salzburg Research Forschungsgesellschaft “EduMedia”:</p>
+<p><em>“E-Portfolio ist eine digitale Sammlung von ‘mit Geschick gemachten Arbeiten’ (= lat. Artefakte) einer Person, die dadurch das Produkt (Lernergebnisse) und den Prozess (Lernpfad/Wachstum) ihrer Kompetenzentwicklung in einer bestimmten Zeitspanne und für bestimmte Zwecke dokumentieren und veranschaulichen möchte. Die betreffende Person hat die Auswahl der Artefakte selbstständig getroffen, und diese in Bezug auf das Lernziel selbst organisiert. Sie (Er) hat als Eigentümer(in) die komplette Kontrolle darüber, wer, wann und wie viel Information aus dem Portfolio einsehen darf.” (Hornung-Prähauser et al. 2007: 14 sowie Hilzensauer/Hornung-Prähauser 2006:4)</em> (-&gt; <a href="https://www.e-teaching.org/lehrszenarien/pruefung/pruefungsform/eportfolio">siehe auch ähnliche Begriffseinordnung auf e-teaching.org</a></p>
+<p>Nach dieser Einordnung waren zunächst immer Produkt und Prozess im Vordergrund, aber die Feedback-Schleife wurde vernachlässigt und die Kompetenzen, die dafür nötig sind, nur angedeutet. Außerdem spricht man metaphorisch auch vom “Schaufenster des eigenen Lernens” (Bräuer 2000: 22, zitiert nach Brunner et al. 2008: 35 sowie Bauer/Baumgartner 2012). Das ist letztlich die technologische, eher tool-orientierte Brille.</p>
+<p>Aus pädagogisch-didaktischer Perspektive nähert man sich dem Ganzen aber in seiner Einordnung als (didaktische) Methode des eigenständigen und kompetenzbasierten Lernens, deren Anwendung mit eigener Zielsetzung und Planung anhand verschiedener Prozesse unterstützt wird (u.a. Auswählen, Reflektieren und Präsentieren) und sogar bis zu einem ganzheitlichen institutions-gesteuerten pädagogischen Konzept gehen kann. Das führte in der Vergangenheit dann vermehrt zu Begriffs-Wirrwarr.</p>
+<p>Daher wurde versucht, eine integrierende Sichtweise als Methode zu definieren und es mit Social Software zu verknüpfen:</p>
+<p><em>“Demnach ist ein Social-Software-Portfolio eine spezifische Form der webbasierten Selbstdarstellung über ein E-Portfolio. Durch die digitale Aufbereitung der Artefakte werden dem Inhaber zusätzliche mediale Möglichkeiten der Präsentation von Lernprodukten geboten (insbesondere in Form von Audio und Video). Mittels Social Software und insbesondere der Nutzung von Weblogs ermöglicht ein derartiges Portfolio dem Eigentümer außerdem eine fortlaufende Widerspiegelung seiner persönlichen Weiterentwicklung von (Medien-) Kompetenzen und regt damit zur Reflexion im selbstgesteuert-konnektiven Lernprozess an. Dies wird besonders unterstützt, indem es Besuchern Möglichkeiten bietet, ein Feedback über die Inhalte an den Eigentümer zu übermitteln, die sich bei E-Portfolio-Blogs vor allem über die Kommentarfunktion oder die gegenseitige Verlinkung äußern.” (Kirchner 2015: 36)</em></p>
+<p><strong>2. Welche Bestandteile hat ein ePortfolio?</strong></p>
+<p>Hier gibt es eine Fülle an Möglichkeiten und Werkzeugen, die unterschiedlich einsetzbar sind. Nachfolgend dazu eine Empfehlung aufgrund unserer bisherigen Erfahrung.</p>
+<p>Jeder von uns nutzt ja bereits verschiedene Online-Tools, um Inhalte im Netz zu erstellen und sei es nur, dass man eine E-Mail im kleinen Kreis schreibt oder gar eine öffentliche Webseite gestaltet. Dies kann als ein Portal oder Tor ins Internet betrachtet werden. Mit Hilfe dieses persönlichen Lernportals kann die Portfolio-Methode direkt angewendet werden, indem man z.B. einen eigenen Blog führt und ein soziales Netzwerk, wie LinkedIn oder Twitter für die Bereitstellung und Verbreitung seiner Inhalte (= Artefakte) verwendet. Dabei werden im weiteren Sinne Inhalte über Prozesse des Setzens von Zielen, Sammelns, Selektierens, Verknüpfens und Reflektierens erzeugt und schließlich für eine Präsentation, Weitergabe und mögliche Bewertung aufbereitet (vgl. Kirchner 2015: 57 bezugnehmend auf Hilzensauer, Hornung-Prähauser 2006: 5 bzw. Hornung-Prähauser et al. 2007: 15). Im engeren Sinne werden als eine Art “Auge” ins Netz relevante Inhalte aufgenommen und über ein “Schaufenster” z.B. als Blog-Beitrag und Tweet geeignet veröffentlicht (vgl. Kirchner 2015: 57 bezugnehmend auf Bräuer 2000: 22 und Baumgartner / Bauer 2013).</p>
+<p>Die nachfolgende Infografik fasst diese Prozesse einmal visuell zusammen:</p>
+<figure>
+<img src="./images/image5.jpeg" alt="Illustration des Lernens mit ePortfolios als Sketchnote von Katrin Mäntele @kleinerw4hnsinn (CC BY)" /><figcaption aria-hidden="true">Illustration des Lernens mit ePortfolios als Sketchnote von Katrin Mäntele <a href="https://twitter.com/kleinerw4hnsinn"><span class="citation" data-cites="kleinerw4hnsinn">@kleinerw4hnsinn</span></a> (CC BY)</figcaption>
+</figure>
+<p><em>Nach einem leicht angepassten Modell des selbstgesteuert-konnektiven Lernens mit E-Portfolio-Blogs (Kirchner 2015: 58, Abbildung 11) als Weiterentwicklung in Anlehnung an Bernhardt / Kirchner 2007: 89 und mit Bezug zu Hilzensauer, Hornung-Prähauser 2006: 5</em></p>
+<p><strong>3. Wie funktioniert des Führen eines ePortfolios?</strong></p>
+<p>Beim Einsatz eines ePortfolios und Anwenden der zugehörigen Methode werden im Wesentlichen die folgenden Prozesse ausgeführt, die bereits oben kurz erwähnt wurden (vgl. Hornung-Prähauser et al. 2007: 15):</p>
+<ol type="1">
+<li><strong>Ziele setzen</strong>, um die Vorgehensweise und Rahmenbedingungen beim Führen des ePortfolios zu klären.</li>
+<li><strong>Sammeln, Selektieren und Verknüpfen</strong> der Inhalte, um den Kompetenzaufbau im Lernprozess zu dokumentieren.</li>
+<li><strong>Reflektieren</strong> im ePortfolio, um die eigene Leistung kritisch zu hinterfragen und das Lernziel zu analysieren.</li>
+<li><strong>Präsentieren und Weitergeben</strong> der Ergebnisse an Dritte, um den Kompetenzaufbau sichtbar werden zu lassen.</li>
+<li><strong>Bewerten und Evaluieren</strong> des ePortfolios, um den Kompetenzaufbau ganzheitlich beurteilen zu können (optional).</li>
+</ol>
+<p><strong>4. Was meint Reflektieren beim ePortfolio genauer?</strong></p>
+<p>Dazu empfehlen wir die <u>ersten 2 Minuten</u> des zweiten Online.Tutorials von Marcel:</p>
+<p><a href="https://www.youtube.com/watch?v=_h4Q4_YEFKU">E-Portfolios im Einsatz - Teil 2</a> (Gesamtlänge ca. 8 min.)</p>
+<figure>
+<img src="./images/image6.jpg" alt="Video-Webinhalt mit Titel: Online-Tutorial E-Portfolios im Einsatz - Teil 2" /><figcaption aria-hidden="true">Video-Webinhalt mit Titel: Online-Tutorial E-Portfolios im Einsatz - Teil 2</figcaption>
+</figure>
+<p>Typische Orientierungsfragen, die man sich zum Reflektieren immer wieder stellt und als Antworten im ePortfolio festgehalten werden sollten, sind: - “Was habe ich bisher gelernt?” - “Wo stehe ich heute?” - “Was sollen meine nächsten Schritte sein?” (Atwell 2007, Hornung-Prähauser et al. 2007)</p>
+<p>Nun habt Ihr alle wichtigen Basis-Informationen zum Lernen mit ePortfolios erhalten und könnt beim Lernpfad direkt weiter durchstarten.</p>
+<p><strong>Quellen</strong></p>
+<ol type="1">
+<li>Attwell, Graham (2007): E-Portfolio Entwicklung und Verwendung [Video-Quelle]. Ins Deutsche übersetzt von der Salzburg Research Forschungsgesellschaft. http://blip.tv/pontydysgu/e-portfolio-entwicklung-und-verwendung-416096 [letzter möglicher Zugriff am 19.10.2013]. Verfügbarer alternativer Inhalt auf Slideshare: https://de.slideshare.net/GrahamAttwell/eportfolio-development-and-implementation [Abruf am 12.10.2020]</li>
+<li>Bauer, R. / Baumgartner, P. (2012): Schaufenster des Lernens: Eine Sammlung von Mustern zur Arbeit mit E-Portfolios. Münster: Waxmann Verlag.</li>
+<li>Baumgartner, P. / Bauer, R. (2012): Didaktische Szenarien mit E-Portfolios gestalten: Mustersammlung statt Leitfaden. In: Csanyi, G. / Reichl, F. / Steiner, A. (Hrsg.): Digitale Medien - Werkzeuge für exzellente Forschung und Lehre. Medien in der Wissenschaft, Band 61, S. 383-392. Münster: Waxmann.</li>
+<li>Baumgartner, P. / Zauchner, S. / Bauer, R. (Hrsg.) (2009): The Potential of E-Portfolios in Higher Education. Innsbruck/Wien/Bozen: StudienVerlag.</li>
+<li>Bernhardt, Thomas / Kirchner, Marcel (2007): E-Learning 2.0 im Einsatz - “Du bist der Autor!” - Vom Nutzer zum WikiBlog-Caster. vwh-Verlag, Boizenburg.</li>
+<li>Bräuer, Gerd (2000): Schreiben als reflexive Praxis: Tagebuch, Arbeitsjournal, Portfolio. Freiburg im Breisgau: Fillibach-Verlag.</li>
+<li>Brunner, I. / Häcker, T. / Winter, F. (Hrsg.) (2008): Das Handbuch Portfolioarbeit (2. Auflage). 1. Auflage 2006. Seelze-Velber: Kallmeyer.</li>
+<li>Hilzensauer, W. / Hornung-Prähauser, V. (2006): ePortfolio - Methode und Werkzeug für kompetenzorientiertes Lernen. Salzburg Research Forschungsgesellschaft m.b.H. - EduMedia [PDF]. Online verfügbar unter: http://edumedia.salzburgresearch.at/ images/stories/EduMedia/Inhalte/eportfolio_srfg.pdf (letzter möglicher Abruf am 03.12.2012). Alternativer Link unter: https://docplayer.org/16445308-Eportfolio-methode-und-werkzeug-fuer-kompetenzbasiertes-lernen.html [Abruf am 12.10.2020]</li>
+<li>Hornung-Prähauser, V., Geser, G., Hilzensauer, W., Schaffert, S. (2007): Didaktische, organisatorische und technologische Grundlagen von E-Portfolios und Analyse internationaler Beispiele und Erfahrungen mit E-Portfolio-Implementierungen an Hochschulen. Salzburg: Salzburg Research Forschungsgesellschaft und fnm-austria. Online verfügbar als PDF unter: http://www.fnm-austria.at/projekte/ePortfolio/Dateiablage/view/fnm-austria_ePortfolio_Studie_SRFG.pdf [letzter möglicher Abruf am 15.02.2013]. Alternativer Link unter: https://www.yumpu.com/de/document/view/32927444/didaktische-organisatorische-und-technologische-grundlagen-von- [Abruf am 12.10.2020]</li>
+<li>Kirchner, Marcel (2015): Social-Software-Portfolios im Einsatz - Zwischen Online-Lernen und Medienkompetenz im selbstgesteuert-konnektiven Lernalltag. vwh-Verlag, Boizenburg.</li>
+</ol>
+<h1 data-number="4" id="lernpfad"><span class="header-section-number">4</span> Lernpfad</h1>
+<p><strong>Vorneweg einmal kurz und knapp die Rahmenbedingungen in diesem Learning Circle:</strong> * Zeitraum: 13 Wochen, ggf. mit Pause (1 x pro Woche Circle-Treffen + selbstgesteuert lernen) * Woche 0 zum gemeinsamen Einstieg (= Reinschnuppern) und anschließend  * 12 Wochen zum interaktiven Austausch über die Methoden und Themen-Inhalte * Austausch (1 Stunde zusammen via Online-Präsenzmeeting) und sog. Katas (= Übungen) * Arbeitsaufwand Basic 2 Std. pro Woche für Einsteiger * Arbeitsaufwand Vertiefung +2 Std. pro Woche für besond. Interessierte / Fortgeschrittene * Die Katas der jeweiligen Woche sind Übungen mit der Empfehlung, diese im Laufe der Woche abzuarbeiten. Diese bereiten Euch jeweils gut auf den Austausch in der Folgewoche vor.</p>
+<p><strong>Die nächsten Wochen werdet Ihr Euch mit folgenden Lernbereichen beschäftigen (Achtung: bitte die nachfolgende Übersicht von unten nach oben anschauen):</strong></p>
+<p><img src="./images/image7.jpeg" alt="Visualisations as sketchnotes from Katrin Mäntele - on Twitter @kleinerw4hnsinn (CC BY)" /> (deutsche Grafik)</p>
+<p>Und schon geht’s los beim 1. Lernbereich</p>
+<h2 data-number="4.1" id="lernbereich-1---kennenlernen"><span class="header-section-number">4.1</span> Lernbereich 1 - Kennenlernen</h2>
+<p><strong>Circle-Mitglieder und ePortfolio-Methode kennenlernen bzw. Wissensstand untereinander checken und Beispiele anschauen – Mehrwerte erkennen (Wochen 0-1)</strong></p>
+<p>Struktur: Woche 0 - A) Kennenlernrunde und Intention des Circles - B) Besprechung des Circle-Lernpfads über die 12 Wochen - C) Zukünftiger Austausch-Rahmen (Zeit und Tool-Nutzung) sowie ggf. Erwartungshaltung Erste kurze Basic-Kata</p>
+<p>Woche 1 - D) Gemeinsames Grundverständnis der ePortfolio-Methode und -Ansätze - Grundlagen durchgehen - E) Erwartungshaltung vorstellen und mit Grundverständnis abgleichen - F) Themeninteresse andeuten und erste Gemeinsamkeiten erkennen Empfohlene Basic-Kata und mögliche Vertiefungs-Kata sowie erste optionale Video-Kata</p>
+<figure>
+<img src="./images/image8.jpeg" alt="Sketchnote “Gemeinsamer Einstieg in den ePortfolio Cicle Guide” von Katrin Mäntele @kleinerw4hnsinn (CC BY)" /><figcaption aria-hidden="true">Sketchnote “Gemeinsamer Einstieg in den ePortfolio Cicle Guide” von Katrin Mäntele <a href="https://twitter.com/kleinerw4hnsinn"><span class="citation" data-cites="kleinerw4hnsinn">@kleinerw4hnsinn</span></a> (CC BY)</figcaption>
+</figure>
+<h3 data-number="4.1.1" id="week-0---kennenlernrunde"><span class="header-section-number">4.1.1</span> Week 0 - Kennenlernrunde</h3>
+<p><strong>A) Kennenlernrunde und Intention des Circles</strong> | (ca. 25 Minuten) Herzlich Willkommen zum ePortfolio-Learning Circle Guide! Großartig, dass Ihr Euch hier zusammengefunden habt und diese neue Lernmethode kennenlernen wollt! Nehmt Euch nun zu Beginn erstmal genügend Zeit, Euch gegenseitig vorzustellen. Wer seid Ihr, womit beschäftigt Ihr Euch in Eurer täglichen Arbeit und woran habt Ihr besonderes Interesse oder wolltet Euch schon immer einmal weiterbilden?</p>
+<p><strong>B) Besprechung des Circle-Lernpfads über die 12 Wochen</strong> | (ca. 15 Minuten) Um einen ersten Überblick zu bekommen, was Euch erwartet, schaut Euch doch bitte gemeinsam einmal den roten Faden dieses Lernpfads an. Dazu haben wir Euch zu Beginn einmal eine übersichtliche Sketchnote aufbereitet, die Euch die 7 Lernbereiche von unten nach oben aufzeigt. Direkt vor jedem der Lernbereiche ist außerdem einmal die inhaltliche Struktur dargestellt (siehe oben). Das soll Euch zur Orientierung dienen und ein erstes Grundverständnis für die Inhalte vermitteln. Nachfolgend nochmal die Übersicht der Lernbereiche:</p>
+<ul>
+<li>Lernbereich 1: Circle-Mitglieder und ePortfolio-Methode kennenlernen | Wissensstand untereinander checken und Beispiele anschauen – Mehrwerte erkennen (2 Wochen = 2W)</li>
+<li>Lernbereich 2: Themeninteresse bekunden und Zielstellungen für das ePortfolio abstecken (2W)</li>
+<li>Lernbereich 3: Auswahl des ePortfolio-Werkzeugs und Weiterentwicklung des Themas (2W)</li>
+<li>Lernbereich 4: Erstellung und Aufbereitung eines ersten Themen-Beitrags und Lernreflexion (2W)</li>
+<li>Lernbereich 5: Vernetzung und Bekanntmachen des ePortfolios in der Community und erstes Themen-Feedback und -Ideen einholen (2W)</li>
+<li>Lernbereich 6: Aufbereitung eines Themenplans und Veröffentlichen weiterer Beiträge mit potenziellem Austausch (2W)</li>
+<li>Lernbereich 7: Fördern des Feedbacks und Austausch über die Themen im ePortfolio sowie Lessons learned (1 W)</li>
+</ul>
+<p><strong>C) Zukünftiger Austausch-Rahmen und Erwartungshaltung</strong> | (ca. 20 Minuten) Bitte klärt für Euch einmal gemeinsam ab, wann Ihr Euch wöchentlich eine Stunde treffen wollt und ob Ihr ggf. eine kleine Pause (zur Halbzeit) einlegen möchtet. Ihr solltet Euch dazu am besten eine erste Kalendereinladung mit den Planungs-Details (insb. Meeting-Link) versenden. Wichtig ist dafür auch zu klären, wir Ihr am besten zusammenfindet: Zu empfehlen ist ein Online-Konferenztool, wie z.B. Teams, Skype oder Zoom und ggf. eine gemeinsame Online-Applikation, um Eure ersten Gedanken und Ideen festzuhalten, wie z.B. über OneNote, Etherpad oder ein Wiki. Gerne könnt Ihr dazu auch unser Circle Template verwenden, dass wir Euch dafür zusammengestellt haben. Sicherlich ist es hilfreich, wenn jeweils eine*r die Moderation übernimmt und entweder jemand anderes oder Ihr alle gemeinsam Notizen im Tool macht. Aus unserer Erfahrung funktioniert es gut, wenn die Moderation unter den Circle-Mitgliedern wöchentlich abgewechselt wird bzw. rotiert. Schaut am Ende auch gerne schon einmal kurz in die Inhalte der Woche 1 weiter, was Euch als Nächstes erwartet. Das lässt sich immer gut als Check-Out jeder Woche tuen, um und hilft Euch, schnell einen Überblick zu bekommen. Die Übungen, so genannte Katas, sind meist so aufgebaut, dass Ihr sie zusammen im Circle-Treffen beginnen bzw. besprechen könnt und dann über die Woche hinweg erfüllt, um die Ergebnisse wieder mit in das nächste Circle-Treffen zu nehmen.</p>
+<p>Und los geht´s mit einer kurzen Basic-Kata für die Einstiegswoche (ca. 1 Stunde Aufwand): Bitte überlegt Euch kurz, welche Erwartungshaltung Ihr an diesen Learning Circle habt und haltet diese fest. Das könnt Ihr noch im ersten Präsenz-Meeting starten und bis zur kommenden Woche mitbringen. Dazu empfehlen wir, Euch vorbereitend einmal die Grundlagen der ePortfolio-Lernmethode anzuschauen.</p>
+<h3 data-number="4.1.2" id="woche-1---grundverständnis"><span class="header-section-number">4.1.2</span> Woche 1 - Grundverständnis</h3>
+<p><strong>D) Gemeinsames Grundverständnis der ePortfolio-Methode und -Ansätze</strong> | (ca. 25 Minuten) Willkommen zur ersten Inhaltswoche im Circle Guide! Klasse, dass Ihr nach dem Reinschnuppern vergangene Woche dranbleiben wollt und Euch nun auch im Detail mit der neuen Lernmethode beschäftigen möchtet! Um ein gemeinsames Grundverständnis zu bekommen, schaut Euch doch zunächst zusammen noch einmal die Grundlagen genauer an. Geht Sie am besten zusammen durch – vielleicht hat eine*r von Euch ja schon während der vergangenen Woche etwas gestöbert und kann den anderen eine kurze Zusammenfassung seiner*ihrer Erkenntnisse geben? Die Videos könnt Ihr natürlich auch einzeln im Nachgang anschauen oder direkt kurz besprechen, um nicht zu viel Zeit Eurer wertvollen Stunde zu verlieren.</p>
+<p><strong>E) Erwartungshaltung vorstellen und mit Grundverständnis abgleichen</strong> | (ca. 25 Minuten) Da Ihr Euch über die Woche auch überlegt habt, welche Erwartungen Ihr an den Learning Circle habt, geht nun der Reihe nach durch und stellt diese vor. Geht dabei auch darauf ein, wie dies zum Grundverständnis der ePortfolio-Lernmethode passen kann.</p>
+<p><strong>F) Themeninteresse andeuten und erste Gemeinsamkeiten erkennen</strong> | (ca. 10 min) Überlegt Euch zum Schluss - falls es nicht schon in der Erwartungshaltung angerissen wurde -, in welche thematische Richtung es für Euch im Laufe der nächsten Wochen gehen könnte. Dies wird dann Euer zentraler Gegenstand sein, um Euch mit den anderen auszutauschen und zu lernen.</p>
+<p>Basic-Kata für diese Woche (ca. 1 Stunde): Beschreibt Euer Themeninteresse im Laufe der Woche genauer. Dies kann erstmal in Stichpunkten erfolgen und bei Bedarf auch eine kleine Linkliste oder Mediensammlung (Grafiken, kurze Erklärvideos) enthalten.</p>
+<p>Schaut Euch außerdem einmal <strong>1 bis 2 Beispiele</strong> aus der nachfolgenden Liste an, um für die kommende Woche eine erste Orientierung zu bekommen, wie ein ePortfolio aussehen kann:</p>
+<ul>
+<li><a href="https://www.bildungsdesign.com/">Bildungsdesign</a> - themenorientiertes Portfolio von Christoph Schmitt</li>
+<li><a href="https://katharina-nolden.de/">Katharina Nolden</a> – personenorientiertes Business-Portfolio</li>
+<li><a href="https://raeuberleiterin.de/">Sketchnoting</a> and <a href="https://medium.com/@LuiseFreese">Office 365</a> - themenorientiertes Portfolio von Luise Freese Luise Freese</li>
+<li><a href="https://www.researchgate.net/profile/Petra_Schubert">Petra Schubert</a> und <a href="https://www.researchgate.net/profile/Susan_Williams14">Susan Williams</a> - netzwerkorientiertes, akademisches Portfolio auf ResearchGate</li>
+<li><a href="http://sebastian-thomas.de/">Sebastian Thomas</a> - personenorientiertes Business-Portfolio</li>
+<li><a href="http://www.elearning2null.de/">Elearning20.de</a> - themenorientiertes Co-Portfolio of Thomas Bernhardt and Marcel Kirchner</li>
+<li><a href="https://harald-schirmer.de/">Harald Schirmer</a> - kombiniertes Personen- und Themen-Portfolio</li>
+<li><a href="https://harald-schirmer.de/vucarockers-members/">VUCARockers</a> - eine wachsende ePortfolio-Community von Harald für Zukunftsgestalter</li>
+</ul>
+<p>Empfohlene Vertiefungs-Kata für die Woche (ca. 1,5 Stunden): Recherchiert einmal nach Beispielen für ePortfolios im Netz (z.B. auch thematischen Blogs oder Podcasts), die Ihr spannend findet und bringt diese zum nächsten Circle-Treffen mit. Erklärt auch, warum sie aus Eurer Sicht zum Grundverständnis eines ePortfolios gut passen können.</p>
+<p>Optionale Video-Kata: Stellt Euer favorisiertes ePortfolio in einem Kurzvideo vor – das kann beinhalten: Wer führt das ePortfolio und mit welchen Themen beschäftigt es sich?</p>
+<h2 data-number="4.2" id="lernbereich-2---themeninteresse"><span class="header-section-number">4.2</span> Lernbereich 2 - Themeninteresse</h2>
+<p><strong>Themeninteresse bekunden und Zielstellungen für das ePortfolio abstecken (Wochen 2-3)</strong></p>
+<p>Struktur:</p>
+<p><em>Woche 2</em> - A) Mitgebrachte ePortfolio-Beispiele kurz vorstellen - B) Mögliches Themeninteresse für das ePortfolio eingrenzen und Motivation klären (Warum?) - C) Zielstellung/en des ePortfolios abstecken und wen möchte ich erreichen (Zielgruppe/n) Basic- und Vertiefungs-Kata</p>
+<p><em>Woche 3</em> - D) Erarbeitetes Themeninteresse, Motivation, Zielstellungen und -gruppe gegenseitig vorstellen - E) Feedback nehmen und geben - F) Wie strukturiere ich zukünftig meine möglichen Wochenaktivitäten im ePortfolio? Basic- und Vertiefungs-Kata sowie eine weitere optionale Video-Kata</p>
+<figure>
+<img src="./images/image11.jpeg" alt="Sketchnote Themenideen und Zielstellungen des ePortfolios von Katrin Mäntele @kleinerw4hnsinn (CC BY)" /><figcaption aria-hidden="true">Sketchnote Themenideen und Zielstellungen des ePortfolios von Katrin Mäntele <a href="https://twitter.com/kleinerw4hnsinn"><span class="citation" data-cites="kleinerw4hnsinn">@kleinerw4hnsinn</span></a> (CC BY)</figcaption>
+</figure>
+<h3 data-number="4.2.1" id="woche-2---zielstellungen"><span class="header-section-number">4.2.1</span> Woche 2 - Zielstellungen</h3>
+<p><strong>A) Mitgebrachte ePortfolio-Beispiele kurz vorstellen</strong> | (ca. 25 Minuten) Willkommen zur zweiten inhaltlichen Woche! Nachdem ihr vorige Woche ein Grundverständnis für die ePortfolio-Lernmethode gewinnen konntet und ein grobes Themeninteresse ermittelt habt, werdet Ihr dies heute gemeinsam vertiefen. Bitte schaut Euch dazu zunächst zusammen einmal genauer, Beispiele für ePortfolios an und stellt sie Euch gegenseitig kurz im Circle vor. Achtet vor allem auf Gemeinsamkeiten oder Unterschiede zwischen den Beispielen. Hier könnt Ihr gerne eine kurze Stichpunktliste mit Kriterien festhalten, die bei den Beispielen immer wiederkehren oder auch ganz individuell sein, um für Euch eine weitere Orientierung zu haben.</p>
+<p><strong>B) Mögliches Themeninteresse für das ePortfolio eingrenzen und Motivation klären (Warum?)</strong> | (ca. 25 Minuten) Stellt Euch nun in der Runde gegenseitig Euer Themeninteresse vor, über das Ihr Euer ePortfolio gerne aufbauen möchtet und warum dieses so spannend oder relevant für Euch ist. Gebt Euch hierzu auch gerne erstes Feedback.</p>
+<p><strong>C) Zielstellung des ePortfolios abstecken und wen möchte ich erreichen (Zielgruppe/n)</strong> | (ca. 10 Minuten) Überlegt Euch zum Abschluss zusammen eine erste mögliche Zielstellung für das ePortfolio und wen Ihr zunächst erreichen wollt. Dies kann sich natürlich im Laufe der Zeit noch ändern oder erweitern.</p>
+<p>Basic-Kata für diese Woche (ca. 1 Stunde): Formuliert aus dem bisherigem Stand Euer detailliertes ePortfolio-Themeninteresse / Thema, die Haupt-Zielgruppe und eine zentrale Zielstellung des ePortfolios.</p>
+<p>Beispiel zur Orientierung: “Ich möchte mir eine Umgebung einrichten, in der ich meine persönlichen Lernschritte zum Thema künstliche Intelligenz entwickeln, dokumentieren und der Community zur Verfügung stellen kann. Dabei möchte ich vor allem andere Interessierte für dieses Themenfeld begeistern und nach Möglichkeit mit Experten in Austausch treten.”</p>
+<p>Vertiefungs-Kata (ca. 1 Stunde): Formuliert tiefergehende Lern- oder Unterziele und führt eine kleine Zielgruppenanalyse durch, um ggf. verschiedene Gruppen besser ansprechen zu können <em>-&gt; ggf. Hilfestellung zur Zielgruppenanalyse und Lernzielformulierung –&gt; Kernfragen formulieren</em></p>
+<h3 data-number="4.2.2" id="woche-3---strukturierung"><span class="header-section-number">4.2.2</span> Woche 3 - Strukturierung</h3>
+<p><strong>D) Erarbeitetes Themeninteresse, Motivation, Zielstellungen und -gruppe gegenseitig vorstellen</strong> | (ca. 20 Minuten) In dieser Woche seid Ihr kurz davor, alle grundlegenden, inhaltlichen Voraussetzungen für den Beginn des ePortfolios abzuschließen. Das ist also der erste wichtige Meilenstein, bevor es an die Auswahl des passenden Online-Werkzeugs und die erste Veröffentlichung geht. Stellt Euch heute im Circle der Reihe nach Eure Themen / Themeninteressen vor und beschreibt dabei, welche Zielgruppe und Zielstellung(en) Euer ePortfolio erreichen soll.</p>
+<p><strong>E) Feedback nehmen und geben</strong> | (ca. 20 Minuten) Für die jeweils anderen im Circle ist es wichtig, dem / der Präsentierenden proaktiv zuzuhören und konstruktives Feedback zu geben. Idealer Weise wird dieses Feedback gleich passend festgehalten, damit es für den letzten Feinschliff genutzt werden kann.</p>
+<p><strong>F) Wie strukturiere ich zukünftig meine möglichen Wochenaktivitäten im ePortfolio?</strong> | (ca. 20 Minuten) Macht Euch schließlich im Circle gemeinsam Gedanken, ob und wie Ihr eine gewisse Regelmäßigkeit in das Führen eines ePortfolios bringen könnt. Hier ist es zum Beispiel sinnvoll, darüber nachzudenken, in welchem Turnus Beiträge geplant, erstellt und veröffentlicht werden sollen, welche Formate Ihr ausprobieren wollt, ob Ihr ein so genanntes Beitrags-Backlog (Liste von möglichen Inhalten, die für Beiträge in Frage kommen) erstellen möchtet und wie dieses aussehen kann.</p>
+<p>Basic-Kata für diese Woche (ca. 1 Stunde): Entwickelt auf der Grundlage des erhaltenen Feedbacks von den anderen Euer Themeninteresse / Thema weiter und verfeinert die Beschreibung der Zielstellungen.</p>
+<p>Vertiefungs-Kata “Having the end in mind” (ca. 1 Stunde) Überlegt Euch einmal, wie das konkrete Endergebnis nach den 12 Wochen des Circles aussehen könnte? Skizziert dieses kurz, selbst wenn nur ein vages Bild von diesem Ergebnis vorhanden ist. Nutzt dieses Bild in den kommenden Wochen, um es zu verfeinern, zu ergänzen und zu ändern. So könnt Ihr später besser reflektieren, wo Ihr steht und was Ihr noch erreichen wollt.</p>
+<p>Video-Kata (ca. 1 Stunde): Erstellt eine kleine Videopodcast-Folge, in der Ihr das Themeninteresse und die Zielstellungen des ePortfolios beschreibt, um später das Interesse Eurer Zielgruppe zu wecken.</p>
+<h2 data-number="4.3" id="lernbereich-3---eportfolio-werkzeuge"><span class="header-section-number">4.3</span> Lernbereich 3 - ePortfolio-Werkzeuge</h2>
+<p><strong>Auswahl des ePortfolio-Werkzeugs und Weiterentwicklung des Themas (Wochen 4-5)</strong></p>
+<p>Struktur:</p>
+<p><em>Woche 4</em></p>
+<ul>
+<li><ol type="A">
+<li>Mögliche Themenweiterentwicklung vorstellen</li>
+</ol></li>
+<li><ol start="2" type="A">
+<li>Kuratierte ePortfolio-Werkzeugliste anschauen und Austausch über mögliche Erfahrungswerte mit einem Tool</li>
+</ol></li>
+<li><ol start="3" type="A">
+<li>Aufteilung auf die Circle-Mitglieder (jeder ein Tool zum genaueren Anschauen)</li>
+</ol></li>
+</ul>
+<p><em>Woche 5</em></p>
+<ul>
+<li><ol start="4" type="A">
+<li>Vorstellung der Tool-Erkenntnisse anhand einer Tool-Arena</li>
+</ol></li>
+<li><ol start="5" type="A">
+<li>Pro und Contra in der Gruppe austauschen</li>
+</ol></li>
+<li><ol start="6" type="A">
+<li>Entscheidung (beim Treffen oder im Laufe der Woche), welches Tool man warum für sein ePortfolio nutzen möchte</li>
+</ol></li>
+</ul>
+<figure>
+<img src="./images/image12.jpeg" alt="Sketchnote Experiment with different ePortfolio tools from Katrin @kleinerw4hnsinn (CC BY)" /><figcaption aria-hidden="true">Sketchnote Experiment with different ePortfolio tools from Katrin <a href="https://twitter.com/kleinerw4hnsinn"><span class="citation" data-cites="kleinerw4hnsinn">@kleinerw4hnsinn</span></a> (CC BY)</figcaption>
+</figure>
+<h3 data-number="4.3.1" id="woche-4---vielfalt-der-werkzeuge"><span class="header-section-number">4.3.1</span> Woche 4 - Vielfalt der Werkzeuge</h3>
+<p><strong>A) Mögliche Themenweiterentwicklung vorstellen</strong> | (ca. 15 Minuten)</p>
+<p>In dieser Woche sollt Ihr Euer Thema / Themeninteresse vorerst abrunden und eine finalisierte erste Version für Euch erreicht haben. Dafür könnt Ihr die Zeit im Circle gemeinsam nutzen, um den anderen noch letzte Weiterentwicklungen oder Anpassungen auf der Basis des erhaltenen Feedbacks vorzustellen. Das müsst Ihr diesmal nicht alle im Circle tuen, sondern könnt die anderen auch bitten, im Laufe der Woche über Euren finalen Stand zu schauen. Sicherlich hat der eine oder andere aber noch eine Idee, die in der Runde eventuell thematisiert werden soll.</p>
+<p><em>Stellt Euch ggf. ergänzend die Frage: Was zeichnet für Euch grundsätzlich ein gutes ePortfolio aus und welche Grundfunktionalitäten sollte es mitbringen? (siehe dazu auch Grundlagen)</em></p>
+<p><strong>B) Kuratierte ePortfolio-Werkzeugliste anschauen und Austausch über mögliche Erfahrungswerte mit einem Tool</strong> | ( ca. 25 Minuten)</p>
+<p>Schaut Euch kurz zusammen die nachfolgende Empfehlungsliste an und tauscht Euch kurz darüber aus, wer welches Tool vielleicht schon kennt oder erste Erfahrungswerte damit hat.</p>
+<p>Top 10 Liste empfohlener ePortfolio-Werkzeuge von den Guide-Autoren (beliebige Reihenfolge</p>
+<ul>
+<li><a href="https://padlet.com/">Padlet</a> – einfaches, schnell aufsetzbares Pinboard mit unterschiedlichen vorkonfigurierten Designs und Formaten. Sehr komfortabel zu bedienen und zu teilen und kollaborativ befüllbar. 3 Padlets sind kostenlos pro User. Einfaches Tool, sehr beliebt auch z.B. für den Bereich Schule.</li>
+<li><a href="https://mahara.de/">Mahara</a> - wohl das bekannteste ePortfolio Werkzeug, das besonders in Schulen und Universitäten beliebt ist. Für Bildungseinrichtungen bis 100 Personen kostenlos. Große Funktionsvielfalt mit Portfolio (Ansichten, Dateisammlung, Lerntagebüchern), Gruppen, Foren, Profil mit Lernzielen- und Plänen</li>
+<li><a href="https://de.wordpress.org/">Wordpress</a> – eines der bekanntesten Open Source CMS-Systeme, das sehr erfolgreich für Weblogs und Homepages eingesetzt wird. Mit sehr vielen Themes und Add-ons. Gut und komfortabel bedienbar.</li>
+<li><a href="https://www.pebblepad.co.uk/">PebblePad</a> - kommerzielles ePortfolio-Werkzeug mit umfangreichem Funktionsumfang, anpassbaren Templates und externen App-Integrationen</li>
+<li><a href="https://products.office.com/de-de/onenote/digital-note-taking-app">OneNote</a> - Standardtool von Microsoft, das entweder frei (bis zu 5GB Daten) als auch kommerziell über Education- und Business- Lizenzen lizenzierbar ist. Sehr beliebt im schulischen Umfeld, bei dem es im digitalen Unterricht bereits genutzt werden darf (Cloud- Technologie). Sehr flexibel einsetzbar und wird ständig erweitert und verbessert. Integrierbar in das Office 365-Ökosystem.</li>
+<li><a href="https://de.wikipedia.org/wiki/HCL_Connections">Connections</a> - Enterprise Social Networking-Plattform der Firma HCL (ehemals von IBM bereitgestellt), das über ein internes Community-Konzept mit Blog-, Wiki- und Forums-Modul, die transparente Aufbereitung und Gestaltung eines ePortfolios fördert</li>
+<li><a href="https://www.linkedin.com/">LinkedIn</a> / <a href="https://www.xing.com">Xing</a> als ePortfolio Online-Profilwerkzeuge mit Social Networking-Fokus, um sich fachlich zu präsentieren und mit anderen Netzwerk-Mitgliedern auszutauschen</li>
+<li><a href="https://twitter.com">Twitter</a> als netzwerkbasiertes Microblogging-Werkzeug, um kurze Informationen und hilfreiche Links zu präsentieren und sich mit anderen Followern via Hashtags auszutauschen</li>
+<li>Kombinierte Variante aus OneNote und Connections (unternehmensinterner Lösungsansatz)</li>
+<li>Kombinierte Variante aus Wordpress, Twitter und LinkedIn / Xing (externer Lösungsansatz)</li>
+</ul>
+<p>Wir empfehlen Euch insbesondere auch, über mögliche Tool-Kombinationen nachzudenken, da sie aus funktionaler Sicht die meisten Mehrwerte bei der Erstellung und Veröffentlichung Eurer Beiträge bieten können.</p>
+<p><strong>C) Aufteilung auf die Circle-Mitglieder</strong> | (ca. 20 Minuten)</p>
+<p>Entscheidet gemeinsam, wer sich im Laufe der Woche mit welchem Werkzeug genauer beschäftigen möchte. Wählt dabei bevorzugt jeweils ein Tool aus und überlegt Euch, erste Kriterien, die für Euch besonders wichtig wären, um eine Einschätzung über die Nutzbarkeit als ePortfolio geben zu können. Ggf. macht es auch Sinn, sich anhand der am Ende der Liste empfohlenen Tool-Kombinationen aufzuteilen und dann bis zur Folgewoche die Analysen zusammenzutragen.</p>
+<p>Basic-Kata für diese Woche (ca. 1 Stunde):</p>
+<p>Wähle ein ePortfolio-Werkzeug aus der Orientierungs-Liste aus und experimentiere damit bis zur Folgewoche, in der Du es den anderen dann kurz vorstellst. Nachfolgend findet Ihr eine kleine Tool-Schablone, die Ihr dafür als Orientierung nutzen und ausfüllen könnt, um sie kommende Woche Euren Circle-Mitgliedern vorzustellen. Hilfreiche Kriterien können zum Beispiel Benutzerfreund-lichkeit (Usability) und Klickwege, mögliche Kosten, passende Anwendungsszenarien sowie Dialog- und Feedback-Möglichkeiten sein.</p>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 13%" />
+<col style="width: 28%" />
+<col style="width: 28%" />
+<col style="width: 28%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Tool</strong></th>
+<th><strong>Beschreibung und Kriterien</strong></th>
+<th><strong>+ gut / - schlecht</strong></th>
+<th><strong>Meine Empfehlungen</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Beispiel: <em>MicrosoftOneNote</em></td>
+<td>Mix aus Videos und Screenshots, die ich in meinen Text eingebettet habe. Verschiedene thematisch unterschiedliche Notizbücher Thema: Lernhacks</td>
+<td>+ komfortables Einbetten von Medien (Videos, Wakelet, Office usw.)<br /><br />+ Strukturierung einfach möglich<br /><br />- für größere Gruppen unhandlich (im Vergleich zu Blog usw.)</td>
+<td>Ich würde das Tool nutzen, um mir selbst Themen zu erarbeiten. Die Notizbücher würde ich in kleinen Gruppen teilen und z.T. mit den Kollegen weiter entwickeln.</td>
+</tr>
+<tr class="even">
+<td>…</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+</tr>
+</tbody>
+</table>
+<p>Vertiefungs-Kata (ca. 1 bis 2 Stunden): Stellt eine vergleichende Toolanalyse für zwei der favorisierten Werkzeuge auf, die Ihr dann den anderen präsentierst. So könnt Ihr noch besser gemeinsam eine Entscheidung treffen.</p>
+<p>Als Orientierungshilfe kann Euch hierbei die Aufbereitung anhand des <a href="http://bas.uni-koblenz.de/bas/publications_light.nsf/9419ff0c508bbae8c1257219004fef63/e71c2845ef894202c1257b45003f4934/$FILE/E2.0-collaborative-technologies.pdf">8C-model for collaborative technologies</a> von Susan Williams (2011) der Universität Koblenz-Landau dienen.</p>
+<h3 data-number="4.3.2" id="woche-5---werkzeug-auswahl"><span class="header-section-number">4.3.2</span> Woche 5 - Werkzeug-Auswahl</h3>
+<p><strong>D) Vorstellung der Tool-Erkenntnisse anhand einer Tool-Arena</strong> | (ca. 25 Minuten)</p>
+<p>Stellt Euch heute Eure Erkenntnisse über die ausprobierten Werkzeuge gegenseitig vor.</p>
+<p>Unsere Empfehlung dazu: Vergleicht ca. fünf wesentliche Kernfunktionen des jeweiligen ePortfolio-Werkzeugs, die ihr im Circle gegeneinander “antreten” lasst. Welches bietet welche Vorteile? Dadurch erlangt Ihr einen schnellen Einblick in die Werkzeugvielfalt.</p>
+<p><strong>E) Pro und Contra in der Gruppe austauschen</strong> | (ca. 25 Minuten)</p>
+<p>Tauscht Euch im Rahmen der Arena-Runden aus, welche Pro- und Contra-Argumente es für welches ePortfolio-Werkzeug gibt und haltet diese am besten in einer Gegenüberstellung (z.B. als Tabelle) fest.</p>
+<p><strong>F) Entscheidung, welches Tool man warum für sein ePortfolio nutzen möchte</strong> | (ca. 10 Minuten)</p>
+<p>Versucht noch während des Circle-Treffens eine Entscheidung zu treffen, welches ePortfolio-Werkzeug oder welche Kombination am ehesten für Euch in Frage kommt und teilt diese gerne den anderen mit. Wenn Ihr noch etwas unsicher seid, könnt Ihr Euch auch im Laufe der Woche weiter Gedanken machen und die Empfehlungen der anderen nutzen, um für Euch Klarheit zu bekommen. Teilt aber in jedem Fall den anderen mit, für welches Tool oder welche Kombination Ihr Euch entschieden habt. Dies muss nicht endgültig sein, aber für den Anfang ist das wichtig, um einfach loslegen zu können.</p>
+<p>Basic-Kata für diese Woche (ca. 1 Stunde):</p>
+<p>Trefft die finale Entscheidung für das ePortfolio-Werkzeug oder die Tool-Kombination, die Ihr gerne ab jetzt nutzen möchtet. Sucht wertvolle kurze Erklärvideos oder Links für die Nutzung Eures bevorzugten ePortfolio-Werkzeugs und stellt diese den anderen online bereit. Dies kann eine gute weiterführende Orientierung und Entscheidungshilfe für die noch Unentschlossenen sein.</p>
+<p>Vertiefungs-Video-Kata (ca. 1 bis 2 Stunden):</p>
+<p>Erstellt ein kurzes Empfehlungsvideo für die anderen, warum Ihr Euch für Euer ePortfolio-Werkzeug oder Eure Tool-Kombination entschieden habt.</p>
+<h2 data-number="4.4" id="lernbereich-4---themenbeitrag-und-lernreflexion"><span class="header-section-number">4.4</span> Lernbereich 4 - Themenbeitrag und Lernreflexion</h2>
+<p><strong>Erstellung und Aufbereitung eines ersten Themen-Beitrags und Lernreflexion (Wochen 6-7; mit Bezug zum Content Curation Circle Guide Woche 8 – Formen der Kuratierung)</strong></p>
+<p>Struktur:</p>
+<p><em>Woche 6</em></p>
+<ul>
+<li><ol type="A">
+<li>Suchen und Lesen von ersten Quellen (Seeking-Methode)</li>
+</ol></li>
+<li><ol start="2" type="A">
+<li>Einordnung der Quellen mit kurzer Begründung (Sensemaking-Methode)</li>
+</ol></li>
+<li><ol start="3" type="A">
+<li>Anleitung, wie eine gute Lernreflexion aufbereitet sein kann</li>
+</ol></li>
+</ul>
+<p><em>Woche 7</em></p>
+<ul>
+<li><ol start="4" type="A">
+<li>Kurzvorstellung der Einstiegs-Quellen mit Einordnung in den Themenbeitrag</li>
+</ol></li>
+<li><ol start="5" type="A">
+<li>Veröffentlichung des Beitrags / ggf. Video-Microlearning (Sharing-Methode)</li>
+</ol></li>
+<li><ol start="6" type="A">
+<li>Lernreflexions-Runde der letzten beiden Wochen</li>
+</ol></li>
+</ul>
+<figure>
+<img src="./images/image13.jpeg" alt="Sketchnote Preparation and publication of first contents from Katrin @kleinerw4hnsinn (CC BY)" /><figcaption aria-hidden="true">Sketchnote Preparation and publication of first contents from Katrin <a href="https://twitter.com/kleinerw4hnsinn"><span class="citation" data-cites="kleinerw4hnsinn">@kleinerw4hnsinn</span></a> (CC BY)</figcaption>
+</figure>
+<h3 data-number="4.4.1" id="woche-6---recherche-und-reflexion"><span class="header-section-number">4.4.1</span> Woche 6 - Recherche und Reflexion</h3>
+<p><strong>A) Suchen und Lesen von ersten Quellen (Seeking-Methode)</strong> | (ca. 20 Minuten)</p>
+<p>Nach der Tool-Auswahl für ePortfolios in den vergangenen beiden Wochen, geht es nun wieder stärker in die Inhalte. Um einen ersten Beitrag zu einem Thema erstellen zu können, müssen relevante Informationen und Personen gesucht und entdeckt werden. Entweder finden Euch Informationen automatisch über Social Media Kanäle, RSS Feeds oder Content-Aggregatoren mit künstlicher Intelligenz, wie <a href="https://anderspink.com/">anderspink.com</a> oder <a href="https://refind.com/">refind.com</a>. Oder Ihr sucht und beobachtet selbst aktiv auf Content-Portalen, in offenen Wissenressourcen - Open Educational Ressources (OER), auf YouTube, in Blogs oder Suchmaschinen und Social Media-Kanälen. Tauscht Euch über mögliche konkrete Quellen zu Eurem ersten fachlichen Beitrag für Euer erstelltes Themeninteresse aus.</p>
+<p><strong>B) Einordnung der Quellen mit kurzer Begründung (Sensemaking-Methode)</strong> | (ca. 20 Minuten)</p>
+<p>Wie würdet Ihr eine Begründung für eine gute Quelle formulieren? Welche Kriterien gibt es dabei grundsätzlich zu beachten? Diskutiert dies untereinander.</p>
+<p>Nachfolgend eine kleine Orientierung von uns, die bei der Diskussion helfen kann: Kriterien, die für qualitativ hochwertige Contents sprechen:</p>
+<ul>
+<li>Der/die Autor*in ist Expert*in/Spezialist*in auf seinem / ihrem Gebiet. Dies kannst Du herausfinden, indem Du ihnen z.B. auf Social Media-Kanälen wie Twitter oder LinkedIn folgst, ihre Posts recherchierst, ihre Publikationshistorie ansiehst oder persönliche Blogs oder Videokanäle analysierst. Sehr gute Experten werden auch oft zu Vorträgen und Veranstaltungen eingeladen oder von Kollegen aus dem Netzwerk empfohlen.</li>
+<li>Die Inhalte zitieren einsehbar Quellen und geben nicht nur unreflektiert die eigene Meinung wieder. Dies siehst Du z.B. an Verlinkungen und Referenzen in Texten oder z.B. in so genannten “Shownotes” von Podcasts und Verlinkungen in YouTube-Videos.</li>
+<li>Renommierte Inhaltsanbieter, wie Verlage, Portale oder Universitäten stellen die Inhalte ein bzw. verlinken sie. Die Contents werden von Kollegen auf Social Media-Kanälen und in Blogposts verlinkt, empfohlen und diskutiert und laden ein, Dir eine Meinung zu bilden und Dich näher mit dem / der Autor*in bzw. dem Thema zu beschäftigen.</li>
+</ul>
+<p>Es gibt grundsätzlich nicht DIE Kriterien, um die Qualität einer Quelle einzuordnen. Das Empfinden, was qualitativ guter Content ist und was nicht, hängt stark von Deiner eigenen Persönlichkeit und Deinen Vorlieben ab. So empfinden z.B. naturwissenschaftlich arbeitende Personen, die es gewohnt sind, eine Menge zu lesen und die gelesenen Informationen schnell und effektiv zu verarbeiten, wissenschaftliche Texte, die von renommierten Universitäten und Forschern publiziert werden, als relevanter und wertvoller als z.B. ein kurzes Erklärvideo, das genau den gleichen Inhalt in 5 Minuten animiert auf den Punkt bringt.</p>
+<p>Deswegen ist es besonders wertvoll, seinen Lesern eine kurze eigene Einschätzung zu geben, warum Ihr die angeführten Quellen als wertvoll einschätzt und für relevant haltet und was Ihr selbst beim Bearbeiten dieser Medien gelernt habt.</p>
+<p>Das ist auch gleich eine ideale Überleitung zum dritten heutigen Punkt, der Lernreflexion.</p>
+<p><strong>C) Anleitung, wie eine gute Lernreflexion aufbereitet sein kann</strong> | (ca. 20 Minuten)</p>
+<p>Das Hauptziel eines ePortfolios ist, das eigene Lernen und den Lernprozess sichtbar zu machen. Klar, ihr lernt sehr viel, in dem ihr verschiedene Quellen und Inhalte zu Eurem Thema zusammenbringt, sie aufbereitet, weiterbearbeitet und dann im ePortfolio zur Diskussion stellt. Aber ein nicht unerheblicher Teil des Lernens findet durch Eure Reflexion statt – also das Nachdenken und Beobachten dessen, wie ihr wie (am besten) lernt, welche Aktivitäten für Euch am meisten bringen, wie ihr Verbindungen zu Eurem bestehenden Wissen herstellt. Damit vertieft ihr Euer Wissen, macht das Lernen für Euch leichter und helft Euch, Euren Lernprozess effektiver zu planen. Gleichzeitig zeigt Ihr auch anderen eine Orientierung auf, wir Ihr lernt. Deswegen ist es wichtig, dass ihr mit Eurem wachsenden ePortfolio auch Eure Lernreflexionsfähigkeit ausbaut.</p>
+<p>Tauscht Euch darüber aus, wie Ihr normalerweise über Euer Lernen und Euren Lernprozess nachdenkt und wie Ihr ihn reflektiert. Geht das eher nebenbei und sporadisch? Macht Ihr das, in dem Ihr anderen von Euren Lernerfahrungen erzählt, schreibt ihr etwas für Euch auf? Sammelt Ihr Ideen miteinander und probiert für Euch aus, was Euch beim Reflektieren helfen würde?</p>
+<p>Dazu von uns ein paar nützliche Fragen, um Euren Lernprozess zu reflektieren:</p>
+<p>Allgemein:</p>
+<ul>
+<li>Wie würdest Du Dein eigenes Lernen bis hierhin beschreiben? Wie geplant / ungeplant gehst Du vor? Wie effektiv schätzt Du Dein Lernen ein?</li>
+<li>Welche Strategien und Methoden helfen Dir allgemein beim Lernen, welche eher nicht?</li>
+<li>Wie sieht Dein idealer Lernplatz, Deine ideale Lernumgebung aus? Was muss da sein / nicht da sein, damit Du gut lernen kannst?</li>
+<li>Wie motivierst Du Dich zum Lernen?</li>
+</ul>
+<p>Spezifisch (auf eine „Lerneinheit“ bezogen) - hier am Beispiel des Circles und Deines ePortfolios:</p>
+<ul>
+<li>Was waren Deine Ziele, was wolltest Du lernen?</li>
+<li>Was hast Du gelernt? Wo stehst Du heute?</li>
+<li>Wo konntest Du an bestehendes Wissen anknüpfen? Wo haben sich neue Wissensverbindungen ergeben?</li>
+<li>Bist Du zufrieden mit Deinem Lernfortschritt?</li>
+<li>Was hat funktioniert, was nicht? Was waren Hindernisse?</li>
+<li>Wie kannst Du das, was funktioniert hat, verstärken?</li>
+<li>Wie kannst Du Schwierigkeiten aus dem Weg räumen? Wer kann Dir helfen?</li>
+<li>Was hat Dir geholfen, Dich zu motivieren? Was waren Deine Happy Moments beim Lernen? Wo willst Du hin? Was sind Deine nächsten Schritte?</li>
+</ul>
+<p>Basic-Kata in dieser Woche (ca. 1 Stunde):</p>
+<p>Unterlegt Euer bisher formuliertes Themeninteresse mit geeigneten Quellen, die Ihr recherchiert habt und bereitet Sie zusammen mit dem Thema als einen ersten Themenbeitrag auf, den Ihr in der Folgewoche im Circle vorstellen werdet.</p>
+<p>Vertiefungs-Kata in dieser Woche (ca. 1 Stunde):</p>
+<p>Reflektiert darüber, wie leicht oder herausfordernd Euch die Quellenarbeit fällt und haltet dies kurz geeignet fest, um es mit den anderen in der Folgewoche besprechen zu können.</p>
+<h3 data-number="4.4.2" id="woche-7---veröffentlichung-und-reflexion"><span class="header-section-number">4.4.2</span> Woche 7 - Veröffentlichung und Reflexion</h3>
+<p><strong>D) Kurzvorstellung der Einstiegsquellen mit Einordnung in den Themenbeitrag</strong> | (ca. 20 Minuten)</p>
+<p>Nachdem Ihr Euch in der vergangenen Woche mit drei grundlegenden Methoden des Kuratierens von Inhalten beschäftigt habt und im zweiten Teil auch die Kernkompetenz des ePortfolio-Lernens, dem Reflektieren, kennenlernen konntet, soll es in dieser Woche darum gehen, die gewonnenen Erkenntnisse zu vertiefen. Stellt Euch zunächst gegenseitig eine geeignete Auswahl an Quellen vor, die Ihr recherchiert habt und wie Ihr diese für Euren Themenbeitrag aufbereitet habt. Gebt Euch dazu jeweils ein kurzes Feedback untereinander.</p>
+<p><strong>E) Veröffentlichung des Beitrags / ggf. Microlearning-Video (Sharing-Methode)</strong> | (ca. 20 Minuten)</p>
+<p>Die Kernaufgabe in dieser Woche ist es, Euren ersten Beitrag nun tatsächlich Eurem Publikum im ePortfolio zur Verfügung zu stellen. Dabei kann die Veröffentlichung zu einem selbst gewählten, passenden Zeitpunkt im Laufe der Woche erfolgen und über geeignete Medienformate erfolgen. Ein wichtiger Ansatz ist es, einen wertvollen Blogpost oder ein Video so zu beschreiben, dass sie auf Social Media-Kanälen wie Twitter oder LinkedIn oder auch organisationsinternen Kanälen, wie Connections von Deinen Followern oder interessierten Personen wahrgenommen wird. Interessant für Deine Zielgruppe könnte dabei die Beantwortung der folgenden Fragen sein, die Ihr im Circle einmal kurz zusammen durchgehen könnt:</p>
+<ul>
+<li>Wie lange dauert es, den Content durchzuarbeiten?</li>
+<li>Was sind meine persönlichen Erfahrungswerte oder Erkenntnisse anderer dabei?</li>
+<li>Warum sollten sich meine Follower mit dem Inhalt beschäftigen?</li>
+<li>Für wen und warum ist dieser Inhalt besonders wertvoll (Stichwort: Lerneffekt)?</li>
+<li>Welche weiterführenden Fragen haben sich aus der Bearbeitung des Inhalts ergeben?</li>
+<li>Wie ist meine Meinung zum Inhalt? Was ist meine Begründung dafür? In welche Verbreitungskanäle passt Euer Inhalt am besten?</li>
+</ul>
+<p><strong>F) Lernreflexions-Runde der letzten beiden Wochen</strong> | (ca. 20 Minuten)</p>
+<p>Greift Euer Reflexionsgespräch von der letzten Woche auf und überlegt Euch, wie ihr für Euch persönlich Euer Lernen zukünftig reflektieren wollt. Fangt mit ein paar einfachen Fragen und Überlegungen an und verfeinert es gerne über die nächsten Wochen weiter. Legt Euch in Eurem Portfolio einen Reflexionsbereich an und legt einen Rhythmus fest, in dem Ihr Euer Lernen reflektieren wollt. Das kann als reflektierender Themenbeitrag oder Teil eines Beitrags oder sogar als gesonderte Seite im ePortfolio veröffentlicht werden. Vorteil einer gesonderten Seite ist die klare Trennung zwischen fachlichem Inhalt und dem übergeordneten Reflexionsprozess. Tauscht Euch darüber aus, welchen Weg Ihr hier am besten gerne gehen wollt.</p>
+<p>Basic-Kata in dieser Woche (ca. 1 bis 2 Stunden):</p>
+<p>Neben der Veröffentlichung des ersten Themenbeitrags, der spätestens jetzt erfolgen sollte, macht Euch bitte erste Gedanken darüber, welche weiteren Ideen für Themenbeiträge Ihr in den kommenden Wochen habt. Diese sollt Ihr als Diskussionsgrundlage für den Austausch im Circle zur nächsten Woche mitbringen.</p>
+<p>Vertiefungs-Video-Kata zur Reflexion (ca. 1 Stunde):</p>
+<p>Stellt in einer kurzen Video-Podcast-Folge dar, was Ihr in den vergangenen beiden Wochen und bis hierhin im Circle für Euch über das Thema und die Herangehensweise an Euer Thema gelernt habt.</p>
+<h2 data-number="4.5" id="lernbereich-5---vernetzung"><span class="header-section-number">4.5</span> Lernbereich 5 - Vernetzung</h2>
+<p><strong>Erstes Themen-Feedback und -Ideen einholen sowie Vernetzung und Bekanntmachen des ePortfolios in der Community (mit Bezug zur WOL-Methode - Wochen 8-9)</strong></p>
+<p>Struktur:</p>
+<p><em>Woche 8</em></p>
+<ul>
+<li><ol type="A">
+<li>Entwickeln von inhaltlichen Ideen für weitere Themenbeiträge</li>
+</ol></li>
+<li><ol start="2" type="A">
+<li>Feedback nehmen und geben</li>
+</ol></li>
+<li><ol start="3" type="A">
+<li>Ersten Themenbeitrag über soziale Medien verteilen</li>
+</ol></li>
+</ul>
+<p><em>Woche 9</em></p>
+<ul>
+<li><ol start="4" type="A">
+<li>Aktuellen Stand zum Thema geben</li>
+</ol></li>
+<li><ol start="5" type="A">
+<li>Feedback-Runde, wer gute Kontakte zum jeweiligen Thema kennt</li>
+</ol></li>
+<li><ol start="6" type="A">
+<li>Lernreflexion zum aktuellen Stand</li>
+</ol></li>
+</ul>
+<figure>
+<img src="./images/image14.jpeg" alt="Sketchnote Contact establishment and feedback from the community from Katrin @kleinerw4hnsinn (CC BY)" /><figcaption aria-hidden="true">Sketchnote Contact establishment and feedback from the community from Katrin <a href="https://twitter.com/kleinerw4hnsinn"><span class="citation" data-cites="kleinerw4hnsinn">@kleinerw4hnsinn</span></a> (CC BY)</figcaption>
+</figure>
+<h3 data-number="4.5.1" id="woche-8---verteilung-des-beitrags"><span class="header-section-number">4.5.1</span> Woche 8 - Verteilung des Beitrags</h3>
+<p><strong>A) Entwickeln von inhaltlichen Ideen für weitere Themenbeiträge</strong> | (ca. 20 Minuten)</p>
+<p>Nachdem Ihr die letzten beiden Wochen Euren ersten Themenbeitrag erstellt habt und vielleicht schon einen grobe Vorstellung habt, wie Ihr Euer Thema weiter angehen wollt, besprecht das heute gemeinsam und versucht, den groben Plan zu verfeinern. Welche weiteren Aspekte Eures Themas wollt Ihr in den nächsten Wochen wie stark vertiefen? Wo wollt Ihr Freiraum lassen, für neue Teilaspekte Eures Themas, die Euch im Laufe der Recherche begegnen? Was wollt Ihr für den Moment noch nicht tiefer bearbeiten? Das könnt Ihr im Laufe dieser Woche weiterentwickeln und Euch dann entweder zum Treffen nächste Woche oder im laufenden Prozess dazu austauschen.</p>
+<p><strong>B) Feedback nehmen und geben</strong> | (ca. 20 Minuten)</p>
+<p>Nun ist auch ein guter Zeitpunkt, Euch darin zu üben, von den anderen im Circle Feedback zu Eurer Planung einzuholen, zu überlegen wie und wo das für Euch passt und auch wie Ihr den anderen eine hilfreiche Rückmeldung geben könnt. Um das zu unterstützen, könnt Ihr mit verschiedenen Methoden arbeiten, die eine gute Struktur ins Feedback bringen und Euch helfen, mehrere Dimensionen abzudecken.</p>
+<p>Eine gute Methode dazu ist zum Beispiel das Twitter-Feedback: Stellt Euren Plan im Stil einer Twitter-Nachricht vor (oder macht es gleich direkt über Twitter) und stellt ggf. auch Fragen, die Ihr an die anderen Circle-Teilnehmer*innen habt. Also max. 280 Zeichen, Hashtags, Emojis etc. und die anderen antworten, retweeten mit Kommentaren, stellen Ihrerseits Fragen und nutzen auch wieder Hashtags für die Schlüsselbegriffe. Macht mehrere Runden dazu und dann eine kleine Zusammenfassung bzw. sortiert die Re-Tweets und Hashtags anschließend in Cluster, die sehr schön die Schwerpunkte, häufig genannten Aspekte oder Ergänzungen sichtbar machen.</p>
+<p><strong>C) Ersten Themenbeitrag über soziale Medien verteilen</strong> | (ca. 20 Minuten)</p>
+<p>Wir alle leben und arbeiten in Gemeinschaften und Netzwerken. Mit dem Internet und den sozialen Medien sind sie größer, räumlich verteilter und internationaler geworden. Auch die Möglichkeiten, Beziehungen zu knüpfen, an Wissen zu kommen und es zu teilen sind damit viel reichhaltiger und vielfältiger geworden. ePortfolios leben von dieser Vernetzung und dem Austausch mit anderen – zum Beispiel über soziale Netzwerke wie LinkedIn, Xing oder Twitter. Deswegen ist auch ein wichtiger Teil eines ePortfolios, sich seine Community aufzubauen bzw. in relevanten Communities einzubringen und dann über die Kommentare und Rückmeldungen aus dem Netzwerk weiterzulernen und die eigenen Ideen weiterzuentwickeln. Ein erster Schritt in eine Themen-Community ist der Austausch über eure Themenbeiträge mit den anderen Circle-Mitgliedern in den jeweiligen sozialen Netzwerken. Ein gutes Einstiegbeispiel ins Netzwerken und den wertschätzenden Austausch ist die <a href="https://workingoutloud.com/de/fur-dich">Working out Loud-Methode</a>, deren Anwendung ebenfalls in Learning Circles erfolgen kann.</p>
+<p>Euer ePortfolio lebt und atmet also besonders durch Eure Vernetzung und den Aufbau oder Eintritt in eine Community. Bisher habt ihr Euch im Circle vor allem untereinander ausgetauscht und wenn ihr Eure ersten Beiträge bzw. Artefakte bisher noch nicht einem größeren Kreis zugänglich gemacht habt, ist jetzt ein guter Zeitpunkt dafür. Besprecht miteinander, wie Ihr jeweils vorgehen wollt und warum Ihr welchen Kanal nutzen wollt, um Euer ePortfolio weiter bekannt zu machen. Teilt im Anschluss gerne Euren ersten Themenbeitrag über soziale Medien und weitere hilfreiche Kanäle.</p>
+<p>Basic-Kata in dieser Woche (ca. 1 Stunde):</p>
+<p>Veröffentlicht erste weiterführende Themenideen oder einen ersten groben Themenplan als zweiten Beitrag im ePortfolio und recherchiert nach passenden Experten*innen oder anderen Anlaufstellen (z.B. Institutionen oder Organisationen) für Euer Thema im Netz, die sich in der Zukunft potenziell mit Euch vernetzen und austauschen könnten.</p>
+<p>Vertiefungs-Kata in dieser Woche (ca. 1 Stunde):</p>
+<p>Hinterlasst im ePortfolio der anderen jeweils einen hilfreichen Kommentar zum ersten Themenbeitrag und gebt ggf. ergänzende Tipps zu eigenen Erfahrungswerten oder Links im Netz.</p>
+<h3 data-number="4.5.2" id="woche-9---community-aufbau"><span class="header-section-number">4.5.2</span> Woche 9 - Community-Aufbau</h3>
+<p><strong>D) Aktuellen Stand zum Thema geben</strong> | (ca. 20 Minuten)</p>
+<p>Nachdem Ihr in der vergangenen Woche neue Themenideen entwickelt und mit den anderen bewertet habt, sollte über die Basic-Kata nun ein erster grober Themenplan entstanden sein, der verschiedene Teilbereiche und Facetten Eures Themeninteresses abdeckt. Stellt Euch diesen Stand im Circle kurz genauer vor und überlegt, wie Ihr Euch den beiden wichtigsten oder im Plan als nächstes anstehenden Teilbereichen am besten nähern könnt.</p>
+<p><strong>E) Feedback-Runde, wer gute Kontakte zum jeweiligen Thema kennt</strong> | (ca. 25 Minuten)</p>
+<p>Stellt Euch gegenseitig Eure ermittelten Experten und Anlaufstellen im Netz vor und stellt fest, ob der eine oder andere im Circle vielleicht sogar schon Bezugspunkte hat oder gar Kontakte vermitteln könnte, die hilfreich wären. Ermittelt zusammen, bei wem es sich am ehesten lohnen könnte dranzubleiben und erstellt eine erste gemeinsame Kontaktliste, die Ihr im Laufe der Woche angehen könnt. Ziel ist schlussendlich ein bewusstes Netzwerken und Bekanntmachen Eures ePortfolios unter dem Motto “Éinfach machen”. Traut Euch, das auszuprobieren mit den Circle-Mitgliedern, mit denen Ihr Euch gegenseitig den Rücken stärkt!</p>
+<p><strong>F) Lernreflexion zum aktuellen Stand</strong> | (ca. 15 Minuten)</p>
+<p>Reflektiert an dieser Stelle einmal gemeinsam, was ihr bisher im Circle gelernt habt, was für Euch besonders wichtig und hilfreich war, was Ihr bisher schon ganz gut umsetzen konntet, wo es noch nicht so gut klappt und an welcher Stelle Ihr noch Unterstützung (aus dem Circle) gebrauchen könnt oder Ihr bestimmte Inhalte weiter vertiefen wollt.</p>
+<p>Ausgangspunkt dafür kann zum Beispiel eine kleine Zusammenfassung der wichtigsten Learnings jedes Circle-Mitglieds sein, die Ihr auf (analoge oder digitale) Karten schreibt und dann abgleicht: Was ist gleich? Wo seid ihr unterschiedlich? An welcher Stelle haben sich kleine Häufungen ergeben? Was haben die anderen auf Karten stehen, an das Ihr selbst nicht mehr gedacht habt? Dafür könnt Ihr zum Beispiel auch die Whiteboard-App in Teams oder Standalone einsetzen.</p>
+<p>Basic-Kata in dieser Woche (ca. 1 Stunde):</p>
+<p>Schreibt Eure ermittelten Kontakte gezielt und freundlich über die Euch geeignet erscheinenden Kanäle an und verweist dabei kurz auf Euren ersten Themenbeitrag und den groben Themenplan. Greift dazu ggf. auch passende Links und Quellen auf, die Euch miteinander fachlich verbinden und die der / die Experte*in bereits umfassend oder aus Eurer Sicht kompetent aufbereitet hat.</p>
+<p>Vertiefungs-Video-Kata in dieser Woche (ca. 1 bis 2 Stunden):</p>
+<p>Erstellt eine kleine Videopodcast-Folge, in der Ihr Eure potenziellen Besucher*innen im ePortfolio begrüßt und Eure Themenideen audiovisuell beschreibt.</p>
+<h2 data-number="4.6" id="lernbereich-6---themenplan"><span class="header-section-number">4.6</span> Lernbereich 6 - Themenplan</h2>
+<p><strong>Aufbereitung eines (redaktionellen) Themenplans und Veröffentlichen weiterer (Reflexions-)Beiträge mit potenziellem Austausch (mit Bezug zum Content Curation Circle Guide - Wochen 10-11)</strong></p>
+<p><strong>Struktur:</strong></p>
+<p><em>Woche 10</em></p>
+<ul>
+<li><ol type="A">
+<li>Austausch über das bisherige Feedback der entstandenen Kontakte</li>
+</ol></li>
+<li><ol start="2" type="A">
+<li>Themenideen verfeinern und gemeinsam in einem Voting über die Relevanz abstimmen</li>
+</ol></li>
+<li><ol start="3" type="A">
+<li>Ideen für Themen gemeinsam diskutieren und in eine erste Reihenfolge bringen</li>
+</ol></li>
+</ul>
+<p><em>Woche 11</em></p>
+<ul>
+<li><ol start="4" type="A">
+<li>Vorstellen des bisherigen überarbeiteten Themenplans</li>
+</ol></li>
+<li><ol start="5" type="A">
+<li>Feedback nehmen und geben</li>
+</ol></li>
+<li><ol start="6" type="A">
+<li>Community-Austausch fördern</li>
+</ol></li>
+</ul>
+<figure>
+<img src="./images/image15.jpeg" alt="Sketchnote Editorial plan and growing community feedback from Katrin @kleinerw4hnsinn (CC BY)" /><figcaption aria-hidden="true">Sketchnote Editorial plan and growing community feedback from Katrin <a href="https://twitter.com/kleinerw4hnsinn"><span class="citation" data-cites="kleinerw4hnsinn">@kleinerw4hnsinn</span></a> (CC BY)</figcaption>
+</figure>
+<h3 data-number="4.6.1" id="woche-10---themensammlung"><span class="header-section-number">4.6.1</span> Woche 10 - Themensammlung</h3>
+<p><strong>A) Austausch über das bisherige Feedback der entstandenen Kontakte</strong> | (ca. 20 Minuten)</p>
+<p>Ihr habt in den letzten beiden Wochen Experten / Kontakte für Euer Thema ermittelt und kontaktiert. Was habt Ihr gelernt? Wie viel Rückmeldungen habt Ihr bekommen? Habt Ihr neue Erkenntnisse gewonnen? Reflektiert in der Gruppe und stellt Euch gegenseitig Fragen, um Euer Thema so tief und umfassend wie möglich zu durchdringen. Ihr könnt dafür folgende Aspekte zur Strukturierung Eures Austauschs nutzen:</p>
+<ul>
+<li>Meine drei Top-Experten und ihre Kernaspekte</li>
+<li>Aufzählung der wichtigsten Teilaspekte für mein Thema</li>
+<li>Dieses Wissen fehlt mir (noch)</li>
+</ul>
+<p><strong>B) Themenideen verfeinern und gemeinsam in einem Voting über die Relevanz abstimmen</strong> | (ca. 20 Minuten)</p>
+<p>Schaut zusammen über die ermittelten Themenideen der vergangenen Wochen. Vergebt Euch gegenseitig Stimmen, welcher Teilbereich oder welche Facette am relevantesten ist und daher zuerst oder bewusst an späterer Stelle angegangen werden sollte. Pro Themenidee kann dabei jedes Circle-Mitglied bis zu 3 Punkte vergeben.</p>
+<p><strong>C) Ideen für Themen gemeinsam diskutieren und in eine erste Reihenfolge bringen</strong> | (ca. 20 Minuten))</p>
+<p>Anhand der Stimmenvergabe könnt Ihr Euch gegenseitig begründen, warum Ihr für bestimmte Themen besonders viele, wenige oder gar keine Punkte vergeben habt. Aus dieser weiterführenden Themendiskussion kann jeder von Euch für seine Themen nun wertvolle Erkenntnisse und Schlüsse über die zeitliche und fachliche Einordnung in den Plan ziehen.</p>
+<p>Basic-Kata für diese Woche (ca. 1 Stunde):</p>
+<p>Verfeinert die Themen aus dem Circle und erstellt für die kommende Woche eine überdachte Reihenfolge als (redaktionellen) Plan. Beginnt mit einer ersten Recherche und Ausarbeitung für das aus Eurer Sicht nächste anstehende Thema.</p>
+<p>Vertiefungs-Kata für diese Woche (ca. 1 Stunde):</p>
+<p>Überlegt Euch Fragestellungen, die Ihr im Rahmen Eurer Themenbeiträge an die Community Eures ePortfolios stellen könntet und entwickelt weiterführende Umsetzungsideen für Inhalte Eurer zukünftigen Beiträge (z.B. für Texte, Infografiken oder Kurzvideos).</p>
+<h3 data-number="4.6.2" id="week-11---austausch-fördern"><span class="header-section-number">4.6.2</span> Week 11 - Austausch fördern</h3>
+<p><strong>D) Vorstellen des bisherigen überarbeiteten Themenplans</strong> | (ca. 25 Minuten)</p>
+<p>Auf der Basis der vergangenen Woche stellt Ihr Euch im Circle reihum nun Eure Themenpläne gegenseitig vor und beschreibt auch die Grundüberlegungen für die Reihenfolge und verschiedenen Facetten genauer. Ggf. können sogar gemeinsame Themenpläne entstehen. Geht auch darauf ein, inwiefern das Circle-Ranking anhand der Stimmenvergabe letztlich mit eingeflossen ist oder warum Ihr Euch ggf. bewusst dagegen entschieden habt.</p>
+<p><strong>E) Feedback nehmen und geben</strong> | (ca. 15 Minuten)</p>
+<p>Während oder direkt nach der gegenseitigen Vorstellung der jeweiligen Themenpläne, gebt Euch untereinander finale Rückmeldungen oder ergänzende Tipps zu den verschiedenen Themen. So könnt Ihr sicherstellen, dass Euer Vorgehen und Eure Planung auch aus den Augen potenzieller Besucher Eures ePortfolios als sinnvoll und motivierend wahrgenommen wird.</p>
+<p><strong>F) Community-Austausch fördern</strong> | (ca. 20 Minuten)</p>
+<p>Macht Euch schließlich gemeinsam Gedanken darüber, welche Fragestellungen Ihr als Teil der Themenbeiträge an Eure Community richten könntet, um den Austausch und die Weiterentwicklung Eures Themas zu fördern. Gleichzeitig könnt Ihr auch Ideen für mögliche Maßnahmen oder begleitende Aktionen entwickeln, die ein Community-Feedback unterstützen.</p>
+<p>Basic-Kata für diese Woche (ca. 1 Stunde):</p>
+<p>Erstellt Euren vorläufig finalisierten Redaktionsplan für Eure Themen der kommenden Monate. Natürlich kann dieser jederzeit angepasst werden, wenn sich Prioritäten für ein bestimmtes Thema verschieben, aber dieser soll Euch als wichtige Richtschnur helfen und Orientierung bieten. Veröffentlicht diesen Plan oder bereits einen zweiten Themenbeitrag mit Fragen an Eure Community, wenn Ihr möchtet.</p>
+<p>Vertiefungs-Video-Kata für diese Woche (ca. 1 bis 2 Stunden):</p>
+<p>Erstellt eine kleine Video-Podcast-Episode, in dem Ihr Euren Themenplan kurz vorstellt und auf Besonderheiten / Highlights eingeht und veröffentlicht ihn in Eurem ePortfolio.</p>
+<h2 data-number="4.7" id="learning-area-7---feedback-lessons-learned"><span class="header-section-number">4.7</span> Learning area 7 - Feedback / Lessons learned</h2>
+<p><strong>Fördern des Feedbacks und Austausch über die Themen im ePortfolio sowie Lessons learned (Woche 12</strong></p>
+<p>Struktur:</p>
+<p><em>Abschlusswoche 12</em></p>
+<ul>
+<li><ol type="A">
+<li>Brief instructions for feedback motivation and reflection</li>
+</ol></li>
+<li><ol start="2" type="A">
+<li>Continued exchange of topics and collecting ideas for community expansion</li>
+</ol></li>
+</ul>
+<ol start="3" type="A">
+<li>Lessons learned: discuss successes and challenges as well as possible next steps</li>
+</ol>
+<figure>
+<img src="./images/image16.jpeg" alt="Sketchnote The successfully established ePortfolio from Katrin @kleinerw4hnsinn (CC BY)" /><figcaption aria-hidden="true">Sketchnote The successfully established ePortfolio from Katrin <a href="https://twitter.com/kleinerw4hnsinn"><span class="citation" data-cites="kleinerw4hnsinn">@kleinerw4hnsinn</span></a> (CC BY)</figcaption>
+</figure>
+<h3 data-number="4.7.1" id="week-12---retrospektive"><span class="header-section-number">4.7.1</span> Week 12 - Retrospektive</h3>
+<p><strong>Abschlusswoche 12</strong></p>
+<p><strong>A) Kurz-Anleitung zur Feedbackmotivation und Reflexion</strong> | (ca. 20 Minuten</p>
+<p>Heute startet Ihr in Eure Abschlusswoche - dazu macht als erstes einen kleinen Perspektivwechsel: Versucht Euch kurz in die Lage eines Eurer Circle-Mitglieder*innen zu versetzen und überlegt Euch aus seiner/ihrer Sicht, warum Ihr auf sein/ihr ePortfolio schauen solltet. Welche Inhalte würdet Ihr besonders herausstellen, welchen Mehrwert für Leser*innen betonen, vielleicht auch, wo seht Ihr Anknüpfungspunkte zu anderen ePortfolios aus Eurer Runde? Welche Inhalte, Beiträge oder Diskussionen regen dazu an, ein Feedback im ePortfolio zu hinterlassen? Tauscht Euch dazu untereinander aus und haltet entstandene, hilfreiche Argumente gegenseitig fest.</p>
+<p><strong>B) Weiterführender Themenaustausch und Ideensammlung für Community-Ausbau</strong> | (ca. 15 Minuten)</p>
+<p>Nehmt Euch zum Abschluss noch etwas Zeit dafür, Ideen oder sogar Themen zu sammeln, die für die weitere Vernetzung innerhalb und außerhalb Eurer entstandenen Community zum ePortfolio besonders hilfreich sein könnten. Haltet sie für Euch gemeinsam fest, um später daran wieder ansetzen zu können, denn Euer ePortfolio soll und darf natürlich gerne weitergeführt werden. Das bestärkt letztlich auch ein gutes Gefühl, wenn Ihr heute vom Circle auseinandergeht.</p>
+<p><strong>C) Lessons learned: Erfolge und Herausforderungen thematisieren sowie ggf. nächste Schritte</strong> | (ca. 25 Minuten)</p>
+<p>Nun ist es als soweit. Die letzte Circle-Runde neigt sich nach 12 Wochen dem Ende und es wird Zeit, diese Wochen noch einmal Revue passieren zu lassen. Tauscht Euch gerne abschließend darüber aus, was für Euch die größten Erkenntnisse, Überraschungen oder Herausforderungen beim Führen Eures ePortfolios und dem gemeinsamen Austausch mit den anderen waren.</p>
+<p>Nun ist es als soweit. DieDie folgenden Fragestellungen können dazu als Orientierungshilfe dienen:</p>
+<p>Was nehmt Ihr als entscheidende Erfahrungswerte / Highlights aus den letzten Wochen mit?</p>
+<p>Was waren die wichtigsten Meilensteine / Entwicklungsschritte für Euch?</p>
+<p>Was ist vielleicht noch zu kurz gekommen im Circle oder beim Erstellen des ePortfolios?</p>
+<p>Welche Pläne habt Ihr für Euer ePortfolio und was wollt Ihr damit als nächstes erreichen?</p>
+<p>Welche Aktivitäten oder Voraussetzungen könnte es ggf. zukünftig geben, um Eure ePortfolios untereinander zu vernetzen oder fachlich sogar gemeinsam weiterzuführen?</p>
+<p>Basic-Kata zum Abschluss (ca. 1 Stunde):</p>
+<p>Der finale Pitch: Versuche Deine ePortfolio-Elemente und -Inhalte bis hierhin in maximal 3 Minuten vorzustellen. Versuche wichtige Portfolio-Merkmale herauszuarbeiten, die für den Anwender relevant sind und Themen-Highlights zu beschreiben, die Du besonders findest. Nutze das Ergebnis für die Vermarktung Deines e-Portfolios (z.B. als Kurzvideo, Infografik oder Textbeitrag).</p>
+<p>Vertiefungs-Video-Kata zum Abschluss (ca. 1 Stunde):</p>
+<p>Erstellt eine Video-Podcast-Folge: “Ein Brief an mich selbst”. Diese dient als Rückblick (= Retrospektive) für den gesamten Circle: Was und wie habe ich in den letzten Wochen gelernt und was nehme ich mir als nächstes vor? Wie bin ich insgesamt bei meinem Thema vorangekommen? Und weiter gedacht: Wie sieht meine Arbeit am Thema in der Zukunft mit dem ePortfolio aus?</p>
+<p>Großartig, Ihr habt es geschafft und den Lernpfad erfolgreich absolviert! Wir hoffen, dass Ihr die ePortfolio Learning-Methode auf diese Weise sehr gut kennen lernen konntet, schätzen gelernt habt und Eure ePortfolios auch in Zukunft weiterführen werdet. Wir wünschen dabei viel Freude und Erfolg!</p>
+<p><strong>Letzte kleine “Zusatzaufgabe” - Euren Erfolg feiern!</strong></p>
+<p>Idealerweise trefft Ihr Euch im Circle zu gegebener Zeit zu einem gemeinsamen kleinen Event, z.B. ein Abendessen oder Ähnliches und feiert das Erreichte. Ihr habt eine lange Zeit zusammen verbracht und gemeinsam recherchiert, Inhalte erstellt und diskutiert. Ihr habt ein Vertrauensverhältnis zueinander aufgebaut, das noch weit wertvoller sein kann, als die individuelle oder gemeinsame Arbeit am ePortfolio und von dem Ihr mit Sicherheit profitieren werdet.</p>
+<p>Herta, Marcel und Stefan freuen sich außerdem auf Euer Feedback – denn wir wollen den ePortfolio Learning-Guide stetig weiter entwickeln und verbessern.</p>
+<p>Vielen Dank dafür schon jetzt!</p>
+<h1 data-number="5" id="lessons-learned"><span class="header-section-number">5</span> Lessons learned</h1>
+<p>Hier kannst Du <strong>Deine Erfahrungswerte</strong> als gesonderten Reflexionsbereich im Laufe der 12 Wochen des Learning Circles festhalten:</p>
+<p>Was waren <strong>unsere Erfahrungswerte</strong> bei der Erstellung des Circle Guides - kurz und knapp:</p>
+<ol type="1">
+<li><p>Einen langen Atem und Geduld bei der Erstellung mitbringen</p></li>
+<li><p>Schrittweise die Inhalte aus den Wochen und Katas zusammentragen, nach Möglichkeit im Verbund eines Lernbereichs oder zumindest einer Leitfaden-Woche mit Übungen</p></li>
+<li><p>Roten Faden und Übergang zwischen Übungen und Folgewochen beachten und Lücken schließen</p></li>
+<li><p>Nicht zuviel auf einmal in eine Wochensession pressen – weniger ist mehr!</p></li>
+<li><p>Katas bewusst als Lernangebote formulieren, welche die Motivation fördern</p></li>
+</ol>
+<h1 data-number="6" id="anhang"><span class="header-section-number">6</span> Anhang</h1>
+<h2 data-number="6.1" id="links"><span class="header-section-number">6.1</span> Links</h2>
+<ul>
+<li>Basis-Quellen siehe im Grundlagen-Kapitel</li>
+<li>E-Portfolio bei Wikipedia: <a href="https://en.wikipedia.org/wiki/Electronic_portfolio" class="uri">https://en.wikipedia.org/wiki/Electronic_portfolio</a></li>
+<li>E-Portfolio bei e-teaching.org: <a href="https://www.e-teaching.org/lehrszenarien/pruefung/pruefungsform/eportfolio" class="uri">https://www.e-teaching.org/lehrszenarien/pruefung/pruefungsform/eportfolio</a> (German language only)</li>
+<li>Veröffentlichte Dissertation von Marcel im Januar 2015: &lt;http://www.vwh-verlag.de/vwh/?p=958(German language only)</li>
+</ul>
+<h2 data-number="6.2" id="danksagung"><span class="header-section-number">6.2</span> Danksagung</h2>
+<p>Während des Entstehungsprozess dieses Circle Guides gab es einige treue Wegbegleiter*innen, die uns immer wieder mit Rat und Tat zur Seite standen.</p>
+<p>Daher möchten wir uns bei all diesen hier noch einmal ganz herzlich bedanken:</p>
+<ol type="1">
+<li><p>bei den Mitgliedern*-innen des initialen lernOS Circles, aus dem dieser Leitfaden entstanden ist für den intensiven, produktiven und offenen Austausch – also bei Alfred, Helmut, Herta, Judith, Marcel und Stefan,</p></li>
+<li><p>bei unserer Sketchnoterin Katrin für die tolle Bereicherung dieses Leitfadens durch Ihre Illustrationen und ihr ehrenamtliches Engagement,</p></li>
+<li><p>bei Simon für die lernOS-Idee, die aus seiner Feder stammt und die Begleitung und das Feedback in technischen und organisatorischen Fragen,</p></li>
+<li><p>bei der #krasseherde bzw. der Corporate Learning- und lernOS-Community für die tollen, wertvollen Peer-Reviews zur Verfeinerung des Leitfadens,</p></li>
+<li><p>und natürlich bei unseren Partnern und Familien für die rücksichtsvolle Unterstützung dieser zum größten Teil freiwilligen / ehrenamtlichen Tätigkeit neben der täglichen Arbeit!</p></li>
+</ol>
+<h2 data-number="6.3" id="änderungshistorie"><span class="header-section-number">6.3</span> Änderungshistorie</h2>
+<p>Version 0.1 28.11.2019 Nach Ende des lernOS OKR-Circles und erster Weiterführung mit Herta und Stefan</p>
+<p>Version 0.3 06.01.2020 Nach Weiterführung ohne Treffen über den Jahreswechsel und erstem Start-Treffen 2020</p>
+<p>Version 0.4 20.03.2020 Zur Vorstellung des Zwischenstands beim Corporate Learning Camp digital #clcdigital20</p>
+<p>Version 0.5 29.04.2020 Zur Vorstellung des Zwischenstands beim clc30-Regionaltreffen im Barcamp-Teil des MOOCamp 2020</p>
+<p>Version 0.6 31.05.2020 Lernpfad-Inhalte weitestgehend fertig und zum internen Review bereitgestellt</p>
+<p>Version 0.8 11.06.2020 Lernpfad-Inhalte finalisiert und für Veröffentlichung vorbereitet</p>
+<p>Version 0.9 23.06.2020 Vervollständigung des Leitfadens und Einreichung als Session beim lernOS All Stars Camp</p>
+<p>Version 1.0 17.10.2020 Finalisierung des Leitfadens inkl. einer detaillierten Überarbeitung sowie Übersetzung ins Englische</p>
+</body>
+</html>
