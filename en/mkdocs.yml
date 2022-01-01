@@ -57,10 +57,10 @@ extra:
        provider: custom
     alternate:
       - name: English
-        link: lernos-eportfolio/en/
+        link: ../en/
         lang: en
-      - name: Deutsch
-        link: lernos-eportfolio/de/
+      - name: German
+        link: ../de/
         lang: de
 
 markdown_extensions:

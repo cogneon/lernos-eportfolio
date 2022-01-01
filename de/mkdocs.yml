@@ -56,11 +56,11 @@ extra:
     analytics:
        provider: custom
     alternate:
-      - name: English
-        link: lernos-eportfolio/en/
+      - name: Englisch
+        link: ../en/
         lang: en
       - name: Deutsch
-        link: lernos-eportfolio/de/
+        link: ../de/
         lang: de
 
 markdown_extensions:
