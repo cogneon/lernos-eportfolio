@@ -57,11 +57,8 @@ extra:
        provider: custom
     alternate:
       - name: Englisch
-        link: ../en/
+        link: https://cogneon.github.io/lernos-eportfolio/de
         lang: en
-      - name: Deutsch
-        link: ../de/
-        lang: de
 
 markdown_extensions:
   - pymdownx.superfences:

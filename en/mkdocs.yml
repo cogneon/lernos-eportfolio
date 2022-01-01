@@ -56,11 +56,8 @@ extra:
     analytics:
        provider: custom
     alternate:
-      - name: English
-        link: ../en/
-        lang: en
       - name: German
-        link: ../de/
+        link: https://cogneon.github.io/lernos-eportfolio/de
         lang: de
 
 markdown_extensions:
