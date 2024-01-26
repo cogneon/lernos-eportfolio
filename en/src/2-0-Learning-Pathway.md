@@ -25,5 +25,6 @@
 **In the next weeks you will be concerned with the following learning areas (Attention: please look at the following overview from bottom to top):**
 
 ![Visualisations as sketchnotes from Katrin Mäntele - on Twitter [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)](./images/image7.jpeg)
+Visualisations as sketchnotes from Katrin Mäntele [@kleinerw4hnsinn](https://twitter.com/kleinerw4hnsinn) (CC BY)
 
 And here we go directly with Learning area 1!
